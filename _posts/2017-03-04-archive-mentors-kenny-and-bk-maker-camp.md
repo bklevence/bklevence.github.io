@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Archive: Mentors Kenny and BK @ Maker Camp!
+title: "Archive: Mentors Kenny and BK @ Maker Camp!"
 date: 2017-03-04 22:14
 author: bklevence
 comments: true
