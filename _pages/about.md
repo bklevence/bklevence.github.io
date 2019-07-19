@@ -12,12 +12,12 @@ toc_sticky: true
 ## TL;DR
 
 - I maintain a variety of CNC machines for both work and play.
-- I love working with people in fabrication shop settings.
-- I have successfully operated student run web shops.
-- I am currently in grad school and getting my standard teaching cert.
-- I just recently got my Amateur Radio License, KD2RGZ.
-- I have a one-eyed dog named Xena.
+- All about working with people in fabrication shop settings.
+- Current graduate student.
+- Amateur Radio Handle: KD2RGZ
+- Human for a winking dog named Xena.
 - Dislocated Philadelphian as of 2017.
+- Homebrewer and former Web Store Operator.
 
 
 ## Work Experience
