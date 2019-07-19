@@ -33,11 +33,11 @@ Teacher of Technology and Engineering with various courses such as Freshman Engi
 Manager of highschool wood, metal, printing, and digital fabrication shops from 2016-2018. Mentor of a student led afterschool design and fabrication business, FTC robotics club, as well as coding club and special elective. Acting I.T. network admin for a chromebook fleet, Windows and Apple labs, and loaner technology for a school of 300 students. Automated Google user management through GAM, streamlined deployment methods for students to take school benchmark and state mandated testing via chromebooks, as well as built simple webapps with students to manage technology hardware lending and use. Assisted in doubling student online and in person net sales to $16,000 and coached student team through multiple press events both for print and live tv media.  
 
 ### UArts
-#### Pre-College Program
+***Pre-College Program***
 
 Taught summer and fall semester classes on toy design, electronics, product design, and digital fabrication from 2015-2018.
 
-#### Industrial Design Shop
+***Industrial Design Shop***
 
 Acted as seasonal assistant manager focused on maintaining digital fabrication resources. Focused on training employees and students with wood, metal, and digital tools. Acted as a Teacher's Assistant and facilitator for classes ranging from graduate level prototyping classes, introductory workshop courses, and prospective student design workshops. Designed, coded, and implemented digital file submission forms, digital file processing systems, and websites for the shop.
 
@@ -49,7 +49,7 @@ Led design, engineering, and tech classes for 9th-11th grades at S.T.H.S. Vine S
 
 Co-founded adult and youth maker programs "The Maker Jawn Initiative" in 10 branches of the Free Library of Philadelphia, held workshops of various sizes, guided staff development trainings, wrote proposals for grants, developed curriculum, did outreach, and presented work nationally. Focused on the place of digital badges, open hardware, prototyping interactive electronic artwork, and creating makerspaces in libraries.
 
-### YOUmedia / National Writing Project
+### National Writing Project
 
 Participated in a series of workshops as part of a 2015 task-force to brainstorm, synthesize, and design the hallmarks and best practices of digital media labs and makerspaces in the YOUmedia Learning Labs network.
 
