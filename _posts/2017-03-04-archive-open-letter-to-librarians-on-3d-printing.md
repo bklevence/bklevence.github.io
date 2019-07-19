@@ -1,0 +1,26 @@
+---
+layout: post
+title: Archive: Open Letter to Librarians on 3D Printing
+date: 2017-03-04 22:11
+author: bklevence
+comments: true
+categories: [3D Printing, Archive, Maker Jawn]
+---
+<blockquote>Originally posted April 10, 2015 on the <a href="http://makerjawn.org/blog/2015/04/10/open-letter-to-librarians-on-3d-printing/">Maker Jawn Blog</a>:</blockquote>
+<img class="aligncenter size-full wp-image-282" src="http://mrklevence.files.wordpress.com/2017/03/capture.png" alt="" width="999" height="649" />
+
+The other day I sat down with <a href="https://twitter.com/chadsansing">Chad Sansing</a> via the internets to share some ideas about 3D Printers in libraries for <a href="http://www.slj.com/">School Library Journal</a>.
+
+Chad prompted me with the question: How can a librarian get ready for a 3D printer and purposefully design inviting, accessible projects. I felt my response would be a decent resource for those who read our blog, this is my response:
+<blockquote>Look towards <a href="http://www.uarts.edu/academics/design/industrial-design">designers</a> and <a href="https://tyler.temple.edu/programs/metals-jewelry-cad-cam">artists</a> in school and learn from them. Many are willing to geek out and share the skills they’re learning and using. In order to make sure that a 3D printer has a smooth implementation having work-study students can be a key to success, but in the long term librarians and employees alike need to invest in learning the tools and <a href="https://www.youtube.com/watch?v=03Ju_LJlU3U">software</a>.
+
+What I’ve also seen in different spaces is a crunch when material costs can no longer be subsidized. Seeing this we have been printing objects that are either tools for use in our after school programs or daytime adult workshops. We have limited the amount of “widget” printing and kept a strict adherence to functional items. Examples of widgets are the articulated limb <a href="https://www.thingiverse.com/thing:331035" target="_blank">Maker Robot toy</a> or <a href="https://www.youtube.com/watch?v=28qpXBLZHqk" target="_blank">chess pieces</a> that are packaged with different printers for testing. If you frequently print these example pieces in long term you will end up with folks that are evangelizing the hardware with limited examples of personal work using it. Printing things is really cool, but at the end of the day you want people making, not downloading something and staring at it like it’s a television. A functional item for us is any item that can be used in a program. Realistically it’d be a tool: a <a href="https://www.thingiverse.com/thing:16260" target="_blank">tablet stand</a>,<a href="http://www.shapeways.com/product/BXGQ349CP/t-rex"> a cookie cutter</a>, or a prop to be used in a stop-motion animation. This allows us to actively use what we produce and in the case of the cookie cutter it allows us to lend the objects out. We have a Grandmother who designs a new cookie cutter for her Grandson’s breakfast pancakes each week, she’s currently testing out a<a href="https://www.thingiverse.com/thing:749605" target="_blank"> T-Rex cutter</a>. In the end we still do print a widget now and then, but they never collect dust on a shelf, an example is an <a href="https://www.thingiverse.com/thing:257911" target="_blank">articulated elephant</a> for passing around at Animal Rights after school programs.
+
+Looking back at what we’ve done I’d tell folks to start now with 3D modeling. Before unveiling a printer, tinker around with hopeless abandon in <a href="https://www.tinkercad.com/">TinkerCAD</a> or <a href="http://www.123dapp.com/design">123D Design</a> and make some wild designs never to be printed(take a look at NYSCI’s workshops). Play with the tools and grow a community around that play! Then reign in that play and measure the world, get some rulers and calipers, model it, and begin printing things that are relevant to patrons and the library. It’s still an uphill battle and finding and adapting tools such as <a href="http://www.local-guru.net/blog/pages/cookiecutter-editor" target="_blank">Nikolaus Gradwohl’s CookieCutter-Editor</a> have been super helpful to engage those who are less spatially aware and not so tech savvy.
+
+3D Printers are great, but be sure to work out the infrastructure to implement it, gauge and take into account the variety of patron interests(from Naruto to baking), and print in a sustainable fashion by printing things for the library first. Measure twice and cut once by playing around on the modeling [software] side of things!</blockquote>
+Currently at a couple of our branches we’re working on creating cookie cutters to lend out and we’re kicking around the idea for a couple math/literacy based activities that bring the 3D Printer into the mix, more to come on that! I also look forward to the upcoming SLJ article!
+
+<img class="aligncenter size-full wp-image-283" src="http://mrklevence.files.wordpress.com/2017/03/capture2.png" alt="" width="595" height="257" />
+
+Note: We currently have a <a href="http://www.ff3dp.com/">FlashForge Creator</a> which is a Makerbot Replicator derivative and a <a href="http://reprap.org/wiki/Prusa_i3">Prusa i3 RepRap</a> which was built by Ryan Barnes at the Kensington Neighborhood Library, but is currently being repaired/enclosed because some wires were tinkered with.
