@@ -7,13 +7,6 @@ toc: true
 toc_sticky: true
 ---
 
-Currently a High School Technology and Engineering Instructor in Northern New Jersey. Formerly a shop supervisor, small business operator, and makerspace enthusiast.
-
-I have a variety of hobbies that range from digital fabrication machines to brewing and I love fixing things.
-
-Born and lived in Philadelphia, Pa until 2017.
-
-
 
 
 ## TL;DR
@@ -23,6 +16,8 @@ Born and lived in Philadelphia, Pa until 2017.
 - I am currently in grad school and working on getting my full Technology Teaching Certification in NJ.
 - I just recently got my Amateur Radio License, KD2RGZ.
 - I have a one-eyed dog named Xena.
+- Dislocated Philadelphian as of 2017.
+
 
 ## Work Experience
 
