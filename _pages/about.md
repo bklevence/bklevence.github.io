@@ -65,9 +65,11 @@ Focused on making the Intel Galileo Arduino accessible to youth with visual prog
 
 ### Internships
 **The Franklin Institute**
+
 Team prototyper and fabricator for Pocket Tech, a cart-based activity series to demystify the components that make up a smart phone.
 
 **The University of Pennsylvania GSE**
+
  Facilitated E-Crafting Circles workshops at both locations and at the Free Library. Worked as part of a team to design, prototype, and implement Connected Messages.
 
 ### Apple Store Walnut St.
@@ -93,33 +95,43 @@ Training led by the Maker Education Initiative, Summer 2013.
 
 ### Speaking & Workshops:
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
-- [Unsplash](https://unsplash.com/)
+- ISTE Creativity Playground, ISTE ‘15
+- Noisebridge Panel and Workshop, ALA ‘15
+- oneKey Make & Take, DML‘15
+- Teaching People How to Fail, TCLC and PaLA ‘14
+- Teaching People How to Fail, NEXT Library Conference ‘14
+- Making Hardware in a Public Space, HASTAC Scholars ‘14
+- Scratch Day ‘13 and ‘14
+- Exhibitor and Panelist, MakerFaire NYC ‘13
+- Joystick Design Workshop, Spells Writing Lab ‘13
+- Arduino for Disabilities, Liberty Resources ‘12
 
 ### Lectures:
 
-- [Jekyll](http://jekyllrb.com/)
-- [jQuery](http://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](http://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Stickyfill](https://github.com/wilddeer/stickyfill)
+- Badging 101, YOUmedia Learning Labs Community
+- Open Badges Community Project Call, Mozilla Open Badges
+- Project Advisor and Guest Lecturer, The College of New Jersey IMM280 ‘15, - Ewing, NJ.
+- Teaching Artist, String Theory High Schools, 2015-2016
+- Guest Critic and Tech Advisor, University of the Arts Design Charette Fall ‘14, Philadelphia, PA.
+- Teaching Artist, The Village of Arts and Humanities, Summer 2014
+- Guest Speaker, Carreras Profesionales en Ingeniería y Tecnología, Lima, Peru. April ‘14
 
 ### Articles & Press:
 
-- [Jekyll](http://jekyllrb.com/)
-- [jQuery](http://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](http://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Stickyfill](https://github.com/wilddeer/stickyfill)
+- Klevence, Brandon. “Make Your Own.” Library Tech, School Library Journal, 25 Nov. 2015, tech.libraryjournal.com/?id=Make-Your-Own.
+
+- “Philly High School Students Are Selling 'Jawnaments' for Christmas.” PhillyVoice, PhillyVoice, 6 Dec. 2017, www.phillyvoice.com/philly-high-school-students-are-selling-jawnaments-christmas/.
+- “'Jawnaments' Top Selling Item For West Philly High School Entrepreneurial Club.” CBS Philly, CBS Philly, 5 Dec. 2017, philadelphia.cbslocal.com/2017/12/05/jawnaments-west-philly-school/.
+- WTXF. “The Workshop School Makes Christmas Jawnaments.” WTXF, www.fox29.com/good-day/298888047-video.
+- Sansing, Chad. “3-D Printing: Worth the Hype? | The Maker Issue.” School Library Journal, 4 May 2015, www.slj.com/?detailStory=3-d-printing-worth-the-hype-the-maker-issue.
+- “Crafty Students Show Off New Tech Skills At Free Library Of Philadelphia.” CBS Philly, CBS Philly, 17 Aug. 2013, philadelphia.cbslocal.com/2013/08/17/crafty-students-show-off-new-tech-skills-at-free-library-of-philadelphia/.
+
+### Awards
+
+- Student Employee of the Year 2014, University of the Arts, Philadelphia, PA.
+- Most Likely Found Under A Table Fixing a Cable, Apple Walnut St, Philadelphia, PA.
+- Silver Metal For Fine Arts 2009, St. Joseph’s Prep, Philadelphia, PA.
+
 
 ---
 
