@@ -32,6 +32,65 @@ Teacher of Technology and Engineering with various courses such as Freshman Engi
 
 Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
 
+### UArts
+#### Pre-College Program
+
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+
+#### Industrial Design Shop
+
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+
+### String Theory Schools
+
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+
+### The Free Library of Philadelphia
+
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+
+### YOUmedia / National Writing Project
+
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+
+### MakerED Intel Explorers Program
+
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+
+### The Franklin Institute and University of Pennsylvania GSE
+
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+
+### The Village of Arts and Humanities
+
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+
+### Apple Store Walnut St.
+
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+
+## Education
+
+### New Jersey City University
+
+Currently enrolled in the New Pathways to Teaching in NJ Masters in Secondary Education Program. Expected Completion Summer 2020.
+
+### The University of the Arts
+
+B.S. Industrial Design, Class of 2014.
+Student Employee of the Year 2014.
+
+### HASTAC Scholar
+
+HASTAC Scholar during the 2013-2014 academic year.
+
+### Maker Corps Mentorship Program
+
+Training led by the Maker Education Initiative, Summer 2013.
+
+
+
+
 ---
 
 ## Engagements and ETC
