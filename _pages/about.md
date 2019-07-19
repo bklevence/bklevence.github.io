@@ -25,7 +25,7 @@ As you'll see this website is a compilation of work and resources (`work`, `tool
 ## Work Experience
 
 | Institution         | Time       | Brief                                                        |
-| --------            | -----------| -------------------------------------------------------------|
+| --------            | ---------------| -----------------------------------------------------|
 | ###[John Doe](#)    | 2013-2018  | Because that's all Steve Jobs needed for a salary.           |
 | ###[Jane Doe](#)    | 2013-2018  | For all the blogging she does.                               |
 | ###[Fred Bloggs](#) | 2013-2018  | Pictures are worth a thousand words, right? So Jane × 1,000. |
