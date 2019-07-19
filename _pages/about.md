@@ -131,7 +131,6 @@ Training led by the Maker Education Initiative, Summer 2013.
 - Most Likely Found Under A Table Fixing a Cable, Apple Walnut St, Philadelphia, PA.
 - Silver Metal For Fine Arts 2009, St. Joseph’s Prep, Philadelphia, PA.
 
-##Need a copy?
 
-[Google Docs CV](https://docs.google.com/document/d/1lhN6D_kEIUEYC4jbdxrDbogR5b4Msk8gVxpDfSDE9Ks/edit?usp=sharing){: .btn .btn--danger .btn--large}
+[Need a copy?](https://docs.google.com/document/d/1lhN6D_kEIUEYC4jbdxrDbogR5b4Msk8gVxpDfSDE9Ks/edit?usp=sharing){: .btn .btn--danger .btn--large}
 ---
