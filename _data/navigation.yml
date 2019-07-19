@@ -6,10 +6,15 @@ main:
     url: /about:blank
   - title: "Work"
     url: /portfolio
-  - title: "Homebrew"
-    url: /recipes-archive/
+  - title: "Places"
   - title: "Blog"
     url: /year-archive/
+    url: /places/
+  - title: "Recipes"
+    url: /recipes-archive/
+  - title: "Tools"
+    url: /about:blank
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
