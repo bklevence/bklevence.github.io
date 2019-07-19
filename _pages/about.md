@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About Me"
+title: "CV"
 excerpt: "About me, cv, etc."
 modified: 2016-04-18T16:39:37-04:00
 toc: true
