@@ -325,3 +325,11 @@ defaults:
       layout: single
       author_profile: false
       share: true
+  # _tools
+  - scope:
+      path: ""
+      type: tools
+    values:
+      layout: single
+      author_profile: true
+      share: true
