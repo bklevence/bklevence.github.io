@@ -1,31 +1,19 @@
 ---
 permalink: /about/
-title: "About"
-excerpt: "Minimal Mistakes is a flexible two-column Jekyll theme."
-layouts_gallery:
-  - url: mm-layout-splash.png
-    image_path: mm-layout-splash.png
-    alt: "splash layout example"
-  - url: mm-layout-single-meta.png
-    image_path: mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: mm-layout-archive.png
-    image_path: mm-layout-archive.png
-    alt: "archive layout example"
+title: "About Me"
+excerpt: "About me, cv, etc."
 modified: 2016-04-18T16:39:37-04:00
 toc: true
 toc_sticky: true
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+Currently a High School Technology and Engineering Instructor in Northern New Jersey. Formerly a shop supervisor, small business operator, and makerspace enthusiast. Born and lived in Philadelphia, Pa until 2017. :cool:.
 
-The theme includes responsive layouts (`single`, `archive`, and `splash` pages) that look great on mobile and desktop browsers.
+As you'll see this website is a compilation of work and resources (`work`, `tools`, and `recipes` pages) reachout if you have any questions!
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
 
-[Install the Theme]({{ base_path }}/docs/quick-start-guide/){: .btn .btn--success .btn--large}
 
-## Notable Features
+## Notable Accomplishments
 
 - Compatible with Jekyll 3.x and GitHub Pages
 - Several layout options (single, archive, splash pages)
@@ -34,9 +22,9 @@ The theme includes responsive layouts (`single`, `archive`, and `splash` pages) 
 - Optional comments ([Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, and custom)
 - Optional analytics ([Google Analytics](https://www.google.com/analytics/) and custom)
 
-## Demo Pages
+## Education
 
-| Name                                        | Description                                           |
+| Institution                                        | Degree                                           |
 | ------------------------------------------- | ----------------------------------------------------- |
 | [Post with Header Image][header-image-post] | A post with a large header image. |
 | [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
@@ -51,13 +39,25 @@ The theme includes responsive layouts (`single`, `archive`, and `splash` pages) 
 
 ## Credits
 
-### Icons + Demo Images:
+### Speaking & Workshops:
 
 - [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
 - [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
 - [Unsplash](https://unsplash.com/)
 
-### Other:
+### Lectures:
+
+- [Jekyll](http://jekyllrb.com/)
+- [jQuery](http://jquery.com/)
+- [Susy](http://susy.oddbird.net/)
+- [Breakpoint](http://breakpoint-sass.com/)
+- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
+- [FitVids.JS](http://fitvidsjs.com/)
+- Greedy Navigation - [lukejacksonn](http://codepen.io/lukejacksonn/pen/PwmwWV)
+- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
+- [Stickyfill](https://github.com/wilddeer/stickyfill)
+
+### Articles & Press:
 
 - [Jekyll](http://jekyllrb.com/)
 - [jQuery](http://jquery.com/)
@@ -72,3 +72,5 @@ The theme includes responsive layouts (`single`, `archive`, and `splash` pages) 
 ---
 
 Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+
+[Download PDF CV]({{ base_path }}/docs/quick-start-guide/){: .btn .btn--success .btn--large}
