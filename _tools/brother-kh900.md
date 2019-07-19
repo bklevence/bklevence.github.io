@@ -1,5 +1,5 @@
 ---
-title: "Kinetic Sculpture Derby"
+title: "Brother: KH900 Knitter"
 excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg

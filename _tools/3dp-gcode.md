@@ -1,5 +1,5 @@
 ---
-title: "OneKey"
+title: "GCODE for 3DP"
 excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
