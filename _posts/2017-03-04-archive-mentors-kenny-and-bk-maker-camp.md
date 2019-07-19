@@ -4,8 +4,9 @@ title: "Archive: Mentors Kenny and BK @ Maker Camp!"
 date: 2017-03-04 22:14
 author: bklevence
 comments: true
-categories: [Archive, Maker Jawn, Mazes]
+categories: [ Maker Jawn, Mazes]
 ---
+
 _Originally posted August 15, 2015 on the a (http://makerjawn.org/blog/2015/08/03/makercamp15/)[Maker Jawn Blog]_
 
 
