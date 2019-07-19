@@ -6,8 +6,7 @@ author: bklevence
 comments: true
 categories: [Archive, Maker Jawn, Mazes]
 ---
-<blockquote>Originally posted August 15, 2015 on the <a href="http://makerjawn.org/blog/2015/08/03/makercamp15/">Maker Jawn Blog</a>:</blockquote>
-<img class="aligncenter size-large wp-image-287" src="http://bkmakes.xyz/wp-content/uploads/2017/03/mail.google.com_-1024x572.png" alt="" width="552" height="308" />
+
 
 This past week Kenny and BK embarked on an incredible journey in their spare time. With some encouragement from the fine folks over at Maker Camp they made a video based on the Magnetic Mazes Project that was done at the Village of Arts and Humanities in 2013. Check out some links for the project below:
 
