@@ -288,6 +288,9 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -327,7 +330,7 @@ defaults:
       share: true
   # _tools
   - scope:
-      path: "_tools"
+      path: ""
       type: tools
     values:
       layout: single
