@@ -24,18 +24,13 @@ As you'll see this website is a compilation of work and resources (`work`, `tool
 
 ## Work Experience
 
-###Northern Valley Demarest
+### Northern Valley Demarest
 
 Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
 
-| First year teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018. | 2018-1111 |   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|---|
-###The Workshop School
+### The Workshop School
 
 Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
-
-| First year teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018. | 2018-1111 |   |
-
 
 ---
 
