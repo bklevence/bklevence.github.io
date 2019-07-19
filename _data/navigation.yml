@@ -2,10 +2,12 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Tools"
+    url: /about:blank
   - title: "Work"
     url: /portfolio
   - title: "Homebrew"
-    url: /recipes
+    url: /recipes/
   - title: "Blog"
     url: /year-archive/
   # - title: "Sample Collections"
