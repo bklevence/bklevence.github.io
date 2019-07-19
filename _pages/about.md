@@ -18,10 +18,10 @@ Born and lived in Philadelphia, Pa until 2017.
 
 ## TL;DR
 
-- I have built and maintained a variety of Laser Engravers, 3D Printer, and CNC Mills for both work and play.
-- I love learning with and guiding people in workshop settings.
+- I build and maintain a variety of Laser Engravers, 3D Printer, and other CNC machines for both work and play.
+- I love working with people in fabrication shop settings.
 - I am currently in grad school and working on getting my full Technology Teaching Certification in NJ.
-- I just recently got my Amateur Radio License, .
+- I just recently got my Amateur Radio License, KD2RGZ.
 - I have a one-eyed dog named Xena.
 
 ## Work Experience
