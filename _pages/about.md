@@ -26,48 +26,51 @@ As you'll see this website is a compilation of work and resources (`work`, `tool
 
 ### Northern Valley Demarest
 
-Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior STEM Capstone. Shop wrangler, advisor, and Table Top Gaming club Advisor.
 
 ### The Workshop School
 
-Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+Manager of highschool wood, metal, printing, and digital fabrication shops from 2016-2018. Mentor of a student led afterschool design and fabrication business, FTC robotics club, as well as coding club and special elective. Acting I.T. network admin for a chromebook fleet, Windows and Apple labs, and loaner technology for a school of 300 students. Automated Google user management through GAM, streamlined deployment methods for students to take school benchmark and state mandated testing via chromebooks, as well as built simple webapps with students to manage technology hardware lending and use. Assisted in doubling student online and in person net sales to $16,000 and coached student team through multiple press events both for print and live tv media.  
 
 ### UArts
 #### Pre-College Program
 
-Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+Taught summer and fall semester classes on toy design, electronics, product design, and digital fabrication from 2015-2018.
 
 #### Industrial Design Shop
 
-Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+Acted as seasonal assistant manager focused on maintaining digital fabrication resources. Focused on training employees and students with wood, metal, and digital tools. Acted as a Teacher's Assistant and facilitator for classes ranging from graduate level prototyping classes, introductory workshop courses, and prospective student design workshops. Designed, coded, and implemented digital file submission forms, digital file processing systems, and websites for the shop.
 
 ### String Theory Schools
 
-Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+Led design, engineering, and tech classes for 9th-11th grades at S.T.H.S. Vine St. campus a one-to-one iPad School.
 
 ### The Free Library of Philadelphia
 
-Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+Co-founded adult and youth maker programs "The Maker Jawn Initiative" in 10 branches of the Free Library of Philadelphia, held workshops of various sizes, guided staff development trainings, wrote proposals for grants, developed curriculum, did outreach, and presented work nationally. Focused on the place of digital badges, open hardware, prototyping interactive electronic artwork, and creating makerspaces in libraries.
 
 ### YOUmedia / National Writing Project
 
-Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+Participated in a series of workshops as part of a 2015 task-force to brainstorm, synthesize, and design the hallmarks and best practices of digital media labs and makerspaces in the YOUmedia Learning Labs network.
 
 ### MakerED Intel Explorers Program
 
-Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+Focused on making the Intel Galileo Arduino accessible to youth with visual programming similar to Scratch and Blockly, provided feedback to Intel, and contributed to online maker communities during the summer of 2016.
 
-### The Franklin Institute and University of Pennsylvania GSE
+### Internships
+####The Franklin Institute
+Team prototyper and fabricator for Pocket Tech, a cart-based activity series to demystify the components that make up a smart phone.
 
-Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+####The University of Pennsylvania GSE
+ Facilitated E-Crafting Circles workshops at both locations and at the Free Library. Worked as part of a team to design, prototype, and implement Connected Messages.
 
 ### The Village of Arts and Humanities
 
-Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+I led formal and drop-in electronics and interactive gaming and art workshops as a Teaching Artist. Using the MaKey MaKey and Scratch I guided youth(7-12y) in creating and documenting games.
 
 ### Apple Store Walnut St.
 
-Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+Led the in house visual display team, demo machine maintenance and security, workshops, and Apple Camps for youth.
 
 ## Education
 
