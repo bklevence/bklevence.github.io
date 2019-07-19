@@ -138,6 +138,6 @@ Training led by the Maker Education Initiative, Summer 2013.
 
 ---
 
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
+##Need a copy?
 
-[Download PDF CV]({{ base_path }}/docs/quick-start-guide/){: .btn .btn--success .btn--large}
+[Google Docs CV](https://docs.google.com/document/d/1lhN6D_kEIUEYC4jbdxrDbogR5b4Msk8gVxpDfSDE9Ks/edit?usp=sharing){: .btn .btn--danger .btn--large}
