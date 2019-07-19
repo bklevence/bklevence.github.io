@@ -24,9 +24,6 @@ As you'll see this website is a compilation of work and resources (`work`, `tool
 
 ## Work Experience
 
-Education
----
-
 ### Northern Valley Demarest
 
 Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior STEM Capstone. Shop wrangler, advisor, and Table Top Gaming club Advisor.
@@ -61,10 +58,10 @@ Participated in a series of workshops as part of a 2015 task-force to brainstorm
 Focused on making the Intel Galileo Arduino accessible to youth with visual programming similar to Scratch and Blockly, provided feedback to Intel, and contributed to online maker communities during the summer of 2016.
 
 ### Internships
-####The Franklin Institute
+#### The Franklin Institute
 Team prototyper and fabricator for Pocket Tech, a cart-based activity series to demystify the components that make up a smart phone.
 
-####The University of Pennsylvania GSE
+#### The University of Pennsylvania GSE
  Facilitated E-Crafting Circles workshops at both locations and at the Free Library. Worked as part of a team to design, prototype, and implement Connected Messages.
 
 ### The Village of Arts and Humanities
