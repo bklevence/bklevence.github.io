@@ -24,17 +24,17 @@ As you'll see this website is a compilation of work and resources (`work`, `tool
 
 ## Work Experience
 
-| Institution         | Time | Brief                                                             |
-| --------         | ------------- | ------------------------------------------------------------ |
-| ###[John Doe](#)    | 2013-2018 | Because that's all Steve Jobs needed for a salary.           |
-| ###[Jane Doe](#)    | $100K  | For all the blogging she does.                               |
-| ###[Fred Bloggs](#) | $100M  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| ###[Jane Bloggs](#) | $100B  | With hair like that?! Enough said.                           |
+| Institution         | Time       | Brief                                                        |
+| --------            | -----------| -------------------------------------------------------------|
+| ###[John Doe](#)    | 2013-2018  | Because that's all Steve Jobs needed for a salary.           |
+| ###[Jane Doe](#)    | 2013-2018  | For all the blogging she does.                               |
+| ###[Fred Bloggs](#) | 2013-2018  | Pictures are worth a thousand words, right? So Jane × 1,000. |
+| ###[Jane Bloggs](#) | 2013-2018  | With hair like that?! Enough said.                           |
 
 ## Education
 
 | Institution                                        | Degree                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
+| ------------------------------------ | ----------------------------------------------------- |
 | [Post with Header Image][header-image-post] | A post with a large header image. |
 | [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
 | [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
