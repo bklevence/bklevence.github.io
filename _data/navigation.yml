@@ -2,13 +2,11 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Tools"
-    url: /about:blank
   - title: "Work"
     url: /portfolio
-  - title: "Places"
   - title: "Blog"
     url: /year-archive/
+  - title: "Places"
     url: /places/
   - title: "Recipes"
     url: /recipes-archive/
