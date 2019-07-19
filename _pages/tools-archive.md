@@ -1,10 +1,10 @@
 ---
-title: Work
+title: Tools
 layout: collection
-permalink: /portfolio/
-collection: portfolio
+permalink: /tools/
+collection: tools
 entries_layout: grid
 classes: wide
 ---
 
-Various work samples and projects.
+Documentation and personal notes for .
