@@ -123,7 +123,7 @@ Training led by the Maker Education Initiative, Summer 2013.
 - “Philly High School Students Are Selling 'Jawnaments' for Christmas.” PhillyVoice, PhillyVoice, 6 Dec. 2017, www.phillyvoice.com/philly-high-school-students-are-selling-jawnaments-christmas/.
 - “'Jawnaments' Top Selling Item For West Philly High School Entrepreneurial Club.” CBS Philly, CBS Philly, 5 Dec. 2017, philadelphia.cbslocal.com/2017/12/05/jawnaments-west-philly-school/.
 - WTXF. “The Workshop School Makes Christmas Jawnaments.” WTXF, www.fox29.com/good-day/298888047-video.
-- Sansing, Chad. “3-D Printing: Worth the Hype? | The Maker Issue.” School Library Journal, 4 May 2015, www.slj.com/?detailStory=3-d-printing-worth-the-hype-the-maker-issue.
+- Sansing, Chad. “3-D Printing: Worth the Hype? The Maker Issue.” School Library Journal, 4 May 2015, www.slj.com/?detailStory=3-d-printing-worth-the-hype-the-maker-issue.
 - “Crafty Students Show Off New Tech Skills At Free Library Of Philadelphia.” CBS Philly, CBS Philly, 17 Aug. 2013, philadelphia.cbslocal.com/2013/08/17/crafty-students-show-off-new-tech-skills-at-free-library-of-philadelphia/.
 
 ### Awards
