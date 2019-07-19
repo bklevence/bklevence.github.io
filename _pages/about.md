@@ -11,9 +11,10 @@ toc_sticky: true
 
 ## TL;DR
 
-- I build and maintain a variety of Laser Engravers, 3D Printer, and other CNC machines for both work and play.
+- I maintain a variety of CNC machines for both work and play.
 - I love working with people in fabrication shop settings.
-- I am currently in grad school and working on getting my full Technology Teaching Certification in NJ.
+- I have successfully operated student run web shops.
+- I am currently in grad school and getting my standard teaching cert.
 - I just recently got my Amateur Radio License, KD2RGZ.
 - I have a one-eyed dog named Xena.
 - Dislocated Philadelphian as of 2017.
