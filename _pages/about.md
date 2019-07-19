@@ -24,6 +24,9 @@ As you'll see this website is a compilation of work and resources (`work`, `tool
 
 ## Work Experience
 
+Education
+---
+
 ### Northern Valley Demarest
 
 Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior STEM Capstone. Shop wrangler, advisor, and Table Top Gaming club Advisor.
