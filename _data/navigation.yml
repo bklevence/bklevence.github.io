@@ -7,7 +7,7 @@ main:
   - title: "Work"
     url: /portfolio
   - title: "Homebrew"
-    url: /recipes/
+    url: /recipes-archive/
   - title: "Blog"
     url: /year-archive/
   # - title: "Sample Collections"
