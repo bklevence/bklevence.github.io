@@ -7,20 +7,22 @@ toc: true
 toc_sticky: false
 ---
 
-Currently a High School Technology and Engineering Instructor in Northern New Jersey. Formerly a shop supervisor, small business operator, and makerspace enthusiast. Born and lived in Philadelphia, Pa until 2017. :cool:.
+Currently a High School Technology and Engineering Instructor in Northern New Jersey. Formerly a shop supervisor, small business operator, and makerspace enthusiast.
 
-As you'll see this website is a compilation of work and resources (`work`, `tools`, and `recipes` pages) reachout if you have any questions!
+I have a variety of hobbies that range from digital fabrication machines to brewing and I love fixing things.
+
+Born and lived in Philadelphia, Pa until 2017.
 
 
 
-## Notable Accomplishments
 
-- Compatible with Jekyll 3.x and GitHub Pages
-- Several layout options (single, archive, splash pages)
-- SEO optimized with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional header images, sidebars, table of contents, galleries, related posts, breadcrumb links, and more.
-- Optional comments ([Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), Google+, and custom)
-- Optional analytics ([Google Analytics](https://www.google.com/analytics/) and custom)
+## TL;DR
+
+- I have built and maintained a variety of Laser Engravers, 3D Printer, and CNC Mills for both work and play.
+- I love learning with and guiding people in workshop settings.
+- I am currently in grad school and working on getting my full Technology Teaching Certification in NJ.
+- I just recently got my Amateur Radio License, .
+- I have a one-eyed dog named Xena.
 
 ## Work Experience
 
@@ -93,7 +95,7 @@ Training led by the Maker Education Initiative, Summer 2013.
 
 ## Engagements and ETC
 
-### Speaking & Workshops:
+### Speaking & Workshops
 
 - ISTE Creativity Playground, ISTE ‘15
 - Noisebridge Panel and Workshop, ALA ‘15
@@ -106,7 +108,7 @@ Training led by the Maker Education Initiative, Summer 2013.
 - Joystick Design Workshop, Spells Writing Lab ‘13
 - Arduino for Disabilities, Liberty Resources ‘12
 
-### Lectures:
+### Lectures
 
 - Badging 101, YOUmedia Learning Labs Community
 - Open Badges Community Project Call, Mozilla Open Badges
@@ -116,9 +118,10 @@ Training led by the Maker Education Initiative, Summer 2013.
 - Teaching Artist, The Village of Arts and Humanities, Summer 2014
 - Guest Speaker, Carreras Profesionales en Ingeniería y Tecnología, Lima, Peru. April ‘14
 
-### Articles & Press:
+### Articles & Press
 
 - Klevence, Brandon. “Make Your Own.” Library Tech, School Library Journal, 25 Nov. 2015, tech.libraryjournal.com/?id=Make-Your-Own.
+
 
 - “Philly High School Students Are Selling 'Jawnaments' for Christmas.” PhillyVoice, PhillyVoice, 6 Dec. 2017, www.phillyvoice.com/philly-high-school-students-are-selling-jawnaments-christmas/.
 - “'Jawnaments' Top Selling Item For West Philly High School Entrepreneurial Club.” CBS Philly, CBS Philly, 5 Dec. 2017, philadelphia.cbslocal.com/2017/12/05/jawnaments-west-philly-school/.
