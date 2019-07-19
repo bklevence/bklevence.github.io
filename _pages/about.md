@@ -13,6 +13,8 @@ layouts_gallery:
     image_path: mm-layout-archive.png
     alt: "archive layout example"
 modified: 2016-04-18T16:39:37-04:00
+toc: true
+toc_sticky: true
 ---
 
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
