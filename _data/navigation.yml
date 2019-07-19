@@ -11,7 +11,7 @@ main:
   - title: "Recipes"
     url: /recipes-archive/
   - title: "Tools"
-    url: /about:blank
+    url: /tools/
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
