@@ -4,7 +4,7 @@ title: "About Me"
 excerpt: "About me, cv, etc."
 modified: 2016-04-18T16:39:37-04:00
 toc: true
-toc_sticky: false
+toc_sticky: true
 ---
 
 Currently a High School Technology and Engineering Instructor in Northern New Jersey. Formerly a shop supervisor, small business operator, and makerspace enthusiast.
