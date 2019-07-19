@@ -24,29 +24,22 @@ As you'll see this website is a compilation of work and resources (`work`, `tool
 
 ## Work Experience
 
-| Institution         | Time       | Brief                                                        |
-| --------            | ---------------| -----------------------------------------------------|
-| Northern Valley Regional High School         | 2018-  | Because that's all Steve Jobs needed for a salary.           |
-| The Workshop School    | 2013-2018  | For all the blogging she does.                               |
-| String Theory Schools | 2013-2018  | Pictures are worth a thousand words, right? So Jane × 1,000. |
-| Free Library of Philadelphia | 2013-2018  | With hair like that?! Enough said.                           |
+###Northern Valley Demarest
 
-## Education
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
 
-| Institution                                        | Degree                                           |
-| ------------------------------------ | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tags. |
+| First year teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018. | 2018-1111 |   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|---|
+###The Workshop School
+
+Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018.
+
+| First year teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior Level Open Ingenuity Lab. Shop wrangler, sophomore advisor, and Tabletop club Advisor. Obtained a CE and Provisional Certificate in Technology and enrolled in an Alternate Route teaching program as of Summer 2018. | 2018-1111 |   |
 
 
 ---
 
-## Credits
+## Engagements and ETC
 
 ### Speaking & Workshops:
 
