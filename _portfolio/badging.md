@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/badge-teaser.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/badge-sidebar.jpg
+    image: /assets/images/badge-sidebar.png
     image_alt: "Round table design workshop"
     text: "Designer, Developer, Design Researcher"
   - title: "Responsibilities"
