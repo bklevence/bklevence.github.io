@@ -12,19 +12,9 @@ sidebar:
     text: "Lead Prototyper, Maker Mentor"
   - title: "Responsibilities"
     text: "Generate and collaborate on project curriculum, design and implement novel maker progams, outreach"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
-The following recap is skewed by my own thoughts and feelings on the subject. I only have written this as a recap of the life of the program for my own records. If you wish to add anything, let me know!{: .notice--info}
+>The following recap is skewed by my own thoughts and feelings on the subject. I only have written this as a recap of the life of the program for my own records. If you wish to add anything, let me know!
 
 ## Genesis, Summer 2013
 
