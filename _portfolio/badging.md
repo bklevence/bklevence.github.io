@@ -2,8 +2,8 @@
 title: "Library Badging"
 excerpt: "Digital Badging platform design and implementation for youth at the Free Library of Philadelphia"
 header:
-  image: /assets/images/badge-hero.jpg
-  teaser: /assets/images/badge-hero.jpg
+  image: /assets/images/badge-teaser.jpg
+  teaser: /assets/images/badge-teaser.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

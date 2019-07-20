@@ -3,7 +3,7 @@ title: "UArts Precollege"
 excerpt: "Various work from my classes at University of the Arts."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: assets/images/pc-teaser.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250

@@ -3,7 +3,7 @@ title: "OneKey"
 excerpt: "Low cost digital hardware fabrication for makerspaces"
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
-  teaser: assets/images/ok-hero.jpg
+  teaser: assets/images/ok-teaser.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
