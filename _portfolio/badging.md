@@ -14,6 +14,15 @@ sidebar:
   - title: "Platform"
     text: "WordPress"
 gallery:
+  - url: /assets/images/badge-07.jpg
+    image_path: /assets/images/badge-07.jpg
+    alt: "placeholder image -2"
+  - url: /assets/images/badge-08.jpg
+    image_path: /assets/images/badge-08.jpg
+    alt: "placeholder image -1"
+  - url: /assets/images/badge-09.jpg
+    image_path: /assets/images/badge-09.jpg
+    alt: "placeholder image 0"
   - url: /assets/images/badge-01.jpg
     image_path: /assets/images/badge-01.jpg
     alt: "placeholder image 1"
