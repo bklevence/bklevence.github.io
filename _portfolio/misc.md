@@ -13,11 +13,8 @@ sidebar:
     text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
-{% for image in site.static_files %}
-    {% if image.path contains 'images/misc' %}
-        <img src="{{ site.baseurl }}{{ image.path }}" alt="image" />
-    {% endif %}
-{% endfor %}
+{% include image-gallery.html folder="/assets/images/misc" %}
+
 
 tj jawn
 phone keychain
