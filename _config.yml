@@ -291,6 +291,10 @@ collections:
   tools:
     output: true
     permalink: /:collection/:path/
+  places:
+    output: true
+    permalink: /:collection/:path/
+
 
 
 # Defaults
@@ -335,4 +339,12 @@ defaults:
     values:
       layout: single
       author_profile: false
+      share: true
+  # _places
+  - scope:
+      path: "_places"
+      type: places
+    values:
+      layout: single
+      author_profile: true
       share: true
