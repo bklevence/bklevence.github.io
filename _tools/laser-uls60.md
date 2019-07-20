@@ -38,6 +38,7 @@ Since the machine has a Z-axis, you can specify how deep you want a path to be c
 
 ### Making things fit together (Tolerance)
 - If you are cutting out parts using the laser cutter, getting them to line up/fit snug together/make perfect angles is tough. Here are some things to think about when designing a part.
+
 ### Plastics
 - The diameter of the laser is about 1/100 inch, however some plastic will melt in the process of cutting (some cuts will appear wider than 1/100 inch as a result). Color can be a factor: because of the nature of light, white acrylic takes longer to cut than black acrylic (this is because white reflects a good amount of light from the laser while black absorbs most of it– the more a material absorbs, the hotter it gets). For most applications these things won't matter, but if a tolerance of above 1/16 inch is necessary, you should ask for a test cut with your material to make sure things go as planned.
 
@@ -61,17 +62,15 @@ VINYL & PVC WILL CREATE CHLORINE GASS WHICH WAS USED IN WWI AS A CHEMICAL WEAPON
 
 ## File Preparation Checklist
 
+ <input type="checkbox" name="0" value="0">Use Template<br>
  <input type="checkbox" name="0" value="0">Units: inches<br>
- <input type="checkbox" name="0" value="0">Layout board economically<br>
- <input type="checkbox" name="0" value="0">Check Offset/Cutter Tolerance for nested parts<br>
  <input type="checkbox" name="0" value="0">Within X and Y bounds for machine<br>
  <input type="checkbox" name="0" value="0">Within Z bounds, usually 0"-6" cutter depending.<br>
  <input type="checkbox" name="0" value="0">Join Vectors.<br>
  <input type="checkbox" name="0" value="0">Check for duplicate lines.<br>
  <input type="checkbox" name="0" value="0">Create Layers.<br>
  <input type="checkbox" name="0" value="0">Assign Vectors to layers.<br>
- <input type="checkbox" name="0" value="0">Export Vector file for vector or 2.5D cuts.<br>
- <input type="checkbox" name="0" value="0">Export STL for 3D engraves.<br>
+ <input type="checkbox" name="0" value="0">Export or Print to CAM.<br>
 
 
 ### Layer Naming Convention
@@ -91,15 +90,22 @@ Never clean any optic right after engraving or cutting because the optic may be 
 ![VLS.60 Motion System](/assets/images/laser-08.png)
 
  <input type="checkbox" name="0" value="0">A visual inspection of the `#2 and #3` mirrors, beam window and focus lens should be performed at least once a day before any job processing:<br>
+
  ![Laser Diagram](/assets/images/laser-04.png)
+
  <input type="checkbox" name="0" value="0">Inspect the `#2` mirror and clean it only if there is debris present.<br>
  <input type="checkbox" name="0" value="0">To clean the `#2` mirror with a cotton swab, moisten the cotton swab with the lens cleaning solution supplied with the laser system. Do not use other types of cleaners or solutions. Gently roll the cotton swab across the mirror once. Do not drag the swab or roll it back and forth as this can scratch the mirror. If the mirror did not come clean, use a fresh cotton swab and repeat the procedure.<br>
  <input type="checkbox" name="0" value="0">Inspect the `#3` Mirror and Focus Lens 1 and clean it only if there is debris present.<br>
+
  ![Laser Diagram](/assets/images/laser-05.png)
+
  <input type="checkbox" name="0" value="0">Flood the reflective surface of the `#3` mirror with the solution. If heavy debris is present, let the solution soak in for a minute.<br>
  <input type="checkbox" name="0" value="0">Roll a fresh cotton swab across the mirror in one direction. Use a fresh swab for each pass. Be gentle when cleaning the optic to avoid scratching the surface. Repeat this procedure for the focus lens, but make sure you clean both sides of the lens.<br>
+
  ![Laser Diagram](/assets/images/laser-06.png)
+
  <input type="checkbox" name="0" value="0">The beam window or collimator is where the laser beam enters into the processing area. It is located in the upper left hand corner of the engraving area against the back wall and is yellow in color. It is only necessary to clean the front side of the beam window. Do not remove the optic to clean it; simply clean it in the same manner as the `#2` mirror.<br>
+
  ![Laser Diagram](/assets/images/laser-07.png)
 
 
