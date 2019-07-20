@@ -41,19 +41,21 @@ Since the machine has a Z-axis, you can specify how deep you want a path to be c
 ### Plastics
 - The diameter of the laser is about 1/100 inch, however some plastic will melt in the process of cutting (some cuts will appear wider than 1/100 inch as a result). Color can be a factor: because of the nature of light, white acrylic takes longer to cut than black acrylic (this is because white reflects a good amount of light from the laser while black absorbs most of it– the more a material absorbs, the hotter it gets). For most applications these things won't matter, but if a tolerance of above 1/16 inch is necessary, you should ask for a test cut with your material to make sure things go as planned.
 
-{% capture notice-2 %}
+{% capture notice-5 %}
 VINYL & PVC WILL CREATE CHLORINE GASS WHICH WAS USED IN WWI AS A CHEMICAL WEAPON!
 {% endcapture %}
-<div class="notice">{{ notice-2 | markdownify }}</div>
+<div class="notice">{{ notice-5 | markdownify }}</div>
 
 ### Laser Drag and Material Thickness
 - The laser doesn't cut through a material instantly. It takes a few milliseconds to get through a piece. The thicker the piece, the longer it will take. There is an effect called drag which can be seen on most laser cut pieces: since the top of the material gets cut first, the laser will spend more time cutting the top, producing a slight slope on the side of the piece. It is impossible to account for with the laser, so some hand-finishing may be required if a perfect 90 degree angle is desired.
 - The slope will be more extreme with a thicker piece of material. For this reason we usually do not cut anything thicker than 3/8 inch (although it is possible and you should still inquire about it).
+
 ### Slots and Tabs (are tricky)
 - If your parts are designed to be assembled using a slot/tab system, make a few test cuts first. Common problems with slots/tabs:
   - Shearing - If your slots and tabs are the exact same width and you try to jam two pieces together, they might snap. Especially if they are made of acrylic.
   - Material variance - Every sheet of plywood/acrylic/cardboard/etc. is slightly different. A perfect set of slots and tabs on one sheet might not translate well on another sheet. When possible, run test cuts on the same sheet(s) you'll be using for your parts.
   - Drag - Sloping sides can affect how well two pieces fit together. It is essential to do test cuts for thick materials (larger than 1/4 inch).
+
 ### Living Hinges
 - I have [a small library of living hinges](http://steammetry.com/5-useful-living-hinge-template-for-your-next-laser-cut-project/), please see me for more info.
 
@@ -80,10 +82,10 @@ VINYL & PVC WILL CREATE CHLORINE GASS WHICH WAS USED IN WWI AS A CHEMICAL WEAPON
 
 ## Machine Preparation Checklist
 
-{% capture notice-2 %}
+{% capture notice-4 %}
 Never clean any optic right after engraving or cutting because the optic may be hot and the cool lens cleaning solution may thermally shock the optic and crack it.
 {% endcapture %}
-<div class="notice">{{ notice-2 | markdownify }}</div>
+<div class="notice">{{ notice-4 | markdownify }}</div>
 
 
 ![VLS.60 Motion System](/assets/images/laser-08.png)
