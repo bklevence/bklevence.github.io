@@ -5,9 +5,9 @@ header:
 #  image: /assets/images/unsplash-gallery-image-3.jpg
   teaser: assets/images/misc-teaser.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+#  - title: "Role"
+#    image: http://placehold.it/350x250
+#    image_alt: "logo"
     text: "Instructor"
     title: "Info:"
   - text: "This is a gallery of various projects, some day I will come back and clean things up with more info."
