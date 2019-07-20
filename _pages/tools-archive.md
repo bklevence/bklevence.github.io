@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Documentation and personal notes for .
+Notes on CAD and CAM procedures for tools I've worked with.
