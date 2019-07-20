@@ -19,7 +19,6 @@ gallery:
     image_path: assets/images/laser-02.jpg
     alt: "placeholder image 2"
 ---
-
 ## Laser Queue
 
 I spent a fair amount of free time making digital tools to replace paper systems for processing files at the University of the Arts Industrial Design Shop. I utilized Google Docs and Google Scripts to create a file submission form, technician back-end, and digital invoicing app all from the same shared Spreadsheet. No more paper looking around for papers after each cut and at the end of each semester!
