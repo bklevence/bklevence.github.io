@@ -6,7 +6,7 @@ header:
   teaser: assets/images/sm-teaser.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/sm-sidebar.jpg
+    image: /assets/images/sm-sidebar.png
     image_alt: "logo"
     text: "Instructor"
   - title: "Student Outcomes"
