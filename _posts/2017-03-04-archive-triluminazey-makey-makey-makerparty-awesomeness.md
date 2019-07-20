@@ -2,7 +2,6 @@
 title: Archive: Triluminazey Makey Makey MakerParty Awesomeness
 date: 2017-03-04 22:06
 author: bklevence
-categories: [Archive, Maker Jawn, Mazes]
 ---
 <blockquote>Originally posted August 8, 2013 on the <a href="http://makerjawn.org/blog/2013/08/08/975/">Maker Jawn Blog</a>:</blockquote>
 This past week working on our<a href="http://connected.ecrafting.org/walls/7/"> Connected Messages mural</a> I could sense that the leaving the theme topics a bit too open ended lead to more [adult] intervention in each kids work than I would like.
