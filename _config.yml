@@ -343,7 +343,7 @@ defaults:
   # _places
   - scope:
       path: "_places"
-      type: _places
+      type: places
     values:
       layout: single
       author_profile: true
