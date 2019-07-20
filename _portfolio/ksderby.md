@@ -30,8 +30,8 @@ gallery:
   - url: /assets/images/ksd-04.jpg
     image_path: assets/images/ksd-04.jpg
     alt: "placeholder image 4"  
-  - url: /assets/images/ksd-04.gif
-    image_path: assets/images/ksd-04.gif
+  - url: /assets/images/ksd-05.gif
+    image_path: assets/images/ksd-05.gif
     alt: "placeholder image 4"
 ---
 
