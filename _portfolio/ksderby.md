@@ -2,8 +2,8 @@
 title: "Kinetic Sculpture Derby"
 excerpt: "3 years of bike based engineering and art."
 header:
-  image: /assets/images/ksd-teaser.jpeg
-  teaser: assets/images/ksd-teaser.jpeg
+  image: /assets/images/ksd-teaser.jpg
+  teaser: assets/images/ksd-teaser.jpg
 sidebar:
   - title: "Role"
     image: /assets/images/ksd-sidebar.png
