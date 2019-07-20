@@ -65,8 +65,16 @@ Supposedly all remaining makers are now programming specialists as part of T.O.P
 
 I do really wish the remaining program mentors the best if they're still at FLP. I have started find ways to digitally archive the good work people have did at the initiative below:
 
+### Links
+
 - [Wayback Machine](https://web.archive.org/web/20161031162653/http://makerjawn.org/) It seems like an ok way to get the site back, but most blog posts are not archived. I have copied some of my own articles to this Jekyll blog, but subsequently lost the rich media for them in 2019.
-- Curriculum, below each link should take you to a PDF archive of each activity listed lesson plan. Originally stored on the Maker Jawn site as shared Google Docs:
+- [Youtube Channel](https://www.youtube.com/channel/UCgkZSW4f2mO_XQ8tPyZ8E-w)
+- [Twitter](https://www.twitter.com/makerjawn)
+
+### Curriculum
+
+Each link should take you to a PDF archive of each activity listed lesson plan. Originally stored on the Maker Jawn site as shared Google Docs:
+
   - [Balance: A great art activity that incorporates basic physics and engineering.](/assets/docs/mj/balance.pdf)
   - [Cardboard: Practice engineering and creative problem solving skills.](/assets/docs/mj/cardboard.pdf)
   - [Wind Powered Cars: A design challenge that utilizes recycled materials.](/assets/docs/mj/wind-cars.pdf)
@@ -103,7 +111,3 @@ I do really wish the remaining program mentors the best if they're still at FLP.
   - [Microphone/Recorder (Zoom H4next Handy Recorder)](/assets/docs/mj/zoom-microphone.pdf)
   - [Sewing Machine (Brother XL2600)](/assets/docs/mj/sewing-machine.pdf)
   - [Video Camera (Canon VIXIA HF R500)](/assets/docs/mj/video-camera.pdf)
-
-[Youtube Channel](https://www.youtube.com/channel/UCgkZSW4f2mO_XQ8tPyZ8E-w)
-
-[Twitter](https://www.twitter.com/makerjawn)
