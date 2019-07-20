@@ -6,4 +6,4 @@ permalink: /recipes-archive/
 author_profile: false
 ---
 
-A collection `_recipes` either by friends, family, or myself.
+A collection of `recipes` either by friends, family, or myself.
