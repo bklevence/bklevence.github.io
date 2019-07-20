@@ -25,8 +25,12 @@ I spent a fair amount of free time making digital tools to replace paper systems
 
 I've always wanted to come back to this and make it a stand-alone, google free, app. [For now the docs are on GitHub.](https://github.com/iduarts-shop/lasercut-job-request)
 
-{% include gallery caption="A quick image of the rough technician interface and a sample invoice processed from a submission in the queue." %}
+{% include gallery id="gallery" layout="full" caption="A quick image of the rough technician interface and a sample invoice processed from a submission in the queue." %}
 
 ## Shop Website
+
+[See Link](https://iduarts-shop.github.io/index.html)
+
+## Schedule BK
 
 [See Link](https://iduarts-shop.github.io/index.html)
