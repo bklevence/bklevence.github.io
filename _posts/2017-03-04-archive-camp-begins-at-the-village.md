@@ -1,5 +1,5 @@
 ---
-title: Archive: Camp begins at the Village
+title: Camp begins at the Village
 date: 2013-06-20 21:51
 author: bklevence
 ---
@@ -20,5 +20,3 @@ So an easier method of containing the dough(and still being able to use magnets)
 [gallery type="slideshow" link="none" size="large" ids="233,234,235"]
 
 To wrap up, we had a paper circuitry workshop the other day. At first glance the materials led to a very regimented process and not a lot of creativity or individuality in each campers circuit. However, we tail ended our brief explorations with different sensors and potentiometers into how you actually wire them up. A quick demo of how to tin some wire and solder an FSR to it led to Jacob and others showing each-other how to pair up some LEDs! Again totally rad, a lot has happened this week, I’m excited to see we move along with our Magnetic Mazes and Connected Messages.
-
-&nbsp;
