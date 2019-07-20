@@ -5,7 +5,8 @@ collection: places
 permalink: /places/
 author_profile: false
 ---
-{% include group-by-array.html collection=site.posts field='tags' %}
+
+{% include group-by-array collection=site.posts field='tags' %}
 
 <ul>
   {% for tag in group_names %}
