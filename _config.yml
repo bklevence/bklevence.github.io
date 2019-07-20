@@ -294,6 +294,7 @@ collections:
   places:
     output: true
     permalink: /:collection/:path/
+    state: true
 
 
 
