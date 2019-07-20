@@ -14,8 +14,6 @@ sidebar:
 
 ### File Preparation
 
- <input type="checkbox" name="0" value="0">3DM or Vector file for vector or 2.5D cuts<br>
- <input type="checkbox" name="0" value="0">STL for 3D engraves<br>
  <input type="checkbox" name="0" value="0">Units: inches<br>
  <input type="checkbox" name="0" value="0">Layout board economically<br>
  <input type="checkbox" name="0" value="0">Check Offset/Cutter Tolerance for nested parts<br>
@@ -25,6 +23,8 @@ sidebar:
  <input type="checkbox" name="0" value="0">Check fo duplicate lines.<br>
  <input type="checkbox" name="0" value="0">Create Layers.<br>
  <input type="checkbox" name="0" value="0">Assign Vectors to layers.<br>
+ <input type="checkbox" name="0" value="0">Export Vector file for vector or 2.5D cuts.<br>
+ <input type="checkbox" name="0" value="0">Export STL for 3D engraves.<br>
 
 
 ### Layer Naming Convention
@@ -34,6 +34,7 @@ sidebar:
 
 - Drill_DepthOfDrill_SpecifiedCutterDim
 - Engrave_DepthOfEngrave_DegreeOfVBIT
+- Pocket_DepthOfPocket_SpecifiedCutterDim
 
 
 
