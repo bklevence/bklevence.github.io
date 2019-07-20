@@ -6,8 +6,8 @@ header:
 sidebar:
     image: assets/images/shopbot-01.jpg
     image_alt: "logo"
-    text: "Workshop School, University of the Arts"
   - title: "Location & Comments"
+    text: "Workshop School, University of the Arts"
     text: "The 48x48 had way too many gremlins."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
