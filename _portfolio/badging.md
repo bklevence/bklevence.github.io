@@ -24,11 +24,11 @@ gallery:
     image_path: /assets/images/badge-03.jpg
     alt: "placeholder image 3"
   - url: /assets/images/badge-04.jpg
-  image_path: /assets/images/badge-04.jpg
-  alt: "placeholder image 4"
+    image_path: /assets/images/badge-04.jpg
+    alt: "placeholder image 4"
   - url: /assets/images/badge-05.jpg
-  image_path: /assets/images/badge-05.jpg
-  alt: "placeholder image 5"
+    image_path: /assets/images/badge-05.jpg
+    alt: "placeholder image 5"
   - url: /assets/images/badge-06.jpg
     image_path: /assets/images/badge-06.jpg
     alt: "placeholder image 6"
@@ -65,4 +65,4 @@ Token "Badges" collected like drips of water in a bucket, we looked to give toke
 
 In this model each maker mentor verifying participant tokens daily would remove the standard sign-in sheet and streamline the daily, monthly, and annual data reporting process. These badges unlike Tokens can be shared through Credly to Facebook, LinkedIn, and a variety of other Mozilla Open Badges based platforms.
 
-This iteration was tested in 3 library locations in North Philadelphia with 15 initial participants. The testing site is now defunct.
+This iteration was tested in 3 library locations in North Philadelphia with 20 participants from 2014-2015. The testing site is now defunct.
