@@ -1,6 +1,6 @@
 ---
-title: "Maker Jawn"
-excerpt: "Documenting the rise and fall of a makerspace program. Some saved Archives."
+title: "Maker Jawn Archive"
+excerpt: "Documenting the rise and fall of a makerspace program."
 toc: true
 header:
   image: /assets/images/jawn-header.jpeg
@@ -58,12 +58,15 @@ Makerjawn.org and resources lapse and become defunct.
 ### 2018
 Supposedly all remaining makers are now programming specialists as part of T.O.P.P.S. after school homework help programs.
 ### 2019
-- Make: Magazine and all subsidiaries are in peril.
+- Make: Magazine abruptly shutters, Maker Ed's future looks okay.
 - Seems like the Digital Badging Program is now back in the hands of the College Prep Program.
 
 ## Archives
-- [Wayback Machine]()
-- curriculum
+
+I do really wish the remaining program mentors the best if they're still at FLP. I have started find ways to digitally archive the good work people have did at the initiative below:
+
+- [Wayback Machine](https://web.archive.org/web/20161031162653/http://makerjawn.org/)
+- Curriculum
   - Balance: A great art activity that incorporates basic physics and engineering.
   - Cardboard: Practice engineering and creative problem solving skills.
   - Wind Powered Cars: A design challenge that utilizes recycled materials.
@@ -84,37 +87,23 @@ Supposedly all remaining makers are now programming specialists as part of T.O.P
   - Highlight Reel Making with Animoto: Learn about managing your online content and produce highlight reels using a free cloud-based service.
   - Mozilla PopcornMaker: Mashup your favorite YouTube videos and other media! A great hook into video and music editing.
   - Stop Motion Animation: Get started with animating using a tablet or smartphone.
-  Guidelines for Making Movies in Libraries
-
-Narrative Development
-
-Skit Workshop
-
-Set and Scenic Design
-
-Shot Types and Storyboarding
-
-Video Editing
-
-Artbots: Hack apart electric toothbrushes to create a robot that scribbles, scrapes, sings, or splatters.
-
-Jawn-o-Graphy:  A simple twist on finding your way.
-
-Light in the Window: Teaches the basics of copper tape circuits with switches.
-
-MaKey MaKey High 5 Game: A fun physical game that uses the MaKey MaKey.
-
-MaKey MaKey Musical Markers: Create sounds whilst drawing with Magic Markers.
-
-Squishy Circuits: Learn about circuits with some Play-Doh and LEDs – an instructional comic.
-
-Soldering: An intro to mini welding! Soldering iron skill test to get two wires to stick together.
-
-Microphone/Recorder (Zoom H4next Handy Recorder)
-
-Sewing Machine (Brother XL2600)
-
-Video Camera (Canon VIXIA HF R500)
+  - Guidelines for Making Movies in Libraries
+  - Narrative Development
+  - Skit Workshop
+  - Set and Scenic Design
+  - Shot Types and Storyboarding
+  - Video Editing
+  - Artbots: Hack apart electric toothbrushes to create a robot that scribbles, scrapes, sings, or splatters.
+  - Jawn-o-Graphy:  A simple twist on finding your way.
+  - Light in the Window: Teaches the basics of copper tape circuits with switches.
+  - MaKey MaKey High 5 Game: A fun physical game that uses the MaKey MaKey.
+  - MaKey MaKey Musical Markers: Create sounds whilst drawing with Magic Markers.
+  - Squishy Circuits: Learn about circuits with some Play-Doh and LEDs – an instructional comic.
+  - Soldering: An intro to mini welding! Soldering iron skill test to get two wires to stick together.
+  - Microphone/Recorder (Zoom H4next Handy Recorder)
+  - Sewing Machine (Brother XL2600)
+  - Video Camera (Canon VIXIA HF R500)
 
 [Youtube Channel](https://www.youtube.com/channel/UCgkZSW4f2mO_XQ8tPyZ8E-w)
+
 [Twitter](https://www.twitter.com/makerjawn)
