@@ -1,6 +1,6 @@
 ---
-title: "Universal Laser ULS60"
-excerpt: "I have used multiple ULS Models. Best CAM software."
+title: "Universal Laser VLS60"
+excerpt: "I have used multiple VLS Models. Best CAM software."
 toc: true
 toc_sticky: true
 header:
@@ -75,14 +75,21 @@ Since the machine has a Z-axis, you can specify how deep you want a path to be c
 
 ## Machine Preparation Checklist
 
- <input type="checkbox" name="0" value="0">Warm up spindle for 6-9 minutes with `[C][5]routine` (preferred) or 1⁄2 RPM if you do not have spindle speed control. Confirm operation of spindle fan.<br>
- <input type="checkbox" name="0" value="0">Check bit, collet and collet nut for wear and debris. Collets are good for 400-500 hours MAXIMUM of use if they are kept clean and no “event” occurs such as a broken bit inside the collet or a plunge that bottoms out on the collet.<br>
- <input type="checkbox" name="0" value="0">Check rack/pinion/motor/shaft relationship by rapidly pushing and pulling the carriages near each motor. X1, X2, Y and Z. Adjust motor mount and/or tighten set screws. A slight clicking sound should be heard, but no movement (over a few thousandths) should be present. Adjust if needed.<br>
- <input type="checkbox" name="0" value="0">Move the machine around the table in both jog and move speeds, or make a short warm up routine.<br>
- <input type="checkbox" name="0" value="0">Home the tool `[C][3] routine` using the prox switches.<br>
- <input type="checkbox" name="0" value="0">Zero your bit `[C][2]` (or other custom zero routine) to material surface or spoilboard.<br>
- <input type="checkbox" name="0" value="0">Verify that your bit has been zeroed properly by using a `MZ,0` command over the surface you have zeroed the bit to. Repeat zeroing if not correct.<br>
- <input type="checkbox" name="0" value="0">Perform a visual inspection of the machine, wiring, dust collection hoses and table surface. Verify proper operation of vacuum pump and dust collector (if present)<br>
+Never clean any optic right after engraving or cutting because the optic may be hot and the cool lens cleaning solution may thermally shock the optic and crack it.
+
+![VLS.60 Motion System](/assets/images/laser-08.jpg)
+
+ <input type="checkbox" name="0" value="0">A visual inspection of the `#2 and #3` mirrors, beam window and focus lens should be performed at least once a day before any job processing:<br>
+ ![Laser Diagram](/assets/images/laser-04.jpg)
+ <input type="checkbox" name="0" value="0">Inspect the `#2` mirror and clean it only if there is debris present.<br>
+ <input type="checkbox" name="0" value="0">To clean the `#2` mirror with a cotton swab, moisten the cotton swab with the lens cleaning solution supplied with the laser system. Do not use other types of cleaners or solutions. Gently roll the cotton swab across the mirror once. Do not drag the swab or roll it back and forth as this can scratch the mirror. If the mirror did not come clean, use a fresh cotton swab and repeat the procedure.<br>
+ <input type="checkbox" name="0" value="0">Inspect the `#3` Mirror and Focus Lens 1 and clean it only if there is debris present.<br>
+ ![Laser Diagram](/assets/images/laser-05.jpg)
+ <input type="checkbox" name="0" value="0">Flood the reflective surface of the `#3` mirror with the solution. If heavy debris is present, let the solution soak in for a minute.<br>
+ <input type="checkbox" name="0" value="0">Roll a fresh cotton swab across the mirror in one direction. Use a fresh swab for each pass. Be gentle when cleaning the optic to avoid scratching the surface. Repeat this procedure for the focus lens, but make sure you clean both sides of the lens.<br>
+ ![Laser Diagram](/assets/images/laser-06.jpg)
+ <input type="checkbox" name="0" value="0">The beam window or collimator is where the laser beam enters into the processing area. It is located in the upper left hand corner of the engraving area against the back wall and is yellow in color. It is only necessary to clean the front side of the beam window. Do not remove the optic to clean it; simply clean it in the same manner as the `#2` mirror.<br>
+ ![Laser Diagram](/assets/images/laser-07.jpg)
 
 
 ## Guides & Documents
@@ -99,15 +106,14 @@ Since the machine has a Z-axis, you can specify how deep you want a path to be c
 
 ## Weekly Checklist
 
-  <input type="checkbox" name="0" value="0">Clean rack and pinions for X,Y and Z (2nd Z if present) with small brush and re-grease. Add a BB size blob of light grease every 6” and run the tool to its extents in all axes about 10 times. Wipe off any excess grease and recheck X & Y with push/pull test.<br>
-  <input type="checkbox" name="0" value="0">Clean the Utilitrack (C channel rails on sides of PRS Z extrusion) with a solvent/lube like WD-40 and Scotchbrite pad. In high dust environments plastic rail wipers may have to be removed for proper cleaning of buildup. Wipe with light grease or machine oil.<br>
-  <input type="checkbox" name="0" value="0">Scrub all hardened V rails with Scotchbrite pad saturated with WD-40. Wipe with clean rag. Remove dust covers and check V rollers for buildup and clean with small brass brush if needed.<br>
-  <input type="checkbox" name="0" value="0">Add light machine oil to felt oilers inside of the 8 wheel covers and z-axis sweeps.<br>
-  <input type="checkbox" name="0" value="0">Check rack/pinion/motor/shaft relationship by rapid push-pull. X1, X2, Y and Z. Adjust motor mount or tighten set screws.<br>
+  <input type="checkbox" name="0" value="0">Clean X-Axis and Y-Axis bearings<br>
+  <input type="checkbox" name="0" value="0">Clean X-Axis and Y-Axis and bearing tracks<br>
+  <input type="checkbox" name="0" value="0">Clean X-Axis belt<br>
+  <input type="checkbox" name="0" value="0">Clean debris from under bed.<br>
 
 ## Notes
-- Swapped out control board twice on 48x48.
-- Regrounded 48x48, feels like it has stuxnet. Random crashing/plunging...
-- Redid Vac table on 48x48, ended up just switching to [plastic pneumatic nailer](https://raptornails.com/) to hold material to MDF spoilboard. Expensive, but worth it!
-- 2016, UArts ID Shop 48x48 Machine was scrapped as it would not stop crashing.
-- 2016, Workshop School needed dust collection, [I made an adaptor to standard ducting from original dust plate on 96x48](/assets/docs/shopbot/dust-attachment.zip).
+- Belts needed consistent tensioning.
+- Time to cut calculations not perfect.
+- Filter replaced every 6 mo.
+- Tube replaced after 5 years and massive power loss.
+- CAM software allows you to click and preview location of line with actual optical head movement and marker laser.
