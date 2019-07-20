@@ -1,5 +1,5 @@
 ---
-title: Archive: Magnet Explorations
+title: "Archive: Magnet Explorations"
 date: 2017-03-04 21:42
 author: bklevence
 categories: [Archive, Maker Jawn, Mazes]

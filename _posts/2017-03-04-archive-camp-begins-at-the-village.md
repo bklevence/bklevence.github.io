@@ -1,5 +1,5 @@
 ---
-title: Camp begins at the Village
+title: "Archive: Camp begins at the Village"
 date: 2013-06-20 21:51
 author: bklevence
 ---
