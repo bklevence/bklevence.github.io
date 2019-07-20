@@ -5,15 +5,17 @@ header:
 #  image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/ok-teaser.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
+  - title: "UArts Capstone Project"
+    image: assets/images/ok-sidebar.jpeg
     image_alt: "logo"
-    text: "Design Researcher, Fabricator"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "2014"
+  - title: "Materials"
+    text: "3M Copper Tape, PCB Blanks, Hobbyist Electronics"
+  - title: "Tools"
+    text: "Vector Editors, Vinyl Cutters, Eagle, OSH Park"
 ---
 
->[Hop over to Github to see the full documentation of the current iteration of the oneKey, below is directly lifted from the repo.](https://github.com/makerjawn/oneKey/)
+>[Hop on over to Github to see the full documentation of the current iteration of the oneKey, below is directly lifted from the repo.](https://github.com/makerjawn/oneKey/)
 
 Project Focus
 -------------------
