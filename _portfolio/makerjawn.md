@@ -3,7 +3,7 @@ title: "Maker Jawn"
 excerpt: "Various work while building out makerspaces around North Philadelphia as part of the Maker Jawn Initiative."
 toc: true
 header:
-  image: /assets/images/foo-bar-identity.jpg
+  image: /assets/images/jawn-header.jpeg
   teaser: /assets/images/jawn-teaser.jpg
 sidebar:
   - title: "Role"
@@ -33,6 +33,7 @@ Maker Jawn had much success after the 2013 summer of making exhibiting at Maker 
 
 ## Sustainability Crisis, Winter 2015
 
+### [GRID Article](https://issuu.com/redflagmedia/docs/079_grid)
 ### Co-founder leaves
 ### City Positions
 Immediately after city funded Maker Mentor positions are seasonal with a mandatory month off. Some makers cannot afford this break or are not able to keep their position. The Office of Public Service and Support put a College Prep Specialist with little knowledge of program direction in charge as director of the program. The library's office of Strategic Initiatives provided no direct support of the Maker Mentors or the Initiative.
