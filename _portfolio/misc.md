@@ -2,7 +2,7 @@
 title: "Misc. Student Work"
 excerpt: "Notable student work."
 header:
-  image: /assets/images/unsplash-gallery-image-3.jpg
+#  image: /assets/images/unsplash-gallery-image-3.jpg
   teaser: assets/images/misc-teaser.jpg
 sidebar:
   - title: "Role"
