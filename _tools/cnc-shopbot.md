@@ -14,7 +14,7 @@ sidebar:
 
 ### File Preparation
 
- <input type="checkbox" name="0" value="0">Units: inches<br>
+ <input type="checkbox" name="0" value="0">Units: inches
  <input type="checkbox" name="0" value="0">Layout board economically<br>
  <input type="checkbox" name="0" value="0">Check Offset/Cutter Tolerance for nested parts<br>
  <input type="checkbox" name="0" value="0">Within X and Y bounds for machine<br>
