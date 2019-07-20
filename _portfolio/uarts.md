@@ -1,6 +1,8 @@
 ---
 title: "Shop Systems"
 excerpt: "Various digital tools I've made with students for the shop."
+toc: true
+toc_sticky: true
 header:
 #  image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/uarts-teaser.png
@@ -27,10 +29,12 @@ I've always wanted to come back to this and make it a stand-alone, google free, 
 
 {% include gallery id="gallery" layout="full" caption="A quick image of the rough technician interface and a sample invoice processed from a submission in the queue." %}
 
-## Shop Website
+## ID UArts Shop Website
 
 [See Link](https://iduarts-shop.github.io/index.html)
 
-## Schedule BK
+## Workshop School Schedule BK
 
-[See Link](https://iduarts-shop.github.io/index.html)
+I needed a way to have advisors request my help during common advisory time in the morning. I created a web app using Google sheets for teachers to reserve myself, a shop space, or a tool during advisory time. I had it notify me when I was needed and kept the scheduler up on a digital display in the shop for all to see. 
+
+![Shop Scheduler](assets/images/scheduler-01)
