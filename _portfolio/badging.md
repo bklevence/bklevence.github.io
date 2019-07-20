@@ -8,7 +8,7 @@ sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Designer, Developer, and Design Researcher."
+    text: "Designer, Developer, Design Researcher"
   - title: "Responsibilities"
     text: "Lead participatory design workshops, collaborate with stakeholders, and develop working prototype."
 gallery:
