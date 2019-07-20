@@ -15,7 +15,7 @@ A peanut butter cookie is a type of cookie that is distinguished for having pean
 * 1 teaspoon baking powder
 * 1/2 teaspoon salt
 * 1 1/2 teaspoons baking soda
-
+ 
 ## Directions
 
 1. Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.
