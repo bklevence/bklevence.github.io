@@ -35,6 +35,6 @@ I've always wanted to come back to this and make it a stand-alone, google free, 
 
 ## Workshop School Schedule BK
 
-I needed a way to have advisors request my help during common advisory time in the morning. I created a web app using Google sheets for teachers to reserve myself, a shop space, or a tool during advisory time. I had it notify me when I was needed and kept the scheduler up on a digital display in the shop for all to see. 
+I needed a way to have advisors request my help during common advisory time in the morning. I created a web app using Google sheets for teachers to reserve myself, a shop space, or a tool during advisory time. I had it notify me when I was needed and kept the scheduler up on a digital display in the shop for all to see.
 
-![Shop Scheduler](assets/images/scheduler-01)
+![Shop Scheduler](assets/images/scheduler-01.jpg)
