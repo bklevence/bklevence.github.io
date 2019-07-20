@@ -51,7 +51,7 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
  <input type="checkbox" name="0" value="0">Within X and Y bounds for machine<br>
  <input type="checkbox" name="0" value="0">Within Z bounds, usually 0"-6" cutter depending.<br>
  <input type="checkbox" name="0" value="0">Join Vectors.<br>
- <input type="checkbox" name="0" value="0">Check fo duplicate lines.<br>
+ <input type="checkbox" name="0" value="0">Check for duplicate lines.<br>
  <input type="checkbox" name="0" value="0">Create Layers.<br>
  <input type="checkbox" name="0" value="0">Assign Vectors to layers.<br>
  <input type="checkbox" name="0" value="0">Export Vector file for vector or 2.5D cuts.<br>
