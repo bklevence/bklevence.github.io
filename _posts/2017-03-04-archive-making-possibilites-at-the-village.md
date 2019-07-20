@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Archive: Making Possibilites at the Village
+title: "Archive: Making Possibilities at the Village"
 date: 2017-03-04 21:46
 author: bklevence
 comments: true
