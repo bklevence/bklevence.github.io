@@ -11,7 +11,7 @@ sidebar:
   - title: "First Used"
     text: "2012"
   - title: "How it Works"
-    text: "The CNC router is a milling machine outfitted with motors that precisely control each axis (CNC stands for Computer Numerical Control). It is a subtractive process which uses a moving spinning bit or "cutter" to cut through material. The bits of the router can be switched out; we have a range of bits. Material can be cut along two or three dimensions."
+    text: "The CNC router is a milling machine outfitted with motors that precisely control each axis (CNC stands for Computer Numerical Control). It is a subtractive process which uses a moving spinning bit or cutter to cut through material. The bits of the router can be switched out; we have a range of bits. Material can be cut along two or three dimensions."
   - title: "Material"
     text: "Ply and hardwoods, MDF, masonite, acrylic, HDPE, LDPE, ABS, and foam (various densities)."
 ---
@@ -21,13 +21,17 @@ The router follows vector lines. As with the laser cutter, these vector lines ca
 
 ![Shop Scheduler](/assets/images/cnc-01.jpg)
 
-### Inside: the edge of the bit will hit the edge of a closed shape from the inside.
+### Inside:
+the edge of the bit will hit the edge of a closed shape from the inside.
 
-### Outside: the edge of the bit with hit the edge of a closed shape from the outside.
+### Outside:
+the edge of the bit with hit the edge of a closed shape from the outside.
 
-### On The Vector: the center of the bit will follow the vector
+### On The Vector:
+the center of the bit will follow the vector
 
-### Fill: the bit will completely remove the inside of a closed shape.
+### Fill:
+the bit will completely remove the inside of a closed shape.
 
 Since the machine has a Z-axis, you can specify how deep you want a path to be cut into the material. This is great for making dados or engraving graphics.
 
