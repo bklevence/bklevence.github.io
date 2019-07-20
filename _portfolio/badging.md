@@ -6,8 +6,8 @@ header:
   teaser: /assets/images/badge-teaser.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
+    image: /assets/images/badge-sidebar.jpg
+    image_alt: "Round table design workshop"
     text: "Designer, Developer, Design Researcher"
   - title: "Responsibilities"
     text: "Participatory Design, Stakeholder Liaison, Prototyping"
