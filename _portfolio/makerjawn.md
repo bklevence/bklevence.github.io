@@ -48,8 +48,7 @@ Immediately after city funded Maker Mentor positions are seasonal with a mandato
 
 ### Brain Drain
 As the program went into it's second year several other co-founders left the Initiative. Conflict began to arise within the bureaucratic system between management and the mentors.
-### Research
-[Deb Lui has a great white paper that touches on the span of time from the crisis to the decline.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=4234&context=edissertations)
+[Deb Lui has a great white paper that touches on the span of time from the crisis to the decline, link at bottom.
 
 ## Current Day
 
@@ -156,3 +155,4 @@ Each link should take you to a PDF archive of each activity listed lesson plan. 
 - [Media Mentor, Maker Jawn](https://books.google.com/books?id=Jz3pDAAAQBAJ&pg=PT123&lpg=PT123&dq=maker+jawn&source=bl&ots=GqaaXMy5r4&sig=ACfU3U1GARsZPZflrTDPLBtaFySHaHOKJw&hl=en&sa=X&ved=2ahUKEwjDm9iLgsTjAhXsmOAKHSPtAqQ4FBDoATAHegQICBAB#v=onepage&q=maker%20jawn&f=false)
 - [Nontraditional Staffing Models, Steele, K.](https://www.questia.com/library/journal/1G1-389260587/the-future-of-libraries-and-nontraditional-staffing)
 - [Meet Your Maker Klevence, B.](https://www.libraryjournal.com/)
+- [Deb Lui Research Paper](https://repository.upenn.edu/cgi/viewcontent.cgi?article=4234&context=edissertations)
