@@ -1,5 +1,5 @@
 ---
-title: Archive: The State of Digital Badging at the Free Library
+title: "Archive: The State of Digital Badging at the Free Library"
 date: 2017-03-04 22:20
 author: bklevence
 ---

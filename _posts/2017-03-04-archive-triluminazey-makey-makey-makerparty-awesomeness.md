@@ -1,5 +1,5 @@
 ---
-title: Archive: Triluminazey Makey Makey MakerParty Awesomeness
+title: "Archive: Triluminazey Makey Makey MakerParty Awesomeness"
 date: 2017-03-04 22:06
 author: bklevence
 ---
