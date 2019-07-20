@@ -108,9 +108,9 @@ analytics:
 # Site Author
 author:
   name             : "Brandon Klevence"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Educator and tinkerer"
-  location         : "New Jersey"
+  avatar           : "https://pbs.twimg.com/profile_images/1110222229873270784/SCqtn8uZ_400x400.jpg"
+  bio              : "Educator & Shop Dude"
+  location         : "Morristown, NJ"
   email            :
   links:
     - label: "Email"
@@ -121,13 +121,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      #url: "https://twitter.com/senorklev"
+      url: "https://twitter.com/senorklev"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/bklevence"
+       url: "https://github.com/bklevence"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
