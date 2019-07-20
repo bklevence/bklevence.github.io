@@ -59,7 +59,7 @@ The four badges created by the team were:
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-After initial prototyping and testing Maker Jawn moved on a “passport” model to a bucket model.  The impetus for this change was a move towards on the floor programs for all ages, not just youth.
+After initial prototyping and testing Maker Jawn moved on a “passport” model to a bucket model.  The impetus for this change was a move towards on the floor programs for all ages, not just youth, and the need to capture data from projects and events.
 
 Token "Badges" collected like drips of water in a bucket, we looked to give tokens for recurring usage of tools, demonstrations of skill, or participation in programs and have that guide badge issuing. These token "badges" were strictly for grant reporting data and are not transferable to other badging platforms and can be entered by a maker mentor or a participant during or after an on the floor program. To get a transferable badge from Maker Jawn or FLP they would have to for a badge by receiving X number of tokens from various projects or interactions. The system could also be set so participation in an event or program workshop would unlock a badge.
 
