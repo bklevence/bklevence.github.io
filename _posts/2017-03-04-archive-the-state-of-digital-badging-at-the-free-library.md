@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Archive: The State of Digital Badging at the Free Library
 date: 2017-03-04 22:20
 author: bklevence
-comments: true
 categories: [Archive, Digital Badging, Maker Jawn]
 ---
 <blockquote>Originally posted January 9, 2015 on the <a href="http://makerjawn.org/blog/2015/01/09/the-state-of-digital-badging-at-the-free-library/">Maker Jawn Blog</a>:</blockquote>

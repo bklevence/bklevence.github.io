@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Archive: Magnet Explorations
 date: 2017-03-04 21:42
 author: bklevence
-comments: true
 categories: [Archive, Maker Jawn, Mazes]
 ---
 <blockquote>Originally Posted June 20, 2013 on the <a href="http://makerjawn.org/blog/2013/06/20/catsncoons-making-stuffs-with-magnets-from-bk/">Maker Jawn Blog</a></blockquote>

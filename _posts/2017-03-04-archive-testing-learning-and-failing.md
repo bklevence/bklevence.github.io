@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Archive: Testing, Learning, and Failing.
 date: 2017-03-04 21:58
 author: bklevence
-comments: true
 categories: [Archive, Maker Jawn, Mazes]
 ---
 Originally Posted July 27, 2013 on the <a href="http://makerjawn.org/blog/2013/07/27/testing-learning-and-failing/">Maker Jawn Blog</a>:
