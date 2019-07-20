@@ -22,5 +22,7 @@ As the directing mentor of Workshop Industries I helped bring to life multiple p
 The Jawnament, Giant Scrabble Tiles & Holders, Love & Noel Designs, Generative Spiderwebs and Snowflakes, and last but not least The Jawnorah. All of these products were designed with and machined by students after school or during internship hours throughout the week. They sold these products at craft fairs or online and in my last year students net $16,000 profit during Holiday Sales.
 
 ## Gallery
+I also need to come back and clean up or provide more info for this gallery.
+
 
 ## Press:
