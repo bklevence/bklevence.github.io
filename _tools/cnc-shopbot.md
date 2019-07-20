@@ -81,7 +81,7 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
 
 ## Guides & Documents
 
-###[QuickStart Guide](/assets/docs/shopbot/quickstart.pdf){: .btn .btn--danger .btn--large}
+[QuickStart Guide](/assets/docs/shopbot/quickstart.pdf){: .btn .btn--danger .btn--large}
 
 - [User Guide](/assets/docs/shopbot/user-guide.pdf)
 - [Command Reference v3](/assets/docs/shopbot/command-ref.pdf)
