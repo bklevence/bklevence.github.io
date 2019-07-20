@@ -43,7 +43,7 @@ gallery:
     alt: "placeholder image 6"
 ---
 
-The Free Library team’s goal with developing a prototype set of badges was to give the youth a means of documentation for their activities that they could take with them - not just physically, but digitally - beyond the program and onwards to high school, college, and careers. The portable and transferable method of recognizing skills offered by badges meant they were a natural fit for this program, and it will be interesting to see how it develops as the team rolls out the badges.
+The Free Library team’s goal with developing a prototype set of badges was to give the youth a means of documentation for their activities that they could take with them - not just physically, but digitally - beyond any program and onwards to high school, college, and careers. The portable and transferable method of recognizing skills offered by badges were a natural fit for The Maker Jawn Initiative, leading to a multi year system research and design process.
 
 Working with libraries in low-income neighborhoods as part of the North Philadelphia Library Cluster, the team expanded to gain the voice of rising neighborhood youth in partnership with the Philadelphia Youth Network (PYN).
 
