@@ -38,11 +38,11 @@ From Sparkfun's [*MaKey MaKey Documentation*](https://github.com/sparkfun/makeym
 
 Methods
 -------------------
-The original oneKey uses a vinyl cutter and 3M copper tape to make a low-barrier and low-cost method for creating traces to solder onto. If working indoors take precautions with ventilalation etc. Working currently on a PCB kit version.
+The original oneKey uses a vinyl cutter and 3M copper tape to make a low-barrier and low-cost method for creating traces to solder onto. If working indoors take precautions with ventilation etc. Working currently on a PCB kit version.
 
-Brief History
+Brief History (Vinyl Cut Variations)
 -------------------
-To date two iterations of the one input MaKey MaKey derivative, "MaKey MaKey MaKey", or officially "oneKey" for short, have been deployed. The first generation proved that youth could make, hack, and play with their own hardware. After various form and material explorations as well as a circuit redesign it is currently in its second phase. The new design is easier to handle, the cost per unit has dropped from $7 to $1.30, it's quicker to make, and there is still much more to refine.
+To date two iterations of the one input MaKey MaKey derivative, "MaKey MaKey MaKey", or officially "oneKey" for short, have been deployed. The first generation proved that youth could make, hack, and play with their own hardware. After various form and material explorations as well as a circuit redesign it is currently in its second phase. The new design is easier to handle, the cost per unit has dropped from $7 to $1.30, it's quicker to make, and there is still much more to refine. There is a PCB version that still needs tuning as of 2019. Also, Joy Labz came out with their own $20 one-key thumbdrive!
 
 Variations
 ----------------
