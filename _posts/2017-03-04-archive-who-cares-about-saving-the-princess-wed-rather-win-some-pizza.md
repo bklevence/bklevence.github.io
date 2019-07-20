@@ -1,5 +1,5 @@
 ---
-title: Archive: Who cares about saving the Princess, we'd rather win some Pizza.
+title: "Archive: Who cares about saving the Princess, we'd rather win some Pizza."
 date: 2017-03-04 21:54
 author: bklevence
 ---
