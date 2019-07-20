@@ -1,6 +1,6 @@
 ---
-title: "UArts Shop"
-excerpt: "Various work from my digital fabrication classes at University of the Arts."
+title: "Shop Systems"
+excerpt: "Various digital tools I've made with students for the shop."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/uarts-teaser.png
