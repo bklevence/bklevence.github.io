@@ -57,7 +57,7 @@ The four badges created by the team were:
 - Life / being
 
 
-{% include gallery caption="This gallery gives you a some examples of FLP badging systems." %}
+{% include gallery caption="This gallery gives you a some examples of the two FLP badging systems." %}
 
 After initial prototyping and testing Maker Jawn moved on a “passport” model to a bucket model.  The impetus for this change was a move towards on the floor programs for all ages, not just youth, and the need to capture data from projects and events.
 
