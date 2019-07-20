@@ -2,11 +2,11 @@
 title: "Shop Systems"
 excerpt: "Various digital tools I've made with students for the shop."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
+#  image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/uarts-teaser.png
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+#    image: http://placehold.it/350x250
     image_alt: "logo"
     text: "Shop Manager"
   - title: "Responsibilities"
