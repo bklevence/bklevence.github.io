@@ -25,6 +25,9 @@ gallery:
   - url: /assets/images/ksd-03.jpg
     image_path: assets/images/ksd-03.jpg
     alt: "placeholder image 3"
+  - url: /assets/images/ksd-03-1.jpg
+    image_path: assets/images/ksd-03-1.jpg
+    alt: "placeholder image 3"
   - url: /assets/images/ksd-04.jpg
     image_path: assets/images/ksd-04.jpg
     alt: "placeholder image 4"
