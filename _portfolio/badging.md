@@ -14,15 +14,24 @@ sidebar:
   - title: "Platform"
     text: "WordPress"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/badge-01.jpg
+    image_path: /assets/images/badge-01.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/badge-02.jpg
+    image_path: /assets/images/badge-02.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/badge-03.jpg
+    image_path: /assets/images/badge-03.jpg
     alt: "placeholder image 3"
+  - url: /assets/images/badge-04.jpg
+  image_path: /assets/images/badge-04.jpg
+  alt: "placeholder image 4"
+  - url: /assets/images/badge-05.jpg
+  image_path: /assets/images/badge-05.jpg
+  alt: "placeholder image 5"
+  - url: /assets/images/badge-06.jpg
+    image_path: /assets/images/badge-06.jpg
+    alt: "placeholder image 6"
 ---
 
 The Free Library team’s goal with developing a prototype set of badges was to give the youth a means of documentation for their activities that they could take with them - not just physically, but digitally - beyond the program and onwards to high school, college, and careers. The portable and transferable method of recognizing skills offered by badges meant they were a natural fit for this program, and it will be interesting to see how it develops as the team rolls out the badges.
@@ -54,8 +63,6 @@ Token "Badges" collected like drips of water in a bucket, we looked to give toke
 - Project Tokens:
   - Tokens for defined projects that use a variety of skills, an example is ArtBots in which participants use crafts and engineering tools, problem solving+
 
-The hope was that sign-in sheets and reporting could be streamlined by this implementation of badging and the data it generates. These badges unlike Tokens can be shared through Credly to Facebook, LinkedIn, and a variety of other Mozilla Open Badges based platforms.
-
-
+In this model each maker mentor verifying participant tokens daily would remove the standard sign-in sheet and streamline the daily, monthly, and annual data reporting process. These badges unlike Tokens can be shared through Credly to Facebook, LinkedIn, and a variety of other Mozilla Open Badges based platforms.
 
 This iteration was tested in 3 library locations in North Philadelphia with 15 initial participants. The testing site is now defunct.
