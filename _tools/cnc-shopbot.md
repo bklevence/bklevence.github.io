@@ -1,16 +1,14 @@
 ---
 title: "Shopbot CNC"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "I have used both 48x48 and 96x48 PRSalpha models."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: assets/images/shopbot-01.jpg
 sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
+    image: assets/images/shopbot-01.jpg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Workshop School, University of the Arts"
+  - title: "Location & Comments"
+    text: "The 48x48 had way too many gremlins."
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
