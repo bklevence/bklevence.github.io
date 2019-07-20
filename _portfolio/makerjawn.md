@@ -66,27 +66,27 @@ Supposedly all remaining makers are now programming specialists as part of T.O.P
 I do really wish the remaining program mentors the best if they're still at FLP. I have started find ways to digitally archive the good work people have did at the initiative below:
 
 - [Wayback Machine](https://web.archive.org/web/20161031162653/http://makerjawn.org/) It seems like an ok way to get the site back, but most blog posts are not archived. I have copied some of my own articles to this Jekyll blog, but subsequently lost the rich media for them in 2019.
-- Curriculum, below each link should take you to a PDF archive of each activity listed lesson plan. Originally stored on the Maker Jawn site as shared Google Docs.
+- Curriculum, below each link should take you to a PDF archive of each activity listed lesson plan. Originally stored on the Maker Jawn site as shared Google Docs:
   - [Balance: A great art activity that incorporates basic physics and engineering.](/assets/docs/mj/balance.pdf)
   - [Cardboard: Practice engineering and creative problem solving skills.](/assets/docs/mj/cardboard.pdf)
   - [Wind Powered Cars: A design challenge that utilizes recycled materials.](/assets/docs/mj/wind-cars.pdf)
   - [Body Tracing Self-Portraits: This cheap, low-impact activity can yield many hours of color, decorating, and discovery!](/assets/docs/mj/body.pdf)
   - [Bracelet Weaving: A simple introduction to weaving.](/assets/docs/mj/bracelet.pdf)
   - [Finger Puppets: Great intro to sewing.](/assets/docs/mj/finger-puppets.pdf)
-  - Intro to Design Concepts: A simple start to getting youth to think about decision making in design.
-  - LED Magic Lantern: A project that combines traditional crafting with copper tape circuitry and storytelling.
-  - One Page Zine: Design, draw, and share a one page zine.
-  - Paper Mache Giant Head: This project uses almost all recycled material, works great with large groups, and is sure to draw attention and new participants to your Maker program.
-  - Slime: A science experiment that makes a great movie prop.
-  Opening Movement Patterns: A short easy way to get into your body and start firing up your brain!
-  - Closing Movement Pattern: A yoga based stretching exercise to cool down and focus after an activity.
-  - One Idea: A fun activity for dancing, creative movement, and cooperation.
-  - Relief Prints: Learn a traditional form of printmaking.
-  - LED Kaleidoscope: Spark creative thinking through designing and building an LED kaleidoscope.
-  - Audiobooks: Great way to expose participants to story writing with no consumable materials and free software.
-  - Highlight Reel Making with Animoto: Learn about managing your online content and produce highlight reels using a free cloud-based service.
-  - Mozilla PopcornMaker: Mashup your favorite YouTube videos and other media! A great hook into video and music editing.
-  - Stop Motion Animation: Get started with animating using a tablet or smartphone.
+  - [Intro to Design Concepts: A simple start to getting youth to think about decision making in design.](/assets/docs/mj/design.pdf)
+  - [LED Magic Lantern: A project that combines traditional crafting with copper tape circuitry and storytelling.](/assets/docs/mj/magic-lantern.pdf)
+  - [One Page Zine: Design, draw, and share a one page zine.](/assets/docs/mj/zine.pdf)
+  - [Paper Mache Giant Head: This project uses almost all recycled material, works great with large groups, and is sure to draw attention and new participants to your Maker program.](/assets/docs/mj/paper-mache.pdf)
+  - [Slime: A science experiment that makes a great movie prop.](/assets/docs/mj/slime.pdf)
+  - [Opening Movement Patterns: A short easy way to get into your body and start firing up your brain!](/assets/docs/mj/movement-open.pdf)
+  - [Closing Movement Pattern: A yoga based stretching exercise to cool down and focus after an activity.](/assets/docs/mj/movement-close.pdf)
+  - [One Idea: A fun activity for dancing, creative movement, and cooperation.](/assets/docs/mj/one-idea.pdf)
+  - [Relief Prints: Learn a traditional form of printmaking.](/assets/docs/mj/#)
+  - [LED Kaleidoscope: Spark creative thinking through designing and building an LED kaleidoscope.](/assets/docs/mj/kaleidoscope.pdf)
+  - [Audiobooks: Great way to expose participants to story writing with no consumable materials and free software.](/assets/docs/mj/audiobooks.pdf)
+  - [Highlight Reel Making with Animoto: Learn about managing your online content and produce highlight reels using a free cloud-based service.](/assets/docs/mj/animoto.pdf)
+  - [Mozilla PopcornMaker: Mashup your favorite YouTube videos and other media! A great hook into video and music editing.](/assets/docs/mj/popcorn-maker.pdf)
+  - [Stop Motion Animation: Get started with animating using a tablet or smartphone.](/assets/docs/mj/stop-motion.pdf)
   - Guidelines for Making Movies in Libraries
   - Narrative Development
   - Skit Workshop
