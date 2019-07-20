@@ -3,6 +3,8 @@ title: "Shopbot CNC"
 excerpt: "I have used both 48x48 and 96x48 PRSalpha models."
 header:
   teaser: assets/images/shopbot-01.jpg
+  toc: true
+  toc_sticky: true
 sidebar:
   - image: assets/images/shopbot-01.jpg
     image_alt: "logo"
