@@ -6,11 +6,38 @@ header:
 sidebar:
   - image: assets/images/shopbot-01.jpg
     image_alt: "logo"
-  - title: "Location"
-    text: "Workshop School, University of the Arts,"
-  - title: "Comments"
-    text: "The 48x48 had way too many gremlins."
+  - title: "First Used"
+    text: "2012"
+  - title: "How it Works"
+    text: "The CNC router is a milling machine outfitted with motors that precisely control each axis (CNC stands for Computer Numerical Control). It is a subtractive process which uses a moving spinning bit or "cutter" to cut through material. The bits of the router can be switched out; we have a range of bits. Material can be cut along two or three dimensions."
+  - title: "Material"
+    text: "Ply and hardwoods, MDF, masonite, acrylic, HDPE, LDPE, ABS, and foam (various densities)."
 ---
+
+## 2-Dimensional Milling
+The router follows vector lines. As with the laser cutter, these vector lines can be generated in Rhino, Illustrator, Onshape, or another CAD software. Since the bit has a diameter, you must specify how you want the machine to interpret your vectors. There are four options: *Inside, Outside, On The Vector, and Fill/Pocket.*
+
+![Shop Scheduler](/assets/images/cnc-01.jpg)
+
+### Inside: the edge of the bit will hit the edge of a closed shape from the inside.
+
+### Outside: the edge of the bit with hit the edge of a closed shape from the outside.
+
+### On The Vector: the center of the bit will follow the vector
+
+### Fill: the bit will completely remove the inside of a closed shape.
+
+Since the machine has a Z-axis, you can specify how deep you want a path to be cut into the material. This is great for making dados or engraving graphics.
+
+## 3-Dimensional Milling
+
+The CNC router can also mill models from 3-dimensional files. For this to happen, the 3d file must be run through software that converts it into a set of instructions for cutting. It does this by analyzing the topology of the model and projecting a grid onto it. When cutting, the bit follows these gridlines (the distance between gridlines can be controlled, but is primarily based on the width of the bit). A basic diagram for the analysis of a 3d model along one axis:
+
+![Shop Scheduler](/assets/images/cnc-02.jpg)
+
+*A very important thing to note:* The bit is only capable of moving up and down; it doesn't rotate. This means that *undercuts are not possible*. Here is an illustration to clarify:
+
+![Shop Scheduler](/assets/images/cnc-03.jpg)
 
 ### File Preparation
 
