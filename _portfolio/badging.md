@@ -45,9 +45,9 @@ gallery:
 
 The Free Library team’s goal with developing a prototype set of badges was to give the youth a means of documentation for their activities that they could take with them - not just physically, but digitally - beyond the program and onwards to high school, college, and careers. The portable and transferable method of recognizing skills offered by badges meant they were a natural fit for this program, and it will be interesting to see how it develops as the team rolls out the badges.
 
-Working with libraries in low-income neighborhoods as part of the North Philadelphia Library Cluster, the team led afterschool and summer activities in partnership with the Philadelphia Youth Network (PYN).
+Working with libraries in low-income neighborhoods as part of the North Philadelphia Library Cluster, the team expanded to gain the voice of rising neighborhood youth in partnership with the Philadelphia Youth Network (PYN).
 
-The program served approximately 70 teens at 9 library locations working with 20 or so maker mentors and college prep specialists helping the students with SAT prep and scholarship applications.
+With PYN resources the collaborative design team expanded to approximately 70 teens at 9 library locations working with 20 maker mentors and college prep specialists who also helped them with SAT prep and scholarship applications.
 
 The four badges created by the team were:
 
