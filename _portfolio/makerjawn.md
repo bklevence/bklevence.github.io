@@ -1,6 +1,6 @@
 ---
-title: "the Maker Jawn Initiative"
-excerpt: "Various work while building out makerspaces around North Philadelphia."
+title: "Maker Jawn"
+excerpt: "Various work while building out makerspaces around North Philadelphia as part of the Maker Jawn Initiative."
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/jawn-teaser.jpeg

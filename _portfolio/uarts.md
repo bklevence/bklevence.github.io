@@ -1,6 +1,6 @@
 ---
-title: "UArts Precollege"
-excerpt: "Various work from my classes at University of the Arts."
+title: "UArts Shop"
+excerpt: "Various work from my digital fabrication classes at University of the Arts."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/pc-teaser.jpg
