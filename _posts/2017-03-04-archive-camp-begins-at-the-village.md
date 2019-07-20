@@ -1,10 +1,7 @@
 ---
-layout: post
 title: Archive: Camp begins at the Village
-date: 2017-03-04 21:51
+date: 2013-06-20 21:51
 author: bklevence
-comments: true
-categories: [Archive, Maker Jawn, Mazes]
 ---
 <blockquote>Originally posted July 10, 2013 on the <a href="http://makerjawn.org/blog/2013/07/10/camp-begins-at-the-village/">Maker Jawn Blog</a>:</blockquote>
 This past week has been pretty rad for us up at the Village! Earlier in the week Camp started so we had a few Squishy Circuitry tinkering sessions. It was awesome to watch the new makers (camp kids) testing the limits of the play-doh and insulating dough. All mixed in was the comic relief that the insulating dough could be used as snot balls to startle Ms. Brenda and some mischief around the second floor with the Piezzo buzzers.
