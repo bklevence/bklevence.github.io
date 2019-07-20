@@ -68,11 +68,11 @@ I do really wish the remaining program mentors the best if they're still at FLP.
 - [Wayback Machine](https://web.archive.org/web/20161031162653/http://makerjawn.org/) It seems like an ok way to get the site back, but most blog posts are not archived. I have copied some of my own articles to this Jekyll blog, but subsequently lost the rich media for them in 2019.
 - Curriculum, below each link should take you to a PDF archive of each activity listed lesson plan. Originally stored on the Maker Jawn site as shared Google Docs.
   - [Balance: A great art activity that incorporates basic physics and engineering.](/assets/docs/mj/balance.pdf)
-  - Cardboard: Practice engineering and creative problem solving skills.
-  - Wind Powered Cars: A design challenge that utilizes recycled materials.
-  - Body Tracing Self-Portraits: This cheap, low-impact activity can yield many hours of color, decorating, and discovery!
-  - Bracelet Weaving: A simple introduction to weaving.
-  - Finger Puppets: Great intro to sewing.
+  - [Cardboard: Practice engineering and creative problem solving skills.](/assets/docs/mj/cardboard.pdf)
+  - [Wind Powered Cars: A design challenge that utilizes recycled materials.](/assets/docs/mj/wind-cars.pdf)
+  - [Body Tracing Self-Portraits: This cheap, low-impact activity can yield many hours of color, decorating, and discovery!](/assets/docs/mj/body.pdf)
+  - [Bracelet Weaving: A simple introduction to weaving.](/assets/docs/mj/bracelet.pdf)
+  - [Finger Puppets: Great intro to sewing.](/assets/docs/mj/finger-puppets.pdf)
   - Intro to Design Concepts: A simple start to getting youth to think about decision making in design.
   - LED Magic Lantern: A project that combines traditional crafting with copper tape circuitry and storytelling.
   - One Page Zine: Design, draw, and share a one page zine.
