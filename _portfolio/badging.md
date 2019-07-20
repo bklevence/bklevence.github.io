@@ -43,7 +43,7 @@ The four badges created by the team were:
 
 After initial prototyping and testing Maker Jawn moved on a “passport” model to a bucket model.  The impetus for this change was a move towards on the floor programs for all ages, not just youth.
 
-Token "Badges" collected like drips of water in a bucket, we looked to give tokens for recurring usage of tools, demonstrations of skill, or participation in programs and have that guide badge issuing. These token "badges" were strictly for grant reporting data and are not transferable to other badging platforms and can be entered by a maker mentor or a participant during or after an on the floor program. To get a transferable badge from Maker Jawn or FLP they would have to for a badge by receiving X number of tokens from various projects or interactions. The system could also be set so participation in an event or program workshop would unlock a badge. The hope being that sign-in sheets and reporting could be streamlined by this implementation of badging and the data it generates. These badges unlike Tokens can be shared through Credly to Facebook, LinkedIn, and a variety of other Mozilla Open Badges based platforms.
+Token "Badges" collected like drips of water in a bucket, we looked to give tokens for recurring usage of tools, demonstrations of skill, or participation in programs and have that guide badge issuing. These token "badges" were strictly for grant reporting data and are not transferable to other badging platforms and can be entered by a maker mentor or a participant during or after an on the floor program. To get a transferable badge from Maker Jawn or FLP they would have to for a badge by receiving X number of tokens from various projects or interactions. The system could also be set so participation in an event or program workshop would unlock a badge.
 
 - Experience Badges
   - "Creator, Tinkerer, Archivist, Life-Long Learner, Mentor."
@@ -53,5 +53,9 @@ Token "Badges" collected like drips of water in a bucket, we looked to give toke
   - Examples are tool usage, presenting, collaboration. Flexible to be used in patron driven projects.
 - Project Tokens:
   - Tokens for defined projects that use a variety of skills, an example is ArtBots in which participants use crafts and engineering tools, problem solving+
+
+The hope was that sign-in sheets and reporting could be streamlined by this implementation of badging and the data it generates. These badges unlike Tokens can be shared through Credly to Facebook, LinkedIn, and a variety of other Mozilla Open Badges based platforms.
+
+
 
 This iteration was tested in 3 library locations in North Philadelphia with 15 initial participants. The testing site is now defunct.
