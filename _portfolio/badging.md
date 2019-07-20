@@ -10,7 +10,9 @@ sidebar:
     image_alt: "logo"
     text: "Designer, Developer, Design Researcher"
   - title: "Responsibilities"
-    text: "Lead participatory design workshops, collaborate with stakeholders, and develop working prototype."
+    text: "Participatory Design, Stakeholder Liaison, Prototyping"
+  - title: "Platform"
+    text: "WordPress"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -23,8 +25,33 @@ gallery:
     alt: "placeholder image 3"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+The Free Library team’s goal with developing a prototype set of badges was to give the youth a means of documentation for their activities that they could take with them - not just physically, but digitally - beyond the program and onwards to high school, college, and careers. The portable and transferable method of recognizing skills offered by badges meant they were a natural fit for this program, and it will be interesting to see how it develops as the team rolls out the badges.
+
+Working with libraries in low-income neighborhoods as part of the North Philadelphia Library Cluster, the team led afterschool and summer activities in partnership with the Philadelphia Youth Network (PYN).
+
+The program served approximately 70 teens at 9 library locations working with 20 or so maker mentors and college prep specialists helping the students with SAT prep and scholarship applications.
+
+The four badges created by the team were:
+
+- Community / team building
+- Creator / inventing
+- Presence / presenting
+- Life / being
+
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+After initial prototyping and testing Maker Jawn moved on a “passport” model to a bucket model.  The impetus for this change was a move towards on the floor programs for all ages, not just youth.
+
+Token "Badges" collected like drips of water in a bucket, we looked to give tokens for recurring usage of tools, demonstrations of skill, or participation in programs and have that guide badge issuing. These token "badges" were strictly for grant reporting data and are not transferable to other badging platforms and can be entered by a maker mentor or a participant during or after an on the floor program. To get a transferable badge from Maker Jawn or FLP they would have to for a badge by receiving X number of tokens from various projects or interactions. The system could also be set so participation in an event or program workshop would unlock a badge. The hope being that sign-in sheets and reporting could be streamlined by this implementation of badging and the data it generates. These badges unlike Tokens can be shared through Credly to Facebook, LinkedIn, and a variety of other Mozilla Open Badges based platforms.
+
+- Experience Badges
+  - "Creator, Tinkerer, Archivist, Life-Long Learner, Mentor."
+- Event badges  
+  - Contribution to events e.g.: Poetry Slam, Bake Sale, Teen Tech Week.
+- Skill Tokens:
+  - Examples are tool usage, presenting, collaboration. Flexible to be used in patron driven projects.
+- Project Tokens:
+  - Tokens for defined projects that use a variety of skills, an example is ArtBots in which participants use crafts and engineering tools, problem solving+
+
+This iteration was tested in 3 library locations in North Philadelphia with 15 initial participants. The testing site is now defunct.
