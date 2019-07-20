@@ -16,7 +16,7 @@ sidebar:
   - title: "Shops Utilized"
     text: "Woods, Metals, Automotive, Autobody"
 gallery:
-  - url: https://www.youtube.com/watch?v=mw3VB9Scfys
+  - url: /assets/images/ksd-01.png
     image_path: assets/images/ksd-01.png
     alt: "placeholder image 1"
   - url: /assets/images/ksd-02.png
@@ -41,6 +41,8 @@ gallery:
 
 I have a fun track record of helping youth make entries for the Kensington Kinetic Sculpture Derby. I have done it three years now and have gone from a closet of junk bikes, a to sponsored franken-tandem, and finally students fundraised to strip down pick-up to make it human powered. Not much more to explain, the projects have gotten a fair amount of press:
 
+- 2015
+  - [Maker Jawn Initiative](https://www.youtube.com/watch?v=mw3VB9Scfys)
 - 2017
   - [Philly Voice](https://www.phillyvoice.com/west-phillys-the-workshop-school-joins-this-years-kensington-kinetic-sculpture-derby/)
   - [WHYY](https://whyy.org/articles/students-to-test-their-mettle-in-phillys-kinetic-sculpture-parade-photos/)
