@@ -7,8 +7,6 @@ header:
   teaser: /assets/images/jawn-teaser.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
     text: "Lead Prototyper, Maker Mentor"
   - title: "Responsibilities"
     text: "Generate and collaborate on project curriculum, design and implement novel maker progams, outreach"
@@ -44,7 +42,7 @@ Immediately after city funded Maker Mentor positions are seasonal with a mandato
 ### Brain Drain
 As the program went into it's second year several other co-founders left the Initiative. Conflict began to arise within the bureaucratic system between management and the mentors.
 ### Research
-Deb Lui has a great white paper that touches on the span of time from the crisis to the decline.
+[Deb Lui has a great white paper that touches on the span of time from the crisis to the decline.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=4234&context=edissertations)
 
 ## Current Day
 
