@@ -67,6 +67,17 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
 - Engrave_DepthOfEngrave_DegreeOfVBIT
 - Pocket_DepthOfPocket_SpecifiedCutterDim
 
+## Machine Preparation Checklist
+
+ <input type="checkbox" name="0" value="0">Warm up spindle for 6-9 minutes with `[C][5]routine` (preferred) or 1⁄2 RPM if you do not have spindle speed control. Confirm operation of spindle fan.<br>
+ <input type="checkbox" name="0" value="0">Check bit, collet and collet nut for wear and debris. Collets are good for 400-500 hours MAXIMUM of use if they are kept clean and no “event” occurs such as a broken bit inside the collet or a plunge that bottoms out on the collet.<br>
+ <input type="checkbox" name="0" value="0">Check rack/pinion/motor/shaft relationship by rapidly pushing and pulling the carriages near each motor. X1, X2, Y and Z. Adjust motor mount and/or tighten set screws. A slight clicking sound should be heard, but no movement (over a few thousandths) should be present. Adjust if needed.<br>
+ <input type="checkbox" name="0" value="0">Move the machine around the table in both jog and move speeds, or make a short warm up routine.<br>
+ <input type="checkbox" name="0" value="0">Home the tool `[C][3] routine` using the prox switches.<br>
+ <input type="checkbox" name="0" value="0">Zero your bit `[C][2]` (or other custom zero routine) to material surface or spoilboard.<br>
+ <input type="checkbox" name="0" value="0">Verify that your bit has been zeroed properly by using a `MZ,0` command over the surface you have zeroed the bit to. Repeat zeroing if not correct.<br>
+ <input type="checkbox" name="0" value="0">Perform a visual inspection of the machine, wiring, dust collection hoses and table surface. Verify proper operation of vacuum pump and dust collector (if present)<br>
+
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
