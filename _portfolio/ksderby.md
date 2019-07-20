@@ -6,6 +6,8 @@ header:
   teaser: assets/images/ksd-teaser.jpeg
 sidebar:
   - title: "Role"
+    image: /assets/images/ksd-sidebar.png
+    image_alt: "Round table design workshop"
     text: "Designer, Fabricator, Instructor"
   - title: "Responsibilities"
     text: "Research, Mechanical Design, Fabrication"
