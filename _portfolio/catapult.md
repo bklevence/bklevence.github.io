@@ -12,7 +12,7 @@ sidebar:
   - title: "Student Outcomes"
     text: "Learn design process, materials processing, mechanics, model testing, data collection, and project documentation."
   - title: "Materials"
-    text: "Poplar, Mason Line, Fasteners "
+    text: "Poplar, Mason Line, Fasteners"
   - title: "Tools"
     text: "Handtools, bandsaw, bench and hand sanders, pneumatic nailer"
 gallery:

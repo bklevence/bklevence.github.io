@@ -11,16 +11,25 @@ sidebar:
     text: "Designer, Fabricator, Instructor"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
+  - title: "Student Outcomes"
+    text: "Design, Fund Raise, Build, Exhibit"
+  - title: "Materials"
+    text: "Bicyle Parts, Machine Parts, Bikes of all Kinds, Chevy S10 Pickup"
+  - title: "Shops Utilized"
+    text: "Woods, Metals, Automotive, Autobody"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - url: /assets/images/sm-01.jpg
+    image_path: assets/images/sm-01.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
+  - url: /assets/images/sm-02.jpg
+    image_path: assets/images/sm-02.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
+  - url: /assets/images/sm-03.jpg
+    image_path: assets/images/sm-03.jpg
     alt: "placeholder image 3"
+  - url: /assets/images/sm-04.jpg
+    image_path: assets/images/sm-04.jpg
+    alt: "placeholder image 4"  
 ---
 
 Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
