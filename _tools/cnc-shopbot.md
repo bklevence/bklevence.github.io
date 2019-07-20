@@ -81,7 +81,14 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
 
 ## Guides & Documents
 
-[QuickStart Guide](/assets/docs/shopbot/quickstart.pdf){: .btn .btn--danger .btn--large}
+###[QuickStart Guide](/assets/docs/shopbot/quickstart.pdf){: .btn .btn--danger .btn--large}
+
+- [User Guide](/assets/docs/shopbot/user-guide.pdf)
+- [Command Reference v3](/assets/docs/shopbot/command-ref.pdf)
+- [Feeds and Speeds](/assets/docs/shopbot/feeds-and-speeds.pdf)
+- [Programming Handbook](/assets/docs/shopbot/programming-handbook.pdf)
+- [Maintenance](/assets/docs/shopbot/maintenance.pdf)
+- [Gantry Assembly](/assets/docs/shopbot/gantry-assembly.pdf)
 
 
 ## Weekly Checklist
@@ -92,9 +99,9 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
   <input type="checkbox" name="0" value="0">Add light machine oil to felt oilers inside of the 8 wheel covers and z-axis sweeps.<br>
   <input type="checkbox" name="0" value="0">Check rack/pinion/motor/shaft relationship by rapid push-pull. X1, X2, Y and Z. Adjust motor mount or tighten set screws.<br>
 
-
-
-
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
-
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+## Notes
+- Swapped out control board twice on 48x48.
+- Regrounded 48x48, feels like it has stuxnet. Random crashing/plunging...
+- Redid Vac table on 48x48, ended up just switching to [plastic pneumatic nailer](https://raptornails.com/) to hold material to MDF spoilboard. Expensive, but worth it!
+- 2016, UArts ID Shop 48x48 Machine was scrapped as it would not stop crashing.
+- 2016, Workshop School needed dust collection, [I made an adaptor to standard ducting from original dust plate on 96x48](/assets/docs/shopbot/dust-attachment.zip).
