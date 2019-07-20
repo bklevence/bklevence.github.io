@@ -6,4 +6,4 @@ permalink: /places/
 author_profile: false
 ---
 
-A collection of notes on `places` for travel.
+A collection of notes on `places` for travels.
