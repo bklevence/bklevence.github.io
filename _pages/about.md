@@ -114,7 +114,7 @@ Training led by the Maker Education Initiative, Summer 2013.
 - Teaching Artist, The Village of Arts and Humanities, Summer 2014
 - Guest Speaker, Carreras Profesionales en Ingeniería y Tecnología, Lima, Peru. April ‘14
 
-### Articles & Press
+### Publications & Press
 
 - Klevence, Brandon. “Make Your Own.” Library Tech, School Library Journal, 25 Nov. 2015, tech.libraryjournal.com/?id=Make-Your-Own.
 

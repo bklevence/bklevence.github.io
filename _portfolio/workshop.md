@@ -1,10 +1,11 @@
 ---
 title: "Workshop Industries"
 excerpt: "Products and Projects while directing a team of tinkerers at the Workshop School."
+toc: true
 header:
 #  image: /assets/images/unsplash-gallery-image-1.JPG
   teaser: assets/images/ws-teaser.jpg
-  toc: true
+
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
@@ -24,5 +25,10 @@ The Jawnament, Giant Scrabble Tiles & Holders, Love & Noel Designs, Generative S
 ## Gallery
 I also need to come back and clean up or provide more info for this gallery.
 
+{% include image-gallery.html folder="/assets/images/workshop/" %}
 
 ## Press:
+
+- “Philly High School Students Are Selling 'Jawnaments' for Christmas.” PhillyVoice, PhillyVoice, 6 Dec. 2017, [www.phillyvoice.com/philly-high-school-students-are-selling-jawnaments-christmas/](www.phillyvoice.com/philly-high-school-students-are-selling-jawnaments-christmas/).
+- “'Jawnaments' Top Selling Item For West Philly High School Entrepreneurial Club.” CBS Philly, CBS Philly, 5 Dec. 2017, [philadelphia.cbslocal.com/2017/12/05/jawnaments-west-philly-school/](philadelphia.cbslocal.com/2017/12/05/jawnaments-west-philly-school/).
+- WTXF. “The Workshop School Makes Christmas Jawnaments.” WTXF, [www.fox29.com/good-day/298888047-video](www.fox29.com/good-day/298888047-video).
