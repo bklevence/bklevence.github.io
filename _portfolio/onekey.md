@@ -1,6 +1,7 @@
 ---
 title: "OneKey"
 excerpt: "Low cost digital hardware fabrication for makerspaces"
+toc: true
 header:
 #  image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/ok-teaser.jpg
@@ -42,3 +43,25 @@ The original oneKey uses a vinyl cutter and 3M copper tape to make a low-barrier
 Brief History
 -------------------
 To date two iterations of the one input MaKey MaKey derivative, "MaKey MaKey MaKey", or officially "oneKey" for short, have been deployed. The first generation proved that youth could make, hack, and play with their own hardware. After various form and material explorations as well as a circuit redesign it is currently in its second phase. The new design is easier to handle, the cost per unit has dropped from $7 to $1.30, it's quicker to make, and there is still much more to refine.
+
+Variations
+----------------
+**Vinyl Cut Copper Tape**
+
+![oneKey Vinyl](https://farm8.staticflickr.com/7500/16254418821_7e90b29a9c_b.jpg)
+
+This build requres soldering and takes an hour to construct. The tape can be tricky to adhere to a substrate, but for all intents and purposes IT WORKS!
+
+Requires the installation of the Digispark Arduino IDE to upload and run code from /Firmware.
+All vector files needed for vinylcutting reside in /Hardware.
+
+**PCB(REV.1)**  
+
+![PCB](https://i.imgur.com/47suY3K.png)
+
+![PCB2](https://i.imgur.com/VneJiBF.png)
+
+Looking to make a PCB kit, currently waiting for PCB to be milled. See the Eagle Schematics and Board files in /Hardware.
+
+**Quick-build(Still in Development)**  
+This build is solderless, can be built in less than an hour.
