@@ -28,6 +28,9 @@ gallery:
   - url: /assets/images/ksd-03-1.jpg
     image_path: assets/images/ksd-03-1.jpg
     alt: "placeholder image 3"
+  - url: /assets/images/ksd-03-2.jpg
+    image_path: assets/images/ksd-03-2.jpg
+    alt: "placeholder image 3"
   - url: /assets/images/ksd-04.jpg
     image_path: assets/images/ksd-04.jpg
     alt: "placeholder image 4"
@@ -36,6 +39,14 @@ gallery:
     alt: "placeholder image 5"
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+I have a fun track record of helping youth make entries for the Kensington Kinetic Sculpture Derby. I have done it three years now and have gone from a closet of junk bikes, a to sponsored franken-tandem, and finally students fundraised to strip down pick-up to make it human powered. Not much more to explain, the projects have gotten a fair amount of press:
+
+- 2017
+  - [Philly Voice](https://www.phillyvoice.com/west-phillys-the-workshop-school-joins-this-years-kensington-kinetic-sculpture-derby/)
+  - [WHYY](https://whyy.org/articles/students-to-test-their-mettle-in-phillys-kinetic-sculpture-parade-photos/)
+  - [PFCU](https://www.pfcu.com/pfcu-news/single-news/philadelphia-federal-credit-union-to-sponsor-student-team-from-the-workshop-school-in-2017-pfcu-kensington-kinetic-sculpture-derby-and-arts-festival)
+- 2017
+  - WHYY
+  - [INQUIRER](https://www.inquirer.com/philly/entertainment/kensington-kinetic-sculpture-derby-workshop-school-20180517.html)
 
 {% include gallery id="gallery" layout="full" caption="Kinetic Sculpture Derby 2015, 2017, and 2018" %}
