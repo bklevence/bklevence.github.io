@@ -18,20 +18,20 @@ sidebar:
   - title: "Shops Utilized"
     text: "Woods, Metals, Automotive, Autobody"
 gallery:
-  - url: /assets/images/sm-01.jpg
-    image_path: assets/images/sm-01.jpg
+  - url: /assets/images/ksd-01.jpg
+    image_path: assets/images/ksd-01.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/sm-02.jpg
-    image_path: assets/images/sm-02.jpg
+  - url: /assets/images/ksd-02.jpg
+    image_path: assets/images/ksd-02.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/sm-03.jpg
-    image_path: assets/images/sm-03.jpg
+  - url: /assets/images/ksd-03.jpg
+    image_path: assets/images/ksd-03.jpg
     alt: "placeholder image 3"
-  - url: /assets/images/sm-04.jpg
-    image_path: assets/images/sm-04.jpg
+  - url: /assets/images/ksd-04.jpg
+    image_path: assets/images/ksd-04.jpg
     alt: "placeholder image 4"  
-  - url: /assets/images/sm-04.gif
-    image_path: assets/images/sm-04.gif
+  - url: /assets/images/ksd-04.gif
+    image_path: assets/images/ksd-04.gif
     alt: "placeholder image 4"
 ---
 
