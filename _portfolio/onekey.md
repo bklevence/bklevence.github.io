@@ -2,7 +2,7 @@
 title: "OneKey"
 excerpt: "Low cost digital hardware fabrication for makerspaces"
 header:
-  image: /assets/images/unsplash-gallery-image-2.jpg
+#  image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/ok-teaser.jpg
 sidebar:
   - title: "Role"
@@ -11,19 +11,9 @@ sidebar:
     text: "Design Researcher, Fabricator"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
 ---
 
->[Hop over to github to see the documentation.](https://github.com/makerjawn/oneKey/)
+>[Hop over to Github to see the full documentation of the current iteration of the oneKey, below is directly lifted from the repo.](https://github.com/makerjawn/oneKey/)
 
 Project Focus
 -------------------
