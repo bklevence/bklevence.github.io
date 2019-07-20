@@ -29,10 +29,11 @@ sidebar:
 ### Layer Naming Convention
 
 - Cut_DepthOfCut_CenterofLine/InsideOfLine/OutsideOfLine_SpecifiedCutterDim
+    >i.e Cut_750_CenterOfLine_250_EndMill (125 = ⅛”, 250 = ¼”, 500 = ½”, 750 = ¾”, 1000 = 1”)
+
 - Drill_DepthOfDrill_SpecifiedCutterDim
 - Engrave_DepthOfEngrave_DegreeOfVBIT
 
->i.e Cut_750_CenterOfLine_250_EndMill (125 = ⅛”, 250 = ¼”, 500 = ½”, 750 = ¾”, 1000 = 1”)
 
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
