@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "K.I.S.S."
 date: 2014-02-09 23:54
 author: bklevence
 comments: true

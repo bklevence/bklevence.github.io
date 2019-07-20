@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "Collaborative Work"
 date: 2014-02-14 19:16
 author: bklevence
 comments: true

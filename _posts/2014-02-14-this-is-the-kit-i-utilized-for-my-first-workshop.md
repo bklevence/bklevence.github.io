@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "Initial Kit Used"
 date: 2014-02-14 18:53
 author: bklevence
 comments: true

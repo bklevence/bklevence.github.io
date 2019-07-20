@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "Design Specs for Copper Tape"
 date: 2014-02-09 22:10
 author: bklevence
 comments: true

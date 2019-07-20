@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "Hardware limit"
 date: 2014-02-09 23:05
 author: bklevence
 comments: true

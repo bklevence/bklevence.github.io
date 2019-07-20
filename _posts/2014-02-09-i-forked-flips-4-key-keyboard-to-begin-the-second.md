@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "Two Circuits"
 date: 2014-02-09 22:12
 author: bklevence
 comments: true

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "Resource Images"
 date: 2014-02-11 20:40
 author: bklevence
 comments: true

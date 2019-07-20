@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: "Vinylcut Prototype Update"
 date: 2014-02-09 23:09
 author: bklevence
 comments: true
