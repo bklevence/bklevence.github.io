@@ -5,5 +5,19 @@ layout: archive
 {{ content }}
 
 <div class="entries-{{ page.entries_layout }}">
-  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
+#  {% include documents-collection.html collection=page.collection sort_by=page.sort_by sort_order=page.sort_order type=page.entries_layout %}
+{% assign category = site.collection | group_by: 'category' %}
+{% for item in category %}
+  <!-- This is the category name -->
+  <h2>{{item.name}}</h2>
+  <ul>
+    <!-- filter the categories, selecting only the current category in the loop -->
+    {% assign portfolio = site.portfolio | where: 'category', item.name %}
+    {% for entry in portfolio %}
+    <li class="item">
+      <h4 class="post-title">{{ entry.title }}</h4>
+    </li>
+    {% endfor %}
+  </ul>
+{% endfor %}
 </div>
