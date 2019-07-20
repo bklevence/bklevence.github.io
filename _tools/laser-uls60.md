@@ -9,39 +9,48 @@ sidebar:
   - image: assets/images/uls-01.jpeg
     image_alt: "logo"
   - title: "How it Works"
-    text: "The CNC router is a milling machine outfitted with motors that precisely control each axis (CNC stands for Computer Numerical Control). It is a subtractive process which uses a moving spinning bit or cutter to cut through material. The bits of the router can be switched out; we have a range of bits. Material can be cut along two or three dimensions."
+    text: "The ULS VersaLaser is a 2-axis plotter, meaning it can move along the X and Y axes. The laser beam is focused through a lens, creating a focal point two inches below the lens where the beam is the most intense. In order to cut with the most precision, the focal point needs to be focused at the top of the surface it is cutting. For this reason, the laser is most efficient and precise when cutting sheet material."
   - title: "Material"
-    text: "Ply and hardwoods, MDF, masonite, acrylic, HDPE, LDPE, ABS, and foam (various densities)."
+    text: "Ply and hardwoods, MDF, masonite, acrylic, select plastics, glass engraving, paper,"
 ---
 
-## 2D Milling
-The router follows vector lines. As with the laser cutter, these vector lines can be generated in Rhino, Illustrator, Onshape, or another CAD software. Since the bit has a diameter, you must specify how you want the machine to interpret your vectors. There are four options: *Inside, Outside, On The Vector, and Fill/Pocket.*
+## Diagram
+This is a basic diagram of how the laser cutter works:
 
-![Shop Scheduler](/assets/images/cnc-01.jpg)
+![Laser Diagram](/assets/images/laser-00.jpg)
 
-**Inside:**
->The edge of the bit will hit the edge of a closed shape from the inside.
+## 3 ways to Process Material
 
-**Outside:**
->The edge of the bit with hit the edge of a closed shape from the outside.
+![Cork Material Sample: Cut, Engrave, Raster](/assets/images/laser-03.jpg)
 
-**On the Vector:**
->The center of the bit will follow the vector
+**Vector Cut:**
+>Vector lines cut all the way through a material, and are drawn as red lines (R=255, G=0, B=0).
 
-**Fill/Pocket:**
->The bit will completely remove the inside of a closed shape.
+**Vector Engrave:**
+>Vector lines that cut slightly into the surface of the material. It can be used to create text, graphics, or even texture on the surface of a material. Drawn as blue lines (R=0, G=0, B=255).
+
+**Raster:**
+>Dot Matrix engraving of a hatch or pixelated image onto the surface of the material using variable intensity. This allows a black and white image to be created, where 100% black translates to 100% laser intensity, and 0% black translates to 0% intensity. Left as solid hatches/fills or images and best set to grayscale.
 
 Since the machine has a Z-axis, you can specify how deep you want a path to be cut into the material. This is great for making dados or engraving graphics.
 
-## 3D Milling
+## FAQs & Fun Facts
 
-The CNC router can also mill models from 3-dimensional files. For this to happen, the 3d file must be run through software that converts it into a set of instructions for cutting. It does this by analyzing the topology of the model and projecting a grid onto it. When cutting, the bit follows these gridlines (the distance between gridlines can be controlled, but is primarily based on the width of the bit). A basic diagram for the analysis of a 3d model along one axis:
-
-![Shop Scheduler](/assets/images/cnc-02.jpg)
-
-*A very important thing to note:* The bit is only capable of moving up and down; it doesn't rotate. This means that *undercuts are not possible*. Here is an illustration to clarify:
-
-![Shop Scheduler](/assets/images/cnc-03.jpg)
+### Making things fit together (Tolerance)
+- If you are cutting out parts using the laser cutter, getting them to line up/fit snug together/make perfect angles is tough. Here are some things to think about when designing a part.
+### Plastics
+- The diameter of the laser is about 1/100 inch, however some plastic will melt in the process of cutting (some cuts will appear wider than 1/100 inch as a result). Color can be a factor: because of the nature of light, white acrylic takes longer to cut than black acrylic (this is because white reflects a good amount of light from the laser while black absorbs most of it– the more a material absorbs, the hotter it gets). For most applications these things won't matter, but if a tolerance of above 1/16 inch is necessary, you should ask for a test cut with your material to make sure things go as planned.
+- ***¡VINYL & PVC WILL CREATE CHLORINE GASS WHICH WAS USED IN WWI AS A CHEMICAL WEAPON!***
+### Laser Drag and Material Thickness
+- The laser doesn't cut through a material instantly. It takes a few milliseconds to get through a piece. The thicker the piece, the longer it will take. There is an effect called drag which can be seen on most laser cut pieces: since the top of the material gets cut first, the laser will spend more time cutting the top, producing a slight slope on the side of the piece. It is impossible to account for with the laser, so some hand-finishing may be required if a perfect 90 degree angle is desired.
+- The slope will be more extreme with a thicker piece of material. For this reason we usually do not cut anything thicker than 3/8 inch (although it is possible and you should still inquire about it).
+### Slots and Tabs (are tricky)
+- If your parts are designed to be assembled using a slot/tab system, make a few test cuts first. Common problems with slots/tabs:
+  - Shearing - If your slots and tabs are the exact same width and you try to jam two pieces together, they might snap. Especially if they are made of acrylic.
+  - Material variance - Every sheet of plywood/acrylic/cardboard/etc. is slightly different. A perfect set of slots and tabs on one sheet might not translate well on another sheet. When possible, run test cuts on the same sheet(s) you'll be using for your parts.
+  - Drag - Sloping sides can affect how well two pieces fit together. It is essential to do test cuts for thick materials (larger than 1/4 inch).
+### Living Hinges
+- I have [a small library of living hinges](http://steammetry.com/5-useful-living-hinge-template-for-your-next-laser-cut-project/), please see me for more info.
 
 ## File Preparation Checklist
 
@@ -60,12 +69,9 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
 
 ### Layer Naming Convention
 
-- Cut_DepthOfCut_CenterofLine/InsideOfLine/OutsideOfLine_SpecifiedCutterDim
-    >i.e Cut_750_CenterOfLine_250_EndMill (125 = ⅛”, 250 = ¼”, 500 = ½”, 750 = ¾”, 1000 = 1”)
-
-- Drill_DepthOfDrill_SpecifiedCutterDim
-- Engrave_DepthOfEngrave_DegreeOfVBIT
-- Pocket_DepthOfPocket_SpecifiedCutterDim
+- CUT (Red)
+- ENGRAVE (Blue)
+- RASTER (Black)
 
 ## Machine Preparation Checklist
 
