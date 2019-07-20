@@ -16,7 +16,7 @@ sidebar:
   - title: "Shops Utilized"
     text: "Woods, Metals, Automotive, Autobody"
 gallery:
-  - url: /assets/images/ksd-01.png
+  - url: https://www.youtube.com/watch?v=mw3VB9Scfys
     image_path: assets/images/ksd-01.png
     alt: "placeholder image 1"
   - url: /assets/images/ksd-02.png
