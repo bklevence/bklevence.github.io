@@ -23,6 +23,9 @@ gallery:
   - url: /assets/images/badge-03.jpg
     image_path: /assets/images/badge-03.jpg
     alt: "placeholder image 3"
+  - url: /assets/images/badge-04.jpg
+    image_path: /assets/images/badge-04.jpg
+    alt: "placeholder image 4"
 ---
 
 The Free Library team’s goal with developing a prototype set of badges was to give the youth a means of documentation for their activities that they could take with them - not just physically, but digitally - beyond the program and onwards to high school, college, and careers. The portable and transferable method of recognizing skills offered by badges meant they were a natural fit for this program, and it will be interesting to see how it develops as the team rolls out the badges.
