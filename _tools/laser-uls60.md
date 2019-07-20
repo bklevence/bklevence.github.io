@@ -86,19 +86,19 @@ Never clean any optic right after engraving or cutting because the optic may be 
 <div class="notice">{{ notice-2 | markdownify }}</div>
 
 
-![VLS.60 Motion System](/assets/images/laser-08.jpg)
+![VLS.60 Motion System](/assets/images/laser-08.png)
 
  <input type="checkbox" name="0" value="0">A visual inspection of the `#2 and #3` mirrors, beam window and focus lens should be performed at least once a day before any job processing:<br>
- ![Laser Diagram](/assets/images/laser-04.jpg)
+ ![Laser Diagram](/assets/images/laser-04.png)
  <input type="checkbox" name="0" value="0">Inspect the `#2` mirror and clean it only if there is debris present.<br>
  <input type="checkbox" name="0" value="0">To clean the `#2` mirror with a cotton swab, moisten the cotton swab with the lens cleaning solution supplied with the laser system. Do not use other types of cleaners or solutions. Gently roll the cotton swab across the mirror once. Do not drag the swab or roll it back and forth as this can scratch the mirror. If the mirror did not come clean, use a fresh cotton swab and repeat the procedure.<br>
  <input type="checkbox" name="0" value="0">Inspect the `#3` Mirror and Focus Lens 1 and clean it only if there is debris present.<br>
- ![Laser Diagram](/assets/images/laser-05.jpg)
+ ![Laser Diagram](/assets/images/laser-05.png)
  <input type="checkbox" name="0" value="0">Flood the reflective surface of the `#3` mirror with the solution. If heavy debris is present, let the solution soak in for a minute.<br>
  <input type="checkbox" name="0" value="0">Roll a fresh cotton swab across the mirror in one direction. Use a fresh swab for each pass. Be gentle when cleaning the optic to avoid scratching the surface. Repeat this procedure for the focus lens, but make sure you clean both sides of the lens.<br>
- ![Laser Diagram](/assets/images/laser-06.jpg)
+ ![Laser Diagram](/assets/images/laser-06.png)
  <input type="checkbox" name="0" value="0">The beam window or collimator is where the laser beam enters into the processing area. It is located in the upper left hand corner of the engraving area against the back wall and is yellow in color. It is only necessary to clean the front side of the beam window. Do not remove the optic to clean it; simply clean it in the same manner as the `#2` mirror.<br>
- ![Laser Diagram](/assets/images/laser-07.jpg)
+ ![Laser Diagram](/assets/images/laser-07.png)
 
 
 ## Guides & Documents
