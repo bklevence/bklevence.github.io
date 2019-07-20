@@ -1,5 +1,5 @@
 ---
-layout: collection
+layout: collection2
 title: "Places"
 collection: places
 permalink: /places/
