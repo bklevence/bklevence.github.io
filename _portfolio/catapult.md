@@ -2,7 +2,7 @@
 title: "Siege Machines"
 excerpt: "Design-build woodshop project for 9th Graders at NVD."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
+  image: /assets/images/sm-01.jpg
   teaser: assets/images/sm-teaser.jpg
 sidebar:
   - title: "Role"
