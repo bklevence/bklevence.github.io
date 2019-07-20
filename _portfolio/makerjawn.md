@@ -1,6 +1,6 @@
 ---
 title: "Maker Jawn"
-excerpt: "Various work while building out makerspaces around North Philadelphia as part of the Maker Jawn Initiative."
+excerpt: "Documenting the rise and fall of a makerspace program."
 toc: true
 header:
   image: /assets/images/jawn-header.jpeg
