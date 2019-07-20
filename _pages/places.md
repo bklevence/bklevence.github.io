@@ -14,7 +14,7 @@ A collection of notes on `places` for travel.
   <h2>{{item.name}}</h2>
   <ul>
     <!-- filter the categories, selecting only the current category in the loop -->
-    {% assign portfolio = site.portfolio | where: 'category', item.name %}
+    {% assign portfolio = site.collection| where: 'category', item.name %}
     {% for entry in portfolio %}
     <li class="item">
       <h4 class="post-title">{{ entry.title }}</h4>
