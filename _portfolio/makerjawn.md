@@ -81,28 +81,28 @@ I do really wish the remaining program mentors the best if they're still at FLP.
   - [Opening Movement Patterns: A short easy way to get into your body and start firing up your brain!](/assets/docs/mj/movement-open.pdf)
   - [Closing Movement Pattern: A yoga based stretching exercise to cool down and focus after an activity.](/assets/docs/mj/movement-close.pdf)
   - [One Idea: A fun activity for dancing, creative movement, and cooperation.](/assets/docs/mj/one-idea.pdf)
-  - [Relief Prints: Learn a traditional form of printmaking.](/assets/docs/mj/#)
+  - [Relief Prints: Learn a traditional form of printmaking.](/assets/docs/mj/printmaking.pdf)
   - [LED Kaleidoscope: Spark creative thinking through designing and building an LED kaleidoscope.](/assets/docs/mj/kaleidoscope.pdf)
   - [Audiobooks: Great way to expose participants to story writing with no consumable materials and free software.](/assets/docs/mj/audiobooks.pdf)
   - [Highlight Reel Making with Animoto: Learn about managing your online content and produce highlight reels using a free cloud-based service.](/assets/docs/mj/animoto.pdf)
   - [Mozilla PopcornMaker: Mashup your favorite YouTube videos and other media! A great hook into video and music editing.](/assets/docs/mj/popcorn-maker.pdf)
   - [Stop Motion Animation: Get started with animating using a tablet or smartphone.](/assets/docs/mj/stop-motion.pdf)
-  - Guidelines for Making Movies in Libraries
-  - Narrative Development
-  - Skit Workshop
-  - Set and Scenic Design
-  - Shot Types and Storyboarding
-  - Video Editing
-  - Artbots: Hack apart electric toothbrushes to create a robot that scribbles, scrapes, sings, or splatters.
-  - Jawn-o-Graphy:  A simple twist on finding your way.
-  - Light in the Window: Teaches the basics of copper tape circuits with switches.
-  - MaKey MaKey High 5 Game: A fun physical game that uses the MaKey MaKey.
-  - MaKey MaKey Musical Markers: Create sounds whilst drawing with Magic Markers.
-  - Squishy Circuits: Learn about circuits with some Play-Doh and LEDs – an instructional comic.
-  - Soldering: An intro to mini welding! Soldering iron skill test to get two wires to stick together.
-  - Microphone/Recorder (Zoom H4next Handy Recorder)
-  - Sewing Machine (Brother XL2600)
-  - Video Camera (Canon VIXIA HF R500)
+  - [Guidelines for Making Movies in Libraries](/assets/docs/mj/movies.pdf)
+  - [Narrative Development](/assets/docs/mj/narrative.pdf)
+  - [Skit Workshop](/assets/docs/mj/skit.pdf)
+  - [Set and Scenic Design](/assets/docs/mj/scenery.pdf)
+  - [Shot Types and Storyboarding](/assets/docs/mj/storyboarding.pdf)
+  - [Video Editing](/assets/docs/mj/video.pdf)
+  - [Artbots: Hack apart electric toothbrushes to create a robot that scribbles, scrapes, sings, or splatters.](/assets/docs/mj/artbots.pdf)
+  - [Jawn-o-Graphy:  A simple twist on finding your way.](/assets/docs/mj/jawn-o-graphy.pdf)
+  - [Light in the Window: Teaches the basics of copper tape circuits with switches.](/assets/docs/mj/light-in-window.pdf)
+  - [MaKey MaKey High 5 Game: A fun physical game that uses the MaKey MaKey.](/assets/docs/mj/high-five.pdf)
+  - [MaKey MaKey Musical Markers: Create sounds whilst drawing with Magic Markers.](/assets/docs/mj/musical-markers.pdf)
+  - [Squishy Circuits: Learn about circuits with some Play-Doh and LEDs – an instructional comic.](/assets/docs/mj/squishy-circuits.pdf)
+  - [Soldering: An intro to mini welding! Soldering iron skill test to get two wires to stick together.](/assets/docs/mj/soldering.pdf)
+  - [Microphone/Recorder (Zoom H4next Handy Recorder)](/assets/docs/mj/zoom-microphone.pdf)
+  - [Sewing Machine (Brother XL2600)](/assets/docs/mj/sewing-machine.pdf)
+  - [Video Camera (Canon VIXIA HF R500)](/assets/docs/mj/video-camera.pdf)
 
 [Youtube Channel](https://www.youtube.com/channel/UCgkZSW4f2mO_XQ8tPyZ8E-w)
 
