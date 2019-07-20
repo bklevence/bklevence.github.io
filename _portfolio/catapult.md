@@ -1,9 +1,9 @@
 ---
 title: "Siege Machines"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "Design-build wood shop project at NVD."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: assets/images/sm-hero.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
