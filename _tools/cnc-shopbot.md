@@ -27,10 +27,10 @@ the edge of the bit will hit the edge of a closed shape from the inside.
 ### Outside:
 the edge of the bit with hit the edge of a closed shape from the outside.
 
-### On The Vector:
+### On the Vector:
 the center of the bit will follow the vector
 
-### Fill:
+### Fill/Pocket:
 the bit will completely remove the inside of a closed shape.
 
 Since the machine has a Z-axis, you can specify how deep you want a path to be cut into the material. This is great for making dados or engraving graphics.
