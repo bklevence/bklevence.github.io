@@ -1,6 +1,6 @@
 ---
 title: "Maker Jawn"
-excerpt: "Documenting the rise and fall of a makerspace program."
+excerpt: "Documenting the rise and fall of a makerspace program. Some saved Archives."
 toc: true
 header:
   image: /assets/images/jawn-header.jpeg
