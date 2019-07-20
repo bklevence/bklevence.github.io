@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Archive: Makey Makey Workshop @ Spells
+title: "Archive: Makey Makey Workshop @ Spells"
 date: 2017-03-04 22:01
 author: bklevence
 comments: true
