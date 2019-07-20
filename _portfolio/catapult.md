@@ -6,7 +6,7 @@ header:
   teaser: assets/images/sm-teaser.jpg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/sm-sidebar.jpg
     image_alt: "logo"
     text: "Instructor"
   - title: "Student Outcomes"
