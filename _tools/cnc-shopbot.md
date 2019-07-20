@@ -6,8 +6,9 @@ header:
 sidebar:
   - image: assets/images/shopbot-01.jpg
     image_alt: "logo"
-  - title: "Location & Comments"
+  - title: "Location"
     text: "Workshop School, University of the Arts,"
+  - title: "Comments"
     text: "The 48x48 had way too many gremlins."
 ---
 
