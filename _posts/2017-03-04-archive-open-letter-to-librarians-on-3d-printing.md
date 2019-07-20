@@ -1,10 +1,7 @@
 ---
-layout: post
 title: Archive: Open Letter to Librarians on 3D Printing
 date: 2017-03-04 22:11
 author: bklevence
-comments: true
-categories: [3D Printing, Archive, Maker Jawn]
 ---
 <blockquote>Originally posted April 10, 2015 on the <a href="http://makerjawn.org/blog/2015/04/10/open-letter-to-librarians-on-3d-printing/">Maker Jawn Blog</a>:</blockquote>
 <img class="aligncenter size-full wp-image-282" src="http://mrklevence.files.wordpress.com/2017/03/capture.png" alt="" width="999" height="649" />
