@@ -25,30 +25,30 @@ Kept afloat by workstudy students until 2014 when Teen Programming city position
 
 ## Peak, Plateau, and Projects, Summer 2014
 
-#### Workstudy to City Position Transition
+### Workstudy to City Position Transition
 Maker Jawn had much success after the 2013 summer of making exhibiting at Maker Faire World 2013. Maker Jawn reached it's peak in the summer of 2014 when it was awarded a multi-year half million dollar grant to implement programs for all ages. This was also after successfully prototyping a Digital Badging Program and a summer collaboration with FLPs College Prep Program.
-#### [Library As Incubator](https://www.libraryasincubatorproject.org/?p=12998)
-#### Connected Messages
-#### [Maker Faire](https://libwww.freelibrary.org/blog/post/1851)
-#### Maker Corps Community Resource
-#### [Badging Program](https://www.youtube.com/watch?v=aOQkwpTVwU0)
-#### Youth Films at [Kensington](https://www.youtube.com/watch?v=VDosBT2WRJ8) and [Lehigh Ave](https://www.youtube.com/watch?v=beA7qRs6IDg) Branches
-#### E-Textiles with the Franklin and UPenn GSE
-#### [IMLS Grant](https://www.informalscience.org/maker-jawn-intergenerational-library-steam-initiative)
-#### Many webinars, workshops, and conference presentations
+### [Library As Incubator](https://www.libraryasincubatorproject.org/?p=12998)
+### Connected Messages
+### [Maker Faire](https://libwww.freelibrary.org/blog/post/1851)
+### Maker Corps Community Resource
+### [Badging Program](https://www.youtube.com/watch?v=aOQkwpTVwU0)
+### Youth Films at [Kensington](https://www.youtube.com/watch?v=VDosBT2WRJ8) and [Lehigh Ave](https://www.youtube.com/watch?v=beA7qRs6IDg) Branches
+### E-Textiles with the Franklin and UPenn GSE
+### [IMLS Grant](https://www.informalscience.org/maker-jawn-intergenerational-library-steam-initiative)
+### Many webinars, workshops, and conference presentations
 
 ## Sustainability Crisis, Winter 2015
 
-#### [GRID Article](https://issuu.com/redflagmedia/docs/079_grid)
-#### Co-founder leaves
-#### City positions issues
+### [GRID Article](https://issuu.com/redflagmedia/docs/079_grid)
+### Co-founder leaves
+### City positions issues
 Immediately after city funded Maker Mentor positions are seasonal with a mandatory month off. Some makers cannot afford this break or are not able to keep their position. The Office of Public Service and Support put a College Prep Specialist with little knowledge of program direction in charge as director of the program. The library's office of Strategic Initiatives provided no direct support of the Maker Mentors or the Initiative.
 
 ## Decline, Summer 2015
 
-#### Brain Drain
+### Brain Drain
 As the program went into it's second year several other co-founders left the Initiative. Conflict began to arise within the bureaucratic system between management and the mentors.
-#### Research
+### Research
 [Deb Lui has a great white paper that touches on the span of time from the crisis to the decline.](https://repository.upenn.edu/cgi/viewcontent.cgi?article=4234&context=edissertations)
 
 ## Current Day
@@ -61,13 +61,13 @@ Supposedly all remaining makers are now programming specialists as part of T.O.P
 - Make: Magazine abruptly shutters, Maker Ed's future looks okay.
 - Seems like the Digital Badging Program is now back in the hands of the College Prep Program.
 
-## Archives
+## Digital Archives
 
 I do really wish the remaining program mentors the best if they're still at FLP. I have started find ways to digitally archive the good work people have did at the initiative below:
 
-- [Wayback Machine](https://web.archive.org/web/20161031162653/http://makerjawn.org/)
-- Curriculum
-  - Balance: A great art activity that incorporates basic physics and engineering.
+- [Wayback Machine](https://web.archive.org/web/20161031162653/http://makerjawn.org/) It seems like an ok way to get the site back, but most blog posts are not archived. I have copied some of my own articles to this Jekyll blog, but subsequently lost the rich media for them in 2019.
+- Curriculum, below each link should take you to a PDF archive of each activity listed lesson plan. Originally stored on the Maker Jawn site as shared Google Docs.
+  - [Balance: A great art activity that incorporates basic physics and engineering.](/assets/docs/mj/balance.pdf)
   - Cardboard: Practice engineering and creative problem solving skills.
   - Wind Powered Cars: A design challenge that utilizes recycled materials.
   - Body Tracing Self-Portraits: This cheap, low-impact activity can yield many hours of color, decorating, and discovery!
