@@ -1,9 +1,9 @@
 ---
 title: "Library Badging"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+excerpt: "Digital Badging platform design and implementation for youth at the Free Library of Philadelphia"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
+  image: /assets/images/badge-hero.jpg
+  teaser: /assets/images/badge-hero.jpg
 sidebar:
   - title: "Role"
     image: http://placehold.it/350x250
