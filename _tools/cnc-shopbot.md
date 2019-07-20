@@ -16,26 +16,26 @@ sidebar:
     text: "Ply and hardwoods, MDF, masonite, acrylic, HDPE, LDPE, ABS, and foam (various densities)."
 ---
 
-## 2-Dimensional Milling
+## 2D Milling
 The router follows vector lines. As with the laser cutter, these vector lines can be generated in Rhino, Illustrator, Onshape, or another CAD software. Since the bit has a diameter, you must specify how you want the machine to interpret your vectors. There are four options: *Inside, Outside, On The Vector, and Fill/Pocket.*
 
 ![Shop Scheduler](/assets/images/cnc-01.jpg)
 
-### Inside:
-the edge of the bit will hit the edge of a closed shape from the inside.
+**Inside:**
+>The edge of the bit will hit the edge of a closed shape from the inside.
 
-### Outside:
-the edge of the bit with hit the edge of a closed shape from the outside.
+**Outside:**
+>The edge of the bit with hit the edge of a closed shape from the outside.
 
-### On the Vector:
-the center of the bit will follow the vector
+**On the Vector:**
+>The center of the bit will follow the vector
 
-### Fill/Pocket:
-the bit will completely remove the inside of a closed shape.
+**Fill/Pocket:**
+>The bit will completely remove the inside of a closed shape.
 
 Since the machine has a Z-axis, you can specify how deep you want a path to be cut into the material. This is great for making dados or engraving graphics.
 
-## 3-Dimensional Milling
+## 3D Milling
 
 The CNC router can also mill models from 3-dimensional files. For this to happen, the 3d file must be run through software that converts it into a set of instructions for cutting. It does this by analyzing the topology of the model and projecting a grid onto it. When cutting, the bit follows these gridlines (the distance between gridlines can be controlled, but is primarily based on the width of the bit). A basic diagram for the analysis of a 3d model along one axis:
 
@@ -45,9 +45,9 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
 
 ![Shop Scheduler](/assets/images/cnc-03.jpg)
 
-### File Preparation
+## File Preparation Checklist
 
- <input type="checkbox" name="0" value="0">Units: inches
+ <input type="checkbox" name="0" value="0">Units: inches<br>
  <input type="checkbox" name="0" value="0">Layout board economically<br>
  <input type="checkbox" name="0" value="0">Check Offset/Cutter Tolerance for nested parts<br>
  <input type="checkbox" name="0" value="0">Within X and Y bounds for machine<br>
