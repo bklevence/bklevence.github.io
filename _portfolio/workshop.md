@@ -2,7 +2,7 @@
 title: "Workshop Industries"
 excerpt: "Products and Projects while directing a team of tinkerers at the Workshop School."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
+  image: /assets/images/unsplash-gallery-image-1.JPG
   teaser: assets/images/ws-teaser.jpg
 sidebar:
   - title: "Role"
