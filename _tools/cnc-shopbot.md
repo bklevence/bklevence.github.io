@@ -7,15 +7,33 @@ sidebar:
   - image: assets/images/shopbot-01.jpg
     image_alt: "logo"
   - title: "Location & Comments"
-    text: "Workshop School, University of the Arts, The 48x48 had way too many gremlins."
+    text: "Workshop School, University of the Arts,"
+    text: "The 48x48 had way too many gremlins."
 ---
 
-Testing
+### File Preparation
 
- <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
- <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
+ <input type="checkbox" name="0" value="0">3DM or Vector file for vector or 2.5D cuts<br>
+ <input type="checkbox" name="0" value="0">STL for 3D engraves<br>
+ <input type="checkbox" name="0" value="0">Units: inches<br>
+ <input type="checkbox" name="0" value="0">Layout board economically<br>
+ <input type="checkbox" name="0" value="0">Check Offset/Cutter Tolerance for nested parts<br>
+ <input type="checkbox" name="0" value="0">Within X and Y bounds for machine<br>
+ <input type="checkbox" name="0" value="0">Within Z bounds, usually 0"-6" cutter depending.<br>
+ <input type="checkbox" name="0" value="0">Join Vectors.<br>
+ <input type="checkbox" name="0" value="0">Check fo duplicate lines.<br>
+ <input type="checkbox" name="0" value="0">Create Layers.<br>
+ <input type="checkbox" name="0" value="0">Assign Vectors to layers.<br>
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+
+### Layer Naming Convention
+
+- Cut_DepthOfCut_CenterofLine/InsideOfLine/OutsideOfLine_SpecifiedCutterDim
+- Drill_DepthOfDrill_SpecifiedCutterDim
+- Engrave_DepthOfEngrave_DegreeOfVBIT
+
+>i.e Cut_750_CenterOfLine_250_EndMill (125 = ⅛”, 250 = ¼”, 500 = ½”, 750 = ¾”, 1000 = 1”)
+
 
 {% include gallery caption="This is a sample gallery to go along with this case study." %}
 
