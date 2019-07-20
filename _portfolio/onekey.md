@@ -1,6 +1,6 @@
 ---
 title: "OneKey"
-excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
+excerpt: "Low cost digital hardware fabrication for makerspaces"
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg
   teaser: assets/images/unsplash-gallery-image-2-th.jpg

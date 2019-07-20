@@ -1,6 +1,6 @@
 ---
 title: "Siege Machines"
-excerpt: "Design-build wood shop project at NVD."
+excerpt: "Design-build wood shop project for 9th Graders at NVD."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/sm-hero.jpg

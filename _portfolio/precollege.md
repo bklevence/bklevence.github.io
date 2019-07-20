@@ -1,6 +1,6 @@
 ---
 title: "UArts Precollege"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "Various work from my classes at University of the Arts."
 header:
   image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg

@@ -1,6 +1,6 @@
 ---
-title: "Maker Jawn"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "the Maker Jawn Initiative"
+excerpt: "Various work while building out makerspaces around North Philadelphia."
 header:
   image: /assets/images/foo-bar-identity.jpg
   teaser: /assets/images/foo-bar-identity-th.jpg
