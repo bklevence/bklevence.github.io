@@ -21,6 +21,7 @@ gallery:
     alt: "placeholder image 3"
 ---
 
+Testing
 
   <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
   <input type="checkbox" name="vehicle1" value="Bike"> I have a bike<br>
