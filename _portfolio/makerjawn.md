@@ -11,7 +11,7 @@ sidebar:
     image_alt: "logo"
     text: "Lead Prototyper, Maker Mentor"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Generate and collaborate on project curriculum, design and implement novel maker progams, outreach"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: assets/images/unsplash-gallery-image-1-th.jpg
