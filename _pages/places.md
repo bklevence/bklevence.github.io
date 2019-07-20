@@ -1,6 +1,6 @@
 ---
 layout: collection
-title: "Pleaces"
+title: "Places"
 collection: places
 permalink: /places/
 author_profile: false
