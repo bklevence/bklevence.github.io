@@ -8,7 +8,7 @@ sidebar:
   - title: "Role"
     text: "Designer, Fabricator, Instructor"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "Research, Mechanical Design, Fabrication"
   - title: "Student Outcomes"
     text: "Design, Fund Raise, Build, Exhibit"
   - title: "Materials"
