@@ -28,7 +28,7 @@ Great printers.
 - [ ] Material Sample Test for Tolerance
 - [ ] Benchy off of each printer
 
-#### Printer Quirks @ NVD
+### Printer Quirks @ NVD
 
 **Printer 1**
 - [ ] Y Belt Issues
