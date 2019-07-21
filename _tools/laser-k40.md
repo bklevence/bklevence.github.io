@@ -1,6 +1,8 @@
 ---
 title: "K40 Laser"
 excerpt: "Check the grounding 5000 times, then cut."
+toc: true
+toc_sticky: true
 header:
   teaser: assets/images/k40-00.jpg
 sidebar:
@@ -78,18 +80,18 @@ Now you have this setup box (click to expand)
 
   ![Laser Diagram](/assets/images/k40-11.jpg)
 
-To explain some of the settings
-Company and model is just the data about your machine.
-Rotate: if you need to rotate or flip your design for mirrored cut/engravings.
-Style: Cutting, engraving and marking. For this test we choose CUTTING.
-Inside first is a good option if you make parts, the machine will cut the inner parts first and then the outer, preventing the part to fall down without the inner holes are cut.
-Speed: I have a 3mm acrylic piece in my machine, you may have to test the speed and the power on your machine when testing your cut.
-I would suggest 12mA power and 10mm/sec to start with.
-Method: If you have combined engraving and cut in the same file, you can choose here.
-In the template before, we split engraving and cut in two different layers, this will help you to run the engraving first, and cut later.
-Pixel: set this to 1 step, and Repeat to 1 times
+## Settings
+- Company and model is just the data about your machine.
+- Rotate: if you need to rotate or flip your design for mirrored cut/engravings.
+- Style: Cutting, engraving and marking. For this test we choose CUTTING.
+- Inside first is a good option if you make parts, the machine will cut the inner parts first and then the outer, preventing the part to fall down without the inner holes are cut.
+- Speed: I have a 3mm acrylic piece in my machine, you may have to test the speed and the power on your machine when testing your cut.
+- I would suggest 12mA power and 10mm/sec to start with.
+
+- Method: If you have combined engraving and cut in the same file, you can choose here.
+- In the template before, we split engraving and cut in two different layers, this will help you to run the engraving first, and cut later.
+- Pixel: set this to 1 step, and Repeat to 1 times
 
 You are now ready to hit STARTING
 
-More tips and tricks
-Test similar design to learn how power and speed relates on your machine, this is different on most K40 and you cannot use the same settings someone else has. You need to find your optimal combo
+Test a similar design a few times to learn how power and speed relates on your machine, this is different on most K40 and you cannot use the same settings someone else has. You need to find your optimal combo.
