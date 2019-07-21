@@ -1,5 +1,5 @@
 ---
-title: "Printing"
+title: "3D printers"
 excerpt: "I'll pirate a car some day, mark my words."
 toc: true
 toc_sticky: true
