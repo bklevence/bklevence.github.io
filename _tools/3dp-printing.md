@@ -1,6 +1,8 @@
 ---
 title: "Printing"
-excerpt: "I'll pirate a car some day."
+excerpt: "I'll pirate a car some day, mark my words."
+toc: true
+toc_sticky: true
 header:
   teaser: assets/images/printers-00.jpeg
 sidebar:
@@ -85,3 +87,17 @@ Horrible machine, all I have interacted with have had ribbon cable gremlins. Run
 
 ### Replicator 2X
 Really decent when they work. Can be very temper-mental. Does two materials well.
+
+## Plastic Recycling Research
+
+- [ ] Recycle Bot
+- [ ] Precious Plastics
+
+
+## Materials Review
+
+- NGEN is great, but fractures, super shiny.
+- PLA, good-old standard. Watch for moisture and dust.
+- ABS, only for enclosed dimension, very susceptible to moisture damage.
+- Ninjaflex, only used once. Can't use at home.
+- TPU, want to try.
