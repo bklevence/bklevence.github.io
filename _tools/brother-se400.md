@@ -1,13 +1,11 @@
 ---
 title: "Brother SE400 Embroidery Machine"
-excerpt: "Fun little machine for <4" embroidered patch making."
+excerpt: "Fun little machine for 3in embroidered patch making."
 header:
   teaser: assets/images/se400-00.jpeg
 sidebar:
-  - title: "Role"
-    image: assets/images/se400-00.jpeg
+  - image: assets/images/se400-00.jpeg
     image_alt: "logo"
-    text: "Designer, Front-End Developer"
   - title: "Responsibilities"
     text: "Reuters try PR stupid commenters should isn't a business model"
 
