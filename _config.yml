@@ -324,7 +324,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
   # _portfolio
   - scope:
       path: ""
@@ -332,7 +332,7 @@ defaults:
     values:
       layout: single
       author_profile: false
-      share: true
+      share: false
   # _tools
   - scope:
       path: ""
@@ -348,4 +348,4 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
+      share: false
