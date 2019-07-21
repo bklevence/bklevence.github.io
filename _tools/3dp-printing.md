@@ -9,11 +9,7 @@ sidebar:
   - image: assets/images/printers-00.jpeg
     image_alt: "logo"
   - title: "Snapple Fact:"    
-    text: "G-code was developed at MIT in the early 1950s."
-  - title: "Printers utilized:"
-    text: "Lulzbot, Monoprice, Makerbot, & Dimension."
-  - title: "Platforms used:"
-    text: "Shapeways, 3D Hubs."
+    text: "3D Printing started in 1985 by hand."
 ---
 
 # FDM Printers
