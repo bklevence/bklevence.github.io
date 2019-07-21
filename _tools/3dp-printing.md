@@ -104,8 +104,10 @@ Super interesting printer, not student friendly. I spent 2 months servicing one 
 - [ ] Inventory Material
 - [ ] Write up checklist for proper handling
 
-# Sandstone Printing
+# Shapeways Printing
+
+## Sandstone Printing
 Done through shape-ways, link image from minecraft!
 
-# Ceramic Printing
+## Ceramic Printing
 Done through shape-ways, link image from Ryans gift!
