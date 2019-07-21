@@ -1,5 +1,5 @@
 ---
-title: "28" US Cutter and SCA3"
+title: "Roland 23? Vinyl Cutter"
 excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
 header:
   image: /assets/images/unsplash-gallery-image-2.jpg

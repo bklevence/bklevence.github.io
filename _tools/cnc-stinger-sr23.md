@@ -4,9 +4,9 @@ excerpt: "CAMaster has the best CAM workflow."
 toc: true
 toc_sticky: true
 header:
-  teaser: assets/images/sr23-00.jpg
+  teaser: assets/images/sr23-00.jpeg
 sidebar:
-  - image: assets/images/sr23-00.jpg
+  - image: assets/images/sr23-00.jpeg
     image_alt: "logo"
   - title: "How it Works"
     text: "The CNC router is a milling machine outfitted with motors that precisely control each axis (CNC stands for Computer Numerical Control). It is a subtractive process which uses a moving spinning bit or cutter to cut through material. The bits of the router can be switched out; we have a range of bits. Material can be cut along two or three dimensions."
