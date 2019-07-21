@@ -1,6 +1,6 @@
 ---
 title: "Brother SE400 Embroidery Machine"
-excerpt: "Fun little machine for embroidered patch making."
+excerpt: "Fun little machine for <4" embroidered patch making."
 header:
   teaser: /assets/images/se400-00.jpeg
 sidebar:

@@ -20,5 +20,6 @@ sidebar:
 - [ ] Research second ribbing bed for socks.
 - [ ] What type of yarn again, 00?
 - [ ] Look at fixing broken plastic.
+- [ ] Find book.
 
 People who know: group of knitters in Jenkintown, PA and Andrew Dahlgren.
