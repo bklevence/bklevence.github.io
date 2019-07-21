@@ -1,6 +1,6 @@
 ---
 title: "USCutter and SCA3"
-excerpt: "Fizz Bang design system including logo mark, website design, and branding applications."
+excerpt: "Trusty old cutter got me through college."
 header:
   teaser: assets/images/usmh28-00.jpeg
 sidebar:
