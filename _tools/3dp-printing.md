@@ -14,6 +14,18 @@ sidebar:
 
 # FDM Printers
 
+## How FDM 3D Printing Works.
+For this example we'll use a Dimension ___ , manufactured by Stratasys. It is a Fused-Deposition Modeling system, and this is how it works:
+After a 3D model has been designed and exported to an STL, a special program slices it up into cross-sections thick. It looks at each cross-section and generates a set of instructions on how to build it. When this information is sent to the printer, it starts with the bottom-most layer, laying down plastic in the shape of the cross-section. When it finishes the first layer, it moves up a slice to start on the next layer. Take a close look at a 3D-printed model and you'll notice that it is actually stepped.
+The machine consists of a moving bed (Z-axis) and a print head (X-axis and Y-axis). The print head has a heating element in it; thermoplastic is forced into the print head, melts, and is squeezed out, not unlike toothpaste. The print head is calibrated in such a way that the molten plastic coming out of it is almost always the same thickness.
+In order to form complex shapes, overhangs, and hinges/joints/free-moving objects, the plastic needs to be held up by something. The machine prints using a second material, which we call the 'support.' When the print is done, it is put in a bath of solution that dissolves away the support material, leaving only the finished model. Some machines do not have a second support material an instead have supports generated in the model material when sliced.
+
+![Two Material, FDM Printing, Extrusion System Diagram](/assets/images/printers-01.jpg)
+
+## Dimension
+
+The Dimension SST 1200es I operated at UArts was a lemon. Material was the main culprit, but it was also an abused machine before I got to operate it.
+
 ## Lulzbot
 
 ### Overview
@@ -107,3 +119,35 @@ Done through shape-ways, link image from minecraft!
 
 ## Ceramic Printing
 Done through shape-ways, link image from Ryans gift!
+
+
+Notes that need to get added into above or gcode...
+
+Working with Tolerance and Support Material.
+
+There are a few basic guidelines to follow when developing a model for printing. These won't help you edit a model; these are things to keep in mind when designing it.
+
+Wall Thickness - The printer can print walls as thin as ~0.01", however these will not be structurally sound. Keep walls to a minimum of 0.04" for rigid structure.
+
+Suspended Parts - It is possible to make joints by leaving some space between two interlocking parts; leave at least 0.02" or the printer may connect the two parts. If a part is threaded or must fit snugly, it is best to print it separately (when possible).
+
+Model Interior settings:
+
+Solid: fills any interior space with 100% plastic. Strongest and most expensive option.
+
+
+Sparse High Density: fills interior space with a grid pattern. Very strong and cheaper than Solid fill.
+
+
+Sparse Low Density: fills interior space with a grid pattern using less plastic than Sparse High Density. Uses the least plastic and is therefore the cheapest.
+
+
+Support Fill settings:
+
+Minimal: uses the least amount of material and is therefore the cheapest option.
+
+
+Sparse: uses more material than Minimal. Only necessary when printing complex overhangs or objects that require a high tolerance.
+
+
+Printer Capabilities:
