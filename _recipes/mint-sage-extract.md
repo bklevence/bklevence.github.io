@@ -2,22 +2,21 @@
 title: "Mint Sage Extract"
 ---
 
-A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the United States, its development dating back to the 1910s.
+"Actually it's very simple. Haha." - Queenie
+
+Best bottled with week old kombucha. I do two or three weeks. I like mine zingy. Bottle it to about 3/4 to the top of the bottle and syrup leaving ample room for gas. All has to be room temp. No hot liquids. Dont kill those good probiotic babies. Check after a week for carbonation, if too sweet wait.
 
 ## Ingredients
 
-* 1 cup unsalted butter
-* 1 cup crunchy peanut butter
-* 1 cup white sugar
-* 1 cup packed brown sugar
-* 2 eggs 2
-* 1/2 cups all-purpose flour
-* 1 teaspoon baking powder
-* 1/2 teaspoon salt
-* 1 1/2 teaspoons baking soda
+* 2 cups water.
+* 2 cups sugar.
+* 2 tablespoons crushed dried sage.
+* 2 tablespoons crushed dried peppermint.
 
 ## Directions
 
-1. Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.
-2. In a separate bowl, sift flour, baking powder, baking soda, and salt; stir into butter mixture. Put dough in refrigerator for 1 hour.
-3. Roll dough into 1 inch balls and put on baking sheets. Flatten each ball with a fork, making a crisscross pattern. Bake in a preheated 375 degrees F oven for about 10 minutes or until cookies begin to brown.
+1. Bring to a boil.  
+2. Turn down to medium for 5 minutes.
+3. Then take off burner and let sit 30 minutes.
+4. Strain.
+5. Cool.

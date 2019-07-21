@@ -2,22 +2,28 @@
 title: "Paleo Pancakes"
 ---
 
-A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the United States, its development dating back to the 1910s.
+1/2 cup almond flour, 1/4 tapioca, 1/2 tbsp baking powder, 1 egg, 3 tbsp egg white, 2 tbsp avocado oil, coconut milk till it's no longer thick. Some vanilla extract and maple syrup
 
 ## Ingredients
 
-* 1 cup unsalted butter
-* 1 cup crunchy peanut butter
-* 1 cup white sugar
-* 1 cup packed brown sugar
-* 2 eggs 2
-* 1/2 cups all-purpose flour
-* 1 teaspoon baking powder
-* 1/2 teaspoon salt
-* 1 1/2 teaspoons baking soda
+* 1/2 cup almond flour
+* 1/4 cup tapioca starch
+* 1/2 tbsp baking powder
+* 1 egg
+* 3 tbsp egg white
+* 2 tbsp avocado oil
+* 1 tsp Vanilla extract
+
+* Coconut or almond milk
+
+* Maple Syrup (optional)
+* Fruit 
 
 ## Directions
 
-1. Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.
-2. In a separate bowl, sift flour, baking powder, baking soda, and salt; stir into butter mixture. Put dough in refrigerator for 1 hour.
-3. Roll dough into 1 inch balls and put on baking sheets. Flatten each ball with a fork, making a crisscross pattern. Bake in a preheated 375 degrees F oven for about 10 minutes or until cookies begin to brown.
+1. In a medium bowl whisk all wet ingredients but milk together.
+2. In small bowl mix dry ingredients well.
+3. Mix dry ingredients into wet ingredients.
+4. Add milk until mixture is no longer thick (pancake batter consistency).
+5. Cook like normal pancake, do not stack so they stay dry.
+6. Serve with maple syrup or raspberries.
