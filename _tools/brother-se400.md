@@ -1,12 +1,11 @@
 ---
 title: "Brother SE400 Embroidery Machine"
-excerpt: "Baz Boom design system including logo mark, website design, and branding applications."
+excerpt: "Fun little machine for embroidered patch making."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  teaser: /assets/images/se400-00.jpeg
 sidebar:
   - title: "Role"
-    image: http://placehold.it/350x250
+    image: /assets/images/se400-00.jpeg
     image_alt: "logo"
     text: "Designer, Front-End Developer"
   - title: "Responsibilities"
