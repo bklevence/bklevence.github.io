@@ -114,12 +114,13 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
   <input type="checkbox" name="0" value="0">Scrub all hardened V rails with Scotchbrite pad saturated with WD-40. Wipe with clean rag. Remove dust covers and check V rollers for buildup and clean with small brass brush if needed.<br>
   <input type="checkbox" name="0" value="0">Add light machine oil to felt oilers inside of the 8 wheel covers and z-axis sweeps.<br>
   <input type="checkbox" name="0" value="0">Check rack/pinion/motor/shaft relationship by rapid push-pull. X1, X2, Y and Z. Adjust motor mount or tighten set screws.<br>
+  <input type="checkbox" name="0" value="0">Warm up and listen to spindle.<br>
 
 ## Notes
 - Had two controller issues. Both required hardware swap.
 - Was crashing into zero plate and measuring tool, was loose cable.
 
-- [ ] Find docs on 3D
+- [ ] Find docs on control PC to archive here.
 - [ ] Work on clamping to edge.
 - [ ] Feeds and Speeds / Cut depth for faster Ply cuts.
 - [ ] Get Manuals of PC for both CUT2D Pro and WinCNC.
