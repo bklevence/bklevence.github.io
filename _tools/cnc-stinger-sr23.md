@@ -67,7 +67,23 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
 - Engrave_DepthOfEngrave_DegreeOfVBIT
 - Pocket_DepthOfPocket_SpecifiedCutterDim
 
-## Machine Preparation Checklist
+## CUT2D Checklist
+
+<input type="checkbox" name="0" value="0">Material Measured w/ Caliper<br>
+<input type="checkbox" name="0" value="0">Material Size<br>
+<input type="checkbox" name="0" value="0">Can be clamped?<br>
+<input type="checkbox" name="0" value="0">Join Vectors<br>
+<input type="checkbox" name="0" value="0">Vectors on right Layers?<br>
+<input type="checkbox" name="0" value="0">Begin making Toolpaths<br>
+<input type="checkbox" name="0" value="0">Check tool<br>
+<input type="checkbox" name="0" value="0">Specify tab locations<br>
+<input type="checkbox" name="0" value="0">Generate<br>
+<input type="checkbox" name="0" value="0">Repeat for other processes.<br>
+<input type="checkbox" name="0" value="0">Simulation Preview<br>
+<input type="checkbox" name="0" value="0">Check tab and nesting tolerances<br>
+<input type="checkbox" name="0" value="0">Generate TAP files.<br>
+
+## WINCNC Machine Preparation Checklist
 
 <input type="checkbox" name="0" value="0">Initialize<br>
 <input type="checkbox" name="0" value="0">Measure Tool<br>
@@ -80,16 +96,15 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
 <input type="checkbox" name="0" value="0">Turn Spindle ON<br>
 <input type="checkbox" name="0" value="0">Enter to start<br>
 
-## Guides & Documents
+## Guides & Documents (needs files)
 
-[QuickStart Guide](/assets/docs/shopbot/quickstart.pdf){: .btn .btn--danger .btn--large}
+[QuickStart Guide](/#){: .btn .btn--danger .btn--large}
 
-- [User Guide](/assets/docs/shopbot/user-guide.pdf)
-- [Command Reference v3](/assets/docs/shopbot/command-ref.pdf)
-- [Feeds and Speeds](/assets/docs/shopbot/feeds-and-speeds.pdf)
-- [Programming Handbook](/assets/docs/shopbot/programming-handbook.pdf)
-- [Maintenance](/assets/docs/shopbot/maintenance.pdf)
-- [Gantry Assembly](/assets/docs/shopbot/gantry-assembly.pdf)
+- [User Guide](/#)
+- [Command Reference v3](/#)
+- [Feeds and Speeds](/#)
+- [Programming Handbook](/#)
+- [Maintenance](/#)
 
 
 ## Weekly Checklist
@@ -101,8 +116,11 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
   <input type="checkbox" name="0" value="0">Check rack/pinion/motor/shaft relationship by rapid push-pull. X1, X2, Y and Z. Adjust motor mount or tighten set screws.<br>
 
 ## Notes
-- Swapped out control board twice on 48x48.
-- Regrounded 48x48, feels like it has stuxnet. Random crashing/plunging...
-- Redid Vac table on 48x48, ended up just switching to [plastic pneumatic nailer](https://raptornails.com/) to hold material to MDF spoilboard. Expensive, but worth it!
-- 2016, UArts ID Shop 48x48 Machine was scrapped as it would not stop crashing.
-- 2016, Workshop School needed dust collection, [I made an adaptor to standard ducting from original dust plate on 96x48](/assets/docs/shopbot/dust-attachment.zip).
+- Had two controller issues. Both required hardware swap.
+- Was crashing into zero plate and measuring tool, was loose cable.
+
+- [ ] Find docs on 3D
+- [ ] Work on clamping to edge.
+- [ ] Feeds and Speeds / Cut depth for faster Ply cuts.
+- [ ] Get Manuals of PC for both CUT2D Pro and WinCNC.
+- [ ] Zero on spoilboard rather than top of material?
