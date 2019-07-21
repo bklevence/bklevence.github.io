@@ -20,7 +20,7 @@ After a 3D model has been designed and exported to an STL, a special program sli
 The machine consists of a moving bed (Z-axis) and a print head (X-axis and Y-axis). The print head has a heating element in it; thermoplastic is forced into the print head, melts, and is squeezed out, not unlike toothpaste. The print head is calibrated in such a way that the molten plastic coming out of it is almost always the same thickness.
 In order to form complex shapes, overhangs, and hinges/joints/free-moving objects, the plastic needs to be held up by something. The machine prints using a second material, which we call the 'support.' When the print is done, it is put in a bath of solution that dissolves away the support material, leaving only the finished model. Some machines do not have a second support material an instead have supports generated in the model material when sliced.
 
-![Two Material, FDM Printing, Extrusion System Diagram](/assets/images/printers-01.jpg)
+![Two Material, FDM Printing, Extrusion System Diagram](/assets/images/printers-01.png)
 
 ## Dimension
 
