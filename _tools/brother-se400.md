@@ -1,5 +1,5 @@
 ---
-title: "Brother SE400 Embroidery Machine"
+title: "Brother: SE400 Embroidery Machine"
 excerpt: "Fun little machine for 3in embroidered patch making."
 header:
   teaser: assets/images/se400-00.jpeg
@@ -18,3 +18,4 @@ sidebar:
 - [ ] What color threads do I have?
 - [ ] Patches made in the past?
 - [ ] What type of file do I use, I remember SVG.
+- [ ] Just inventory everything.
