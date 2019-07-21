@@ -1,5 +1,5 @@
 ---
-title: "Drive to Clyde"
+title: "Trips to Clyde"
 ---
 
 ## PA
