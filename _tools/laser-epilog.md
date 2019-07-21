@@ -1,5 +1,5 @@
 ---
-title: "Universal Laser VLS60"
+title: "Epilog 50W Mini"
 excerpt: "I have used multiple VLS Models. Best CAM software."
 toc: true
 toc_sticky: true
