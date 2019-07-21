@@ -111,15 +111,7 @@ Never clean any optic right after engraving or cutting because the optic may be 
 
 ## Guides & Documents
 
-[QuickStart Guide](/assets/docs/shopbot/quickstart.pdf){: .btn .btn--danger .btn--large}
-
-- [User Guide](/assets/docs/shopbot/user-guide.pdf)
-- [Command Reference v3](/assets/docs/shopbot/command-ref.pdf)
-- [Feeds and Speeds](/assets/docs/shopbot/feeds-and-speeds.pdf)
-- [Programming Handbook](/assets/docs/shopbot/programming-handbook.pdf)
-- [Maintenance](/assets/docs/shopbot/maintenance.pdf)
-- [Gantry Assembly](/assets/docs/shopbot/gantry-assembly.pdf)
-
+None as I haven't been around one in a while and the only copy I ever got was paper. Looks like docs are not quick to find, but I only spent 15 sec.
 
 ## Weekly Checklist
 
