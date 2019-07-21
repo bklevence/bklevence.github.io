@@ -2,7 +2,7 @@
 title: "Guava Mead"
 ---
 
-The first time I made a Costco Mead that didn't taste like rocket fuel after 2 months. The Guava mead replaces water.
+The first time I made a Costco Mead that didn't taste like rocket fuel after 2 months. The guava nectar replaces water in a normal recipe.
 
 ## Ingredients
 
