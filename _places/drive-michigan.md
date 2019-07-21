@@ -1,23 +1,50 @@
 ---
-title: "Drive to Michigan"
+title: "Trips to Michigan"
 ---
 
-A peanut butter cookie is a type of cookie that is distinguished for having peanut butter as a principal ingredient. The cookie generally originated in the United States, its development dating back to the 1910s.
+## Pittsburgh, PA
 
-## Ingredients
+- [X] Dancing Gnome
+- [X] Cinderlands
+- [X] Hitchhiker
+- [X] Dancing Gnome
+- [X] Specialty Ales (sour place)
+- [ ] Grist House
+- [ ] Carnegie Museums
+- [X] Warhol Museum
+- [X] Mattress Factory
+- [X] Cog Railway
+- [X] Primanti Bros on the Strip
+- [X] Steak restaurant off of strip
+- [X] Third Something outdoor equipment shop
+- [ ] Calientes Pizza
+- [ ] Jacks bar, southside east, mid-day
+- [ ] Fodis bar, afternoon or evening
+- [ ] An a man radio skits
+- [ ] Quebec Run for hammock camping
 
-* 1 cup unsalted butter
-* 1 cup crunchy peanut butter
-* 1 cup white sugar
-* 1 cup packed brown sugar
-* 2 eggs 2
-* 1/2 cups all-purpose flour
-* 1 teaspoon baking powder
-* 1/2 teaspoon salt
-* 1 1/2 teaspoons baking soda
+## Sandusky, OH
 
-## Directions
+- [X] Cedar Point
+- [X] Walmart Parking lot
+- [X] Planet Fitness
+- [X] Jessicas or some 24/7 Diner, decent food.
 
-1. Cream butter, peanut butter, and sugars together in a bowl; beat in eggs.
-2. In a separate bowl, sift flour, baking powder, baking soda, and salt; stir into butter mixture. Put dough in refrigerator for 1 hour.
-3. Roll dough into 1 inch balls and put on baking sheets. Flatten each ball with a fork, making a crisscross pattern. Bake in a preheated 375 degrees F oven for about 10 minutes or until cookies begin to brown.
+## Detroit and Dearborn, MI
+
+- [X] John J. King Books
+- [X] Ford Museum
+- [X] John J. King Books
+- [X] Al Ameer, decent combo and chicken shwarma
+- [X] John J. King Books
+- [X] Ascension Brewing Company (on way from Detroit)
+- [ ] Jolly Pumpkin Artisan Ales (the OG)
+
+## Grand Haven and Grand Rapids, MI
+
+- [X] Speciation Artisan Ales, Sour Beer Mecca (35min from Bob)
+- [X] Frank's Meats
+- [X] Meijer
+- [X] The Deck
+- [ ] Clover Bar, pizza
+- [ ] Odd Side Ales
