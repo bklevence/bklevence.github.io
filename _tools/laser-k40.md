@@ -45,7 +45,8 @@ You can find information about which board you have on the controller board in y
 
 Next setting is to check your hardware device ID, you can find this on the controller board, se image below
 
-  ![Laser Diagram](/assets/images/k40-05.jpg)
+  ![Laser Diagram](/assets/images/k40-04.jpg)
+
   ![Laser Diagram](/assets/images/k40-06.jpg)
 
 
@@ -55,7 +56,7 @@ Check out the other settings and make sure you have the same on your settings.
 
 
 You are now ready to start your first test with the machine
-Start with the “rectangle tool” in corel, make a box with the size of your choise, i made a 54x40mm box.
+Start with the “rectangle tool” in corel, make a box with the size of your choice, i made a 54x40mm box.
 
   ![Laser Diagram](/assets/images/k40-08.jpg)
 
