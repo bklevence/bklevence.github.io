@@ -125,3 +125,4 @@ The CNC router can also mill models from 3-dimensional files. For this to happen
 - [ ] Feeds and Speeds / Cut depth for faster Ply cuts.
 - [ ] Get Manuals of PC for both CUT2D Pro and WinCNC.
 - [ ] Zero on spoilboard rather than top of material?
+- [ ] Inventory of Cutters needs updating/post here.
