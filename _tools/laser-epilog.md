@@ -1,12 +1,12 @@
 ---
 title: "Epilog 50W Mini"
-excerpt: "I have used multiple VLS Models. Best CAM software."
+excerpt: "Real decent, but lacks robust CAM software"
 toc: true
 toc_sticky: true
 header:
-  teaser: assets/images/uls-01.jpeg
+  teaser: assets/images/epilog-00.jpeg
 sidebar:
-  - image: assets/images/uls-01.jpeg
+  - image: assets/images/epilog-00.jpeg
     image_alt: "logo"
   - title: "How it Works"
     text: "The ULS VersaLaser is a 2-axis plotter, meaning it can move along the X and Y axes. The laser beam is focused through a lens, creating a focal point two inches below the lens where the beam is the most intense. In order to cut with the most precision, the focal point needs to be focused at the top of the surface it is cutting. For this reason, the laser is most efficient and precise when cutting sheet material."
