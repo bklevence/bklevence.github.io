@@ -2,7 +2,7 @@
 title: "Paleo Pancakes"
 ---
 
-1/2 cup almond flour, 1/4 tapioca, 1/2 tbsp baking powder, 1 egg, 3 tbsp egg white, 2 tbsp avocado oil, coconut milk till it's no longer thick. Some vanilla extract and maple syrup
+I spent a month or two trying different ratios trying to emulate pancakes. Otherwise you can easily make these too dry too gummy.  
 
 ## Ingredients
 
@@ -17,7 +17,7 @@ title: "Paleo Pancakes"
 * Coconut or almond milk
 
 * Maple Syrup (optional)
-* Fruit 
+* Fruit
 
 ## Directions
 
