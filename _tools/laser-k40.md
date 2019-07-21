@@ -4,7 +4,7 @@ excerpt: "Check the grounding 5000 times, then cut."
 header:
   teaser: assets/images/k40-00.jpg
 sidebar:
-    image: assets/images/k40-00.jpg
+  - image: assets/images/k40-00.jpg
     image_alt: "logo"
   - title: "Material"
     text: "1/8 Ply, acrylic, paper, tortillas"
