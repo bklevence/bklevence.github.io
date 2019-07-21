@@ -16,6 +16,7 @@ sidebar:
     text: "Shapeways, 3D Hubs."
 ---
 
+# FDM Printers
 
 ## Lulzbot
 
@@ -60,12 +61,6 @@ Tolerances for 1x1x1 cube test: X Y Z
 
 Tolerances for 1x1x1 cube test: X Y Z
 
-## FormLabs 2?
-Super interesting printer, not student friendly. I spent 2 months servicing one that a student almost broke the year before I got to NVD. Definitely get a good UV box or clean sunny space.
-
-- [ ] Inventory Material
-- [ ] Write up checklist for proper handling
-
 ## Monoprice Maker Mini V2
 
 Decent printer that I use at home directly off my PC with CURA. May set up Octoprint once I have a good location for the printer.
@@ -93,7 +88,6 @@ Really decent when they work. Can be very temper-mental. Does two materials well
 - [ ] Recycle Bot
 - [ ] Precious Plastics
 
-
 ## Materials Review
 
 - NGEN is great, but fractures, super shiny.
@@ -101,3 +95,17 @@ Really decent when they work. Can be very temper-mental. Does two materials well
 - ABS, only for enclosed dimension, very susceptible to moisture damage.
 - Ninjaflex, only used once. Can't use at home.
 - TPU, want to try.
+
+# SLA Printing
+
+## Form 2?
+Super interesting printer, not student friendly. I spent 2 months servicing one that a student almost broke the year before I got to NVD. Definitely get a good UV box or clean sunny space.
+
+- [ ] Inventory Material
+- [ ] Write up checklist for proper handling
+
+# Sandstone Printing
+Done through shape-ways, link image from minecraft!
+
+# Ceramic Printing
+Done through shape-ways, link image from Ryans gift!
