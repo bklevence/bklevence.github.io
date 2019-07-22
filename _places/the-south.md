@@ -12,10 +12,12 @@ title: "The South"
 - [X] Cape Hatteras National Seashore
 
 ## DC, MD, Delaware
-- [X] Denver Public Library
+- [X] Bay Bridge Tunnel
 
 ## New Orleans, LA
-- [X] Denver Public Library
+- [X] Parkway Bakery & Tavern
+- [X] Deanie's Seafood Restaurant & Seafood Market, Metairie
+
 
 ## Houston, TX
 - [X] Crawfish and Noodles
