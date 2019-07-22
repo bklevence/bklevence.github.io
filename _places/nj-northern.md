@@ -3,10 +3,20 @@ title: "Northern NJ"
 ---
 
 ## Water Gap
-- [X] Denver Public Library
+- [X] Hot Rods Hot Dogs, eh
+- [X] Hot Dog Johnny's
+- [X] Humpty Junior's
+
+## Clifton
+
+- [ ] Rutt's Hut
+
+## Summit, etc
+
+- [X] Summit Diner
 
 ## Morristown Area
-- [X] Denver Public Library
-
-## NYC
-- [X] Denver Public Library
+- [X] Macho Nacho
+- [X] 1/2 Cash Sushi
+- [X] Arcade
+- [X] Shan Shan Noodle House

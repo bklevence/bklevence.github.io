@@ -4,22 +4,42 @@ state: "PA"
 ---
 
 ## Philadelphia, PA
-- [X] Denver Public Library
+- [X] EL Bar
+- [X] Jim's Steaks
+- [X] Delasandro's Steaks
+- [X] Smith Playground
+- [X] The Pretzel ride
+- [X] Philly AIDS Thrift
+- [X] John's Waterice
+- [X] Tamalex
+- [X] Dock St
+- [X] The Barn
+- [X] Fu-Wah Mini Market (Banh-mi)
+- [X] Dim Sum Garden
 
 ## Reading, PA
-- [X] Denver Public Library
+- [X] Roller Derby
 
 ## Collingswood, NJ
-- [X] Denver Public Library
+- [X] Weber's Drive In
 
 ## Bucks County, Pa
-- [X] Denver Public Library
+- [X] Cross Keys Diner
+- [X] Free Will Taproom
+- [X] Moo Burger
+- [X] Liberty Pizza (technically nj)
+- [ ] Ringing Rocks
 
 ## Coal Counties
-- [X] Denver Public Library
+- [X] Pottsville, Casimir Klevence + Stuff
 
 ## Allentown and Bethlehem
-- [X] Denver Public Library
+- [X] Weyerbacher
+- [ ] Sole
+- [X] Bon Place
+- [X] Colony Meadery
+- [X] Tucker Bakery
+- [X] The Goosemen
 
 ## The Shore
 - [X] Denver Public Library
