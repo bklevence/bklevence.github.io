@@ -1,6 +1,6 @@
 ---
 title: "Archive: Triluminazey Makey Makey MakerParty Awesomeness"
-date: 2017-03-04 22:06
+date: 2013-08-08 22:06
 author: bklevence
 ---
 <blockquote>Originally posted August 8, 2013 on the <a href="http://makerjawn.org/blog/2013/08/08/975/">Maker Jawn Blog</a>:</blockquote>

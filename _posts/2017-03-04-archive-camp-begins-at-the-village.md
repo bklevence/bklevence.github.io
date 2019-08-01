@@ -1,6 +1,6 @@
 ---
 title: "Archive: Camp begins at the Village"
-date: 2013-06-20 21:51
+date: 2013-06-10 21:51
 author: bklevence
 ---
 <blockquote>Originally posted July 10, 2013 on the <a href="http://makerjawn.org/blog/2013/07/10/camp-begins-at-the-village/">Maker Jawn Blog</a>:</blockquote>

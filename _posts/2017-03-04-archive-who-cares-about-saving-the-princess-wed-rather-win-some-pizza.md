@@ -1,6 +1,6 @@
 ---
 title: "Archive: Who cares about saving the Princess, we'd rather win some Pizza."
-date: 2017-03-04 21:54
+date: 2013-07-17 21:54
 author: bklevence
 ---
 <blockquote>Originally posted July 17, 2013 on the <a href="http://makerjawn.org/blog/2013/07/27/testing-learning-and-failing/">Maker Jawn Blog</a>.</blockquote>
