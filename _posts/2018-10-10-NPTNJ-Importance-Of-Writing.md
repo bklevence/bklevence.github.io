@@ -1,5 +1,5 @@
 ---
-title: "How important is writing in your discipline(industrial design)?"
+title: "How important is writing in your discipline(Industrial Design)?"
 date: 2018-10-10 12:54
 author: bklevence
 ---
