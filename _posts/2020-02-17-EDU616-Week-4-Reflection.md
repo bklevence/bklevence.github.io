@@ -1,10 +1,10 @@
 ---
-title: "EDU616: Week 7 Integrating Technology"
+title: "EDU616: Week 4 Integrating Technology"
 date: 2020-02-17 12:54
 author: bklevence
 ---
 
-***EDU616 Week 7Integrating Technology***
+***EDU616 Week 4 Integrating Technology***
 
 
 
