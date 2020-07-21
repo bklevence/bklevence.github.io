@@ -31,8 +31,8 @@ The Dimension SST 1200es I operated at UArts was a lemon. Material was the main 
 ### Overview
 
 Great printers.
-- [x] Lead Screws Lubricated (April 2019)
-- [ ] Need firmware updates.
+- [x] Lead Screws Lubricated (December 2019)
+- [X] Need firmware updates.
 - [ ] Material Sample Test for Tolerance
 - [ ] Benchy off of each printer
 
@@ -109,7 +109,7 @@ Really decent when they work. Can be very temper-mental. Does two materials well
 ## Form 2?
 Super interesting printer, not student friendly. I spent 2 months servicing one that a student almost broke the year before I got to NVD. Definitely get a good UV box or clean sunny space.
 
-- [ ] Inventory Material
+- [X] Inventory Material
 - [ ] Write up checklist for proper handling
 
 # Shapeways Printing
@@ -119,6 +119,8 @@ Done through shape-ways, link image from minecraft!
 
 ## Ceramic Printing
 Done through shape-ways, link image from Ryans gift!
+
+
 
 
 Notes that need to get added into above or gcode...
