@@ -1,10 +1,10 @@
 ---
-title: "Modding Game Boys"
+title: "Modding Gameboys"
 date: 2020-07-21 12:54
 author: bklevence
 ---
 
-***Modding Game Boys***
+***Modding Gameboys***
 
 Another hobby of mine that has developed over the course of quarantine has been modding Game Boys. Out of all my possessions, I've never given up my small Game Boy collection. I have a DMG that I refurbished while in high school, a replacement Clear Game Boy Pocket for one stolen from me as a child, and my original Yellow Game Boy Color.
 
@@ -35,8 +35,9 @@ I owned one of these, and I believe I sold it in order to get money together for
 
 - [X] Reshell Clear (Much to be desired, cheap shell)
 - [X] IPS V2 Screen Mod
-- [X] Battery Replacement (Still rough)
-- [ ] Wireless Charging
+- [X] Battery Replacement (Still rough, orderk Mahko kit arriving 8/6)
+- [X] Wireless Charging (Completed 8/03)
+- [ ] BLUETOOTH :)
 
 **Everdrives**
 
