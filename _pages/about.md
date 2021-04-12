@@ -77,7 +77,7 @@ Led the in house visual display team, demo machine maintenance and security, wor
 ## Education
 ### New Jersey City University
 
-Currently enrolled in the New Pathways to Teaching in NJ Masters in Secondary Education Program. Expected Completion Summer 2020.
+Masters in Secondary Education, Class of 2020.
 ### The University of the Arts
 
 B.S. Industrial Design, Class of 2014.
