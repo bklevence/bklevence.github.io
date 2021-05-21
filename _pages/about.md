@@ -11,24 +11,21 @@ toc_sticky: true
 
 ## TL;DR
 
-- I maintain a variety of CNC machines for both work and play.
 - All about working with people in fabrication shop settings.
-- Current graduate student.
-- Amateur Radio Handle: KD2RGZ
 - Human for a winking dog named Xena.
-- Dislocated Philadelphian as of 2017.
-- Homebrewer and former Web Store Operator.
+- Gameboy Modder, Baker, Homebrewer, and former Web Store Operator.
+- Amateur Radio Handle: KD2RGZ
 
 
 ## Work Experience
 
 ### Northern Valley Demarest
 
-Current Teacher of Technology and Engineering with various courses such as Freshman Engineering Foundations, Sophomore Innovation & Invention, and Senior STEM Capstone. Shop wrangler, advisor, and Table Top Gaming club Advisor.
+Teacher of Technology and Engineering. Rewritten curriculum for Freshman Engineering Foundations, Engineering 1, and Senior STEM Capstone. Machine Shop Artificer and Table Top Gaming club Advisor. 2018-Present
 
 ### The Workshop School
 
-Manager of highschool wood, metal, printing, and digital fabrication shops from 2016-2018. Mentor of a student led afterschool design and fabrication business, FTC robotics club, as well as coding club and special elective. Acting I.T. network admin for a chromebook fleet, Windows and Apple labs, and loaner technology for a school of 300 students. Automated Google user management through GAM, streamlined deployment methods for students to take school benchmark and state mandated testing via chromebooks, as well as built simple webapps with students to manage technology hardware lending and use. Assisted in doubling student online and in person net sales to $16,000 and coached student team through multiple press events both for print and live tv media.  
+Manager of high school wood, metal, printing, and digital fabrication shops from 2016-2018. Advisor to Workshop Industries, an entrepreneurship club, netting $25k in craft item sales over 2 years. Technology and network administrator to chromebook fleet and faculty Apple laptops. My job description was long! 2016-2018
 
 ### University of the Arts
 **Pre-College Program**
@@ -37,11 +34,11 @@ Taught summer and fall semester classes on toy design, electronics, product desi
 
 **Industrial Design Shop**
 
-Acted as seasonal assistant manager focused on maintaining digital fabrication resources. Focused on training employees and students with wood, metal, and digital tools. Acted as a Teacher's Assistant and facilitator for classes ranging from graduate level prototyping classes, introductory workshop courses, and prospective student design workshops. Designed, coded, and implemented digital file submission forms, digital file processing systems, and websites for the shop.
+Assistant manager focused on maintaining digital fabrication resources and training. Facilitated classes ranging from graduate level prototyping classes, introductory workshop courses, and prospective student design workshops. Fullstack developer for many bespoke shop management systems.
 
 ### The Free Library of Philadelphia
 
-Co-founded adult and youth maker programs "The Maker Jawn Initiative" in 10 branches of the Free Library of Philadelphia, held workshops of various sizes, guided staff development trainings, wrote proposals for grants, developed curriculum, did outreach, and presented work nationally. Focused on the place of digital badges, open hardware, prototyping interactive electronic artwork, and creating makerspaces in libraries. 2013-2015
+Co-founded "The Maker Jawn Initiative" in 10 branches of the Free Library of Philadelphia. Ran workshops, trained staff, collaborated on grant writing and curriculum development, as well as did local outreach and presented work nationally. Fullstack developer of digital badging system as well as interactive electronics kits for patrons.
 
 
 
@@ -50,29 +47,29 @@ Co-founded adult and youth maker programs "The Maker Jawn Initiative" in 10 bran
 Led design, engineering, and tech classes for 9th-11th grades at S.T.H.S. Vine St. campus a one-to-one iPad School.
 
 **The Village of Arts and Humanities**
-I led formal and drop-in electronics and interactive gaming and art workshops as a Teaching Artist. Using the MaKey MaKey and Scratch I guided youth(7-12y) in creating and documenting games.
+Taught children 7-12 years old electronics and coding during the pilot MakerCorps cohort.
 
 ### Consulting
 **National Writing Project**
 
-Participated in a series of workshops as part of a 2015 task-force to brainstorm, synthesize, and design the hallmarks and best practices of digital media labs and makerspaces in the YOUmedia Learning Labs network.
+On 2015 task-force to brainstorm, synthesize, and design the hallmarks and best practices of digital media labs and makerspaces in the YOUmedia Learning Labs network.
 
 **MakerED Intel Explorers Program**
 
-Focused on making the Intel Galileo Arduino accessible to youth with visual programming similar to Scratch and Blockly, provided feedback to Intel, and contributed to online maker communities during the summer of 2016.
+Intel Galileo Arduino explorers program, during the summer of 2014.
 
 ### Internships
 **The Franklin Institute**
 
-Team prototyper and fabricator for Pocket Tech, a cart-based activity series to demystify the components that make up a smart phone.
+Design and fabrication of Pocket Tech, a cart-based activity series to demystify the components that make up a smart phone.
 
 **The University of Pennsylvania GSE**
 
- Facilitated E-Crafting Circles workshops at both locations and at the Free Library. Worked as part of a team to design, prototype, and implement Connected Messages.
+E-Crafting Circles & Connected Messages 2013-2014.
 
 ### Apple Store Walnut St.
 
-Led the in house visual display team, demo machine maintenance and security, workshops, and Apple Camps for youth.
+Led the in house visual display team, demo machine maintenance and security, workshops, and Apple Camps for youth. 2010-2013
 
 ## Education
 ### New Jersey City University
