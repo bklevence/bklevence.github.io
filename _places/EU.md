@@ -27,3 +27,7 @@ categories: [Europe]
 - [X] Trattoria Sora Lella
 - [X] Museum and Crypt of the Capuchin Friars
 - [X] G.FASSI
+
+## Germany
+- [X] Trier
+- [ ] C.Base Hacker Space

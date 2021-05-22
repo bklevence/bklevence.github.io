@@ -9,7 +9,7 @@ title: "Northern NJ"
 
 ## Clifton
 
-- [ ] Rutt's Hut
+- [X] Rutt's Hut
 
 ## Summit, etc
 
@@ -17,6 +17,9 @@ title: "Northern NJ"
 
 ## Morristown Area
 - [X] Macho Nacho
-- [X] 1/2 Cash Sushi
+- [X] 1/2 Cash Sushi @ Masago
+- [X] Tacoria
 - [X] Arcade
-- [X] Shan Shan Noodle House
+- [X] Shan Shan Noodle House (the best)
+- [X] Suvio's Pizza
+

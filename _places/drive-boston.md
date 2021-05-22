@@ -14,17 +14,30 @@ What time of day?
 - [X] Mikes Pastry
 - [X] The Daily Catch
 - [X] Yume Wo Katare
-- [ ] Saccos Bowling Haven
+- [X] Saccos Bowling Haven
 - [ ] Spectacle Island
-- [ ] Artisan's Asylum
+- [X] Artisan's Asylum
 - [ ] Aquarium
 - [ ] Giacomo's
 - [X] Trillium Brewing
+- [X] Yume Wo Katare
+- [ ] Tree House Brewing Co (on the way)
 
 
 ## Ipswich
 
-- [ ] Ipswich
+- [X] Ipswich
+- [X] Riverview Pizza (the best)
+- [X] Choate Pub
+- [X] Ipswich Clam Bake (good and no line ever, fries and tendies too)
+- [X] Clam Box
+- [X] White Farms Ice Cream
+- [X] Zumi's coffee, they will never have special blend!
+- [X] Crane Beach
+- [X] Kayak to Plum Island
+- [X] Woodman's (H got food posioned)
+- [X] Turner's Seafood (not really worth the drive)
+- [X] Down River Ice Cream
 
 ## NY
 
@@ -39,6 +52,7 @@ What time of day?
 ## NH
 - [X] STREET eat/drink 360
 - [X] Breweries in Portsmouth
+- [X] Riverwalk Brewing Co.
 
 ## Maine
 
