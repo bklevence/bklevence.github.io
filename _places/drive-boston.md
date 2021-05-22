@@ -22,6 +22,7 @@ What time of day?
 - [X] Trillium Brewing
 - [X] Yume Wo Katare
 - [ ] Tree House Brewing Co (on the way)
+- [ ] La Metecapaneca (ceviche?)
 
 
 ## Ipswich
