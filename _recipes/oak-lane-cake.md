@@ -2,7 +2,7 @@
 title: "Oak Lane Chocolate Cake"
 ---
 
-I ate a whole one of these in a weekend...
+I ate a whole one of these in a weekend when I worked at Under the Oak Cafe.
 
 ## Ingredients
 
