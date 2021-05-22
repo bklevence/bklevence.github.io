@@ -23,7 +23,7 @@ I did this hack at my families summer cottage, so you should be able to do it wi
 
 **Impetus**
 
-After updating the SP I began to fixate on updating the SP to be a contemporary device. Even newer "stock" batteries have horrific capacities, and I hate carrying around a cable for just the SP (and technically my 3DS). So I went to the internet and found out someone had done this previously behind the SP's screen. I wanted to do the same, but keep the device upright while charging!
+After updating the Gameboy SP I began to fixate on updating the SP to be a contemporary device. Even newer "stock" batteries have horrific capacities, and I hate carrying around a cable for just the SP (and technically my 3DS). So I went to the internet and found out someone had done this previously behind the SP's screen. I wanted to do the same, but keep the device upright while charging!
 
 **Research**
 
