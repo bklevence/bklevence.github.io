@@ -6,13 +6,13 @@ By my Grandmom Pat Gilde, "used for Easter breakfast at church".
 
 ## Ingredients
 
-3 c. cubed frenchbread or italian
-8 oz Wispride cheese food
-3 Tbsp. melted butter
-1 3/4 c. milk
-4 eggs beaten
-1/2 tsp. dry mustard
-3 drops tabasco sauce
+* 3 c. cubed frenchbread or italian
+* 8 oz Wispride cheese food
+* 3 Tbsp. melted butter
+* 1 3/4 c. milk
+* 4 eggs beaten
+* 1/2 tsp. dry mustard
+* 3 drops tabasco sauce
 
 ## Instructions
 

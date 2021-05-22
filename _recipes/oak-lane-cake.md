@@ -8,38 +8,38 @@ I ate a whole one of these in a weekend when I worked at Under the Oak Cafe.
 
 ### For the cake custard:
 
-1 egg
-1/2 cup water
-2/3 cup sugar
-6 ounces unsweetened chocolate (90%)
+* 1 egg
+* 1/2 cup water
+* 2/3 cup sugar
+* 6 ounces unsweetened chocolate (90%)
 
 ### For the cake batter:
 
-1/2 cup (1 stick) butter
-1 cup sugar
-2 eggs
-1 teaspoon vanilla
-2 1/4 cups flour
-1 teaspoon baking soda
-1/2 teaspoon salt
-1 cup water
+* 1/2 cup (1 stick) butter
+* 1 cup sugar
+* 2 eggs
+* 1 teaspoon vanilla
+* 2 1/4 cups flour
+* 1 teaspoon baking soda
+* 1/2 teaspoon salt
+* 1 cup water
 
 ### For the buttercream icing:
 
-32 ounces confectioners sugar
-1 cup butter, creamed
-2 teaspoons vanilla
-4 tablespoons whole milk
-1/2 teaspoon salt
+* 32 ounces confectioners sugar
+* 1 cup butter, creamed
+* 2 teaspoons vanilla
+* 4 tablespoons whole milk
+* 1/2 teaspoon salt
 
 ### For the flourless chocolate topping:
 
-4 ounces semisweet chocolate
-2 1/2 tablespoons butter
-1 1/3 tablespoons water
-1 1/3 tablespoons sugar
-1/8 tablespoon vanilla
-1 egg
+* 4 ounces semisweet chocolate
+* 2 1/2 tablespoons butter
+* 1 1/3 tablespoons water
+* 1 1/3 tablespoons sugar
+* 1/8 tablespoon vanilla
+* 1 egg
 
 ## Instructions
 

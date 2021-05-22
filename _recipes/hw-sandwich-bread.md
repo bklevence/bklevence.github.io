@@ -6,17 +6,17 @@ Adapted from Peter Reinhart’s Whole Grain Breads, first shared w/ me by Andrew
 
 ## Soaker
 
-1¾ cups (227 grams) whole wheat flour
-½ teaspoon (4 grams) salt
-¾ cup plus 2 tablespoons (198 grams) milk, buttermilk, yogurt, soy milk, or rice milk
+* 1¾ cups (227 grams) whole wheat flour
+* ½ teaspoon (4 grams) salt
+* ¾ cup plus 2 tablespoons (198 grams) milk, buttermilk, yogurt, soy milk, or rice milk
 
 1.) Combine flour, salt, and milk in a bowl and mix for 1 minute until all flour in incorporated and dough forms a ball. Cover loosely with plastic wrap and let sit at room temperature for 12-24 hours. If it will be longer than 24 hours, refrigerate up to 3 days, removing from refrigerator 2 hours before using.
 
 ## Biga:
 
-1¾ cups (227 grams) whole wheat flour
-¼ teaspoon (1 gram) instant yeast
-¾ cup (170 grams) filtered or spring water, at room temperature (about 70F)
+* 1¾ cups (227 grams) whole wheat flour
+* ¼ teaspoon (1 gram) instant yeast
+* ¾ cup (170 grams) filtered or spring water, at room temperature (about 70F)
 
 1.) Mix together flour and yeast. Add water, stirring to combine. With wet hands, knead the dough to ensure all the flour is hydrated and dough feels tacky, about 2 minutes. Let dough rest for 5 minutes, then knead for 1 more minute. Dough will still be tacky, but it will get smoother.
 
@@ -24,14 +24,14 @@ Adapted from Peter Reinhart’s Whole Grain Breads, first shared w/ me by Andrew
 
 ## Final dough:
 
-Soaker
-Biga
-7 tablespoons (56.5 grams) whole wheat flour, plus extra for adjustments
-5/8 teaspoon (5 grams) salt
-2¼ teaspoons (7 grams) instant yeast
-2¼ tablespoons (42.5 grams) honey or agave nectar
-1 tablespoon (14 grams) unsalted butter, melted, or vegetable oil
-
+* Soaker
+* Biga
+* 7 tablespoons (56.5 grams) whole wheat flour, plus extra for adjustments
+* 5/8 teaspoon (5 grams) salt
+* 2¼ teaspoons (7 grams) instant yeast
+* 2¼ tablespoons (42.5 grams) honey or agave nectar
+* 1 tablespoon (14 grams) unsalted butter, melted, or vegetable oil
+ 
 ## Instructions
 
 1.) Chop the biga and soaker into 12 pieces of approximately the same size using a metal pastry scraper. Sprinkle the pieces with a little flour to prevent sticking if needed.

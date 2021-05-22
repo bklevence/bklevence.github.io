@@ -6,15 +6,15 @@ A "cafe" side, best left to ferment in fridge, paired with red lentil cakes.
 
 ## Ingredients
 
-2 tablespoons sugar
-2 tablespoons lemon juice
-2 teaspoons sweet Hungarian paprika
-1 1/2 teaspoons ground cumin
-1/4 teaspoon Cinnamon
-1/2 teaspoon cayenne pepper
-1 teaspoon sea salt
-1/4 cup olive oil
-1 1/2 lb.'s carrots
+* 2 tablespoons sugar
+* 2 tablespoons lemon juice
+* 2 teaspoons sweet Hungarian paprika
+* 1 1/2 teaspoons ground cumin
+* 1/4 teaspoon Cinnamon
+* 1/2 teaspoon cayenne pepper
+* 1 teaspoon sea salt
+* 1/4 cup olive oil
+* 1 1/2 lb.'s carrots
 
 ## Instructions
 

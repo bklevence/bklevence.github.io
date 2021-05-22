@@ -6,13 +6,13 @@ I grew up with my neighbors making these.
 
 ## Ingredients
 
-2 green tomatoes (fresh/firm are best)
-3 eggs (beaten)
-1 c. flour 
-1 c. breadcrumbs
-2 Tbsp. sazon seasoning
+* 2 green tomatoes (fresh/firm are best)
+* 3 eggs (beaten)
+* 1 c. flour 
+* 1 c. breadcrumbs
+* 2 Tbsp. sazon seasoning
 
-Vegetable Oil
+* Vegetable Oil
 
 ## Instructions
 

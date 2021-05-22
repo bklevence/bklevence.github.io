@@ -6,11 +6,11 @@ Baked beans, spam, and brown sugar. 😅
 
 ## Ingredients
 
-1 can SPAM
-1 can baked beans
-1 stick of butter
-1/3 cup of brown sugar
-1/2 loaf of rye bread
+* 1 can SPAM
+* 1 can baked beans
+* 1 stick of butter
+* 1/3 cup of brown sugar
+* 1/2 loaf of rye bread
 
 ## Ingredients
 
