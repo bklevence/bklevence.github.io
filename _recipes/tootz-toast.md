@@ -1,6 +1,6 @@
-—
+---
 title: “Toot’z Rye-Toast Special”
-—
+---
 
 Baked beans, spam, and brown sugar. 😅  
 
