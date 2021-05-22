@@ -14,7 +14,7 @@ By my Grandmom Pat Gilde, "used for Easter breakfast at church".
 1/2 tsp. dry mustard
 3 drops tabasco sauce
 
-## Ingredients
+## Instructions
 
 
 Cut bread into 1 inch cubes. Combine with crumbled cheese. Place in 1 1/2 quart casserole. Pour beat eggs, milk, and seasonings on top. Cover with foil and refrigerate overnight. Bake, uncovered, at 350° for 45 minutes until puffed and golde. Serves 4
