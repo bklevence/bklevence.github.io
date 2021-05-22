@@ -21,4 +21,4 @@ Cut bread into 1 inch cubes. Combine with crumbled cheese. Place in 1 1/2 quart 
 
 ~ Pat Gilde
 
-I have had this plain, as well as with cooked breakfast meats(sausage) chopped and combined prior to baking. I have also seen this scaled for a family gathering of 20 people. 
+I have had this plain, as well as with cooked breakfast meats(sausage) chopped and combined prior to baking. I've also seen variations with mushrooms, green onion, or sliced tomato added. I have also seen this scaled for a family gathering of 20 people. 
