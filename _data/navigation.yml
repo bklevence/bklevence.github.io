@@ -11,11 +11,13 @@ main:
   - title: "Travel"
     url: /places/
   - title: "Recipes"
-    url: /recipes-archive/
-  - title: "Plants"
-    url: /about/    
+    url: /recipes-archive/  
   - title: "Media"
     url: /about/ 
+  - title: "Pets"
+    url: /about/ 
+  - title: "Plants"
+    url: /about/  
 
 
   # - title: "Sample Collections"
