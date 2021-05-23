@@ -1,5 +1,6 @@
 ---
 title: "Aloe Vera"
+header:
 teaser: /assets/images/plants/aloe.jpg
 ---
 
