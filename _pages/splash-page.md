@@ -6,8 +6,8 @@ date: 2021-05-23T11:48:41-04:00
 
 header:
 
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+#  overlay_color: "#000"
+#  overlay_filter: "0.5"
   overlay_image: /assets/images/unsplash-image-1.jpg
 #  caption: "Photo credit: [****](https://unsplash.com)"
 
