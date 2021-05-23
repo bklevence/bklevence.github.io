@@ -351,3 +351,21 @@ defaults:
       layout: single
       author_profile: true
       share: false
+  # _plants
+  - scope:
+      path: "_plants"
+      type: plants
+    values:
+      layout: single
+      author_profile: false
+      share: false
+  # _pets
+  - scope:
+      path: "_pets"
+      type: pets
+    values:
+      layout: single
+      author_profile: false
+      share: false
+      
+      
