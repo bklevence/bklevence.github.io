@@ -19,29 +19,10 @@ $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
 
-.page__hero-caption {
-  position: absolute;
-  bottom: 0;
-  right: 0;
-  margin: 0 auto;
-  padding: 2px 5px;
-  color: #000;
-  font-family: $caption-font-family;
-  font-size: $type-size-7;
-  background: #fff;
-  text-align: right;
-  z-index: 5;
-  opacity: 0.5;
-  border-radius: $border-radius 0 0 0;
-
-  @include breakpoint($large) {
-    padding: 5px 10px;
-  }
-
-  a {
-    color: #fff;
-    text-decoration: none;
-  }
+.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn, .page__hero--overlay #goog-wm-sb {
+	color: #fff;
+	text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
+}
 
 /* neon syntax highlighting (base16) */
 $base00: #ffffff !default;
