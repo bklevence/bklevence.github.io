@@ -5,6 +5,9 @@ permalink: /
 date: 2021-05-23T11:48:41-04:00
 header:
 
+{% assign author = page.author | default: page.authors[0] | default: site.author %}
+{% assign author = site.data.authors[author] | default: author %}
+
 {% if author.avatar %}
     <div class="author__avatar">
       {% if author.avatar contains "://" %}
@@ -12,6 +15,7 @@ header:
       {% else %}
         {% assign author_src = author.avatar | relative_url %}
       {% endif %}
+    </div>
 
   overlay_color: "#000"
   overlay_filter: "0.5"
