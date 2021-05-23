@@ -297,6 +297,10 @@ collections:
     output: true
     permalink: /:collection/:path/
     state: true
+  plants:
+    output: true
+    permalink: /:collection/:path/
+    state: true    
 
 
 
