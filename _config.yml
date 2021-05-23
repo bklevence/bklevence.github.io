@@ -18,10 +18,10 @@ minimal_mistakes_skin2: "neon"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "bk"
+title                    : "Brandon Klevence"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Brandon Klevence"
+name                     : "bk"
 description              : "Project work and blog."
 url                      : "https://bklevence.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -86,7 +86,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -111,8 +111,8 @@ analytics:
 author:
   name             : "Brandon Klevence"
   avatar           : "/assets/images/me.jpg"
-  bio              : "Educator & Shop Dude"
-  location         : "Morristown, NJ"
+  bio              : "Artificer"
+  location         : "NJ, USA"
   email            :
   links:
     - label: "Email"
@@ -132,7 +132,7 @@ author:
       url: "https://github.com/bklevence"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      # url: "https://instagram.com/senorKlev"
 
 # Site Footer
 footer:
