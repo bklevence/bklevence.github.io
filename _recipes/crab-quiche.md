@@ -1,6 +1,9 @@
 ---
 title: "Crab Quiche"
-tags: [Brunch, Cafe, Seafood]
+tags:
+  - Cafe
+  - Brunch
+  - Seafood
 ---
 
 I am pretty sure the cafe ripped this from John Travolta.
