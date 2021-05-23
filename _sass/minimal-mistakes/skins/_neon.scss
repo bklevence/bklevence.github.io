@@ -57,10 +57,10 @@ $base0f: #cc6633 !default;
 }
 
 .page__hero-caption {
-  color: #fff;
+  color: #fff !default ;
 
   a {
-    color: #fff;
+    color: #fff !default;
     text-decoration: none;
   }
 }
