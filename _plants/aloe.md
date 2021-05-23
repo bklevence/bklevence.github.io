@@ -1,6 +1,6 @@
 ---
 title: "Aloe Vera"
-  teaser: assets/images/plants/aloe.JPG
+teaser: /assets/images/plants/aloe.jpg
 ---
 
 Testing  
