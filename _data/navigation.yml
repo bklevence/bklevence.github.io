@@ -1,8 +1,8 @@
 # main links
 main:
-  - title: "Blog"
+  - title: "Writing"
     url: /year-archive/
-  - title: "CV"
+  - title: "Curriculum Vitae"
     url: /about/
   - title: "Work Samples"
     url: /portfolio
