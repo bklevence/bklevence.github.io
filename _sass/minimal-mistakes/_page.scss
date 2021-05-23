@@ -164,7 +164,7 @@
     .page__lead,
     .btn {
       color: #000;
-      text-shadow: 1px 1px 0px rgba(#FFF, 1);
+      text-shadow: 1px 1px 0px rgba(#FFF, 1),-1px 1px 0px #fff,1px 1px 0px #fff, 1px -1px 0px #fff, -1px -1px 0px #fff;
     }
 
     .page__lead {
