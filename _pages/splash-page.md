@@ -8,7 +8,7 @@ header:
 
 #  overlay_color: "#000"
 #  overlay_filter: "0.5"
-#  overlay_image: /assets/images/unsplash-image-1.jpg
+  overlay_image: /assets/images/unsplash-image-1.jpg
 #  caption: "Photo credit: [****](https://unsplash.com)"
 
 excerpt: "[He](http://my.pronoun.is/he) is an experienced [shop educator](https://en.wikipedia.org/wiki/Technology_education) whose general work and many interests are loosely documented on this site."
