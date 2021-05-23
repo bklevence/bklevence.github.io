@@ -2,7 +2,7 @@
 title: "Hutspot: Mashed Potato & Carrot"
 ---
 
-I wonder why Tootz made this very dutch recipe as a very East German woman. Affectionately spelled "Hudspud" in my fam. 
+I wonder why Tootz made this very dutch recipe as a very East German, New Jerseyan woman. Affectionately spelled "Hudspud" in my fam. 
 
  
 ## Tootz version
