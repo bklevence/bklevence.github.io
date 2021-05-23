@@ -19,3 +19,29 @@ title: "Midwest"
 
 ## Minneapolis
 - [X] Walker Art Center
+
+## Sandusky, OH
+
+- [X] Cedar Point
+- [X] Walmart Parking lot
+- [X] Planet Fitness
+- [X] Jessicas or some 24/7 Diner, decent food.
+
+## Detroit and Dearborn, MI
+
+- [X] John J. King Books
+- [X] Ford Museum
+- [X] John J. King Books
+- [X] Al Ameer, decent combo and chicken shwarma
+- [X] John J. King Books
+- [X] Ascension Brewing Company (on way from Detroit)
+- [ ] Jolly Pumpkin Artisan Ales (the OG)
+
+## Grand Haven and Grand Rapids, MI
+
+- [X] Speciation Artisan Ales, Sour Beer Mecca (35min from Bob)
+- [X] Frank's Meats
+- [X] Meijer
+- [X] The Deck
+- [ ] Clover Bar, pizza
+- [ ] Odd Side Ales

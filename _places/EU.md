@@ -1,5 +1,5 @@
 ---
-title: "Europe"
+title: "EU"
 toc: true
 toc_sticky: true
 categories: [Europe]

@@ -1,5 +1,5 @@
 ---
-title: "Trips to Boston"
+title: "New England"
 ---
 
 What's the better route we like?
@@ -15,6 +15,7 @@ What time of day?
 - [X] The Daily Catch
 - [X] Yume Wo Katare
 - [X] Saccos Bowling Haven
+- [X] Red Bone's BBQ?
 - [ ] Spectacle Island
 - [X] Artisan's Asylum
 - [ ] Aquarium
@@ -44,6 +45,14 @@ What time of day?
 
 - [ ] Big W's Roadside Bar B Que
 - [X] Nanuet Costco Gas
+- [X] Clyde, NY (Uncle Bob's house)
+- [X] Lisle Spring
+- [X] Old Goat Gear Exchange Ithaca
+- [X] Cayuga Lake Creamery
+- [X] Herkimer
+- [ ] 1000 Islands and Castle House
+- [X] White Hot Stand Soda's Point
+- [X] Stormking
 
 ## CT
 

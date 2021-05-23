@@ -1,5 +1,5 @@
 ---
-title: "Northern NJ"
+title: "NJ"
 ---
 
 ## Water Gap

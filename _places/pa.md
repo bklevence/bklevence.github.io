@@ -1,5 +1,5 @@
 ---
-title: "Philadelphia, PA"
+title: "Pennsylvania"
 state: "PA"
 ---
 
@@ -56,3 +56,28 @@ state: "PA"
 
 ## The Shore
 - [X] Khor's Bros
+
+## Pittsburgh, PA
+
+- [X] Dancing Gnome
+- [X] Cinderlands
+- [X] Hitchhiker
+- [X] Dancing Gnome
+- [X] Specialty Ales (sour place)
+- [ ] Grist House
+- [ ] Carnegie Museums
+- [X] Warhol Museum
+- [X] Mattress Factory
+- [X] Cog Railway
+- [X] Primanti Bros on the Strip
+- [X] Steak restaurant off of strip
+- [X] Third Something outdoor equipment shop
+- [ ] Calientes Pizza
+- [ ] Jacks bar, southside east, mid-day
+- [ ] Fodis bar, afternoon or evening
+- [ ] An a man radio skits
+- [ ] Quebec Run for hammock camping
+
+## Scranton-ish, Dobbs Ferry?
+
+- [X] Dobbs Country Kitchen
