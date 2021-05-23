@@ -337,7 +337,7 @@ defaults:
       share: false
   # _tools
   - scope:
-      path: ""
+      path: "_tools"
       type: tools
     values:
       layout: single
