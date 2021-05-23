@@ -1,17 +1,22 @@
 # main links
 main:
-  - title: "CV"
-    url: /about/
-  - title: "Work"
-    url: /portfolio
   - title: "Blog"
     url: /year-archive/
-  - title: "Places"
+  - title: "CV"
+    url: /about/
+  - title: "Work Samples"
+    url: /portfolio
+  - title: "Tools"
+    url: /tools/
+  - title: "Travel"
     url: /places/
   - title: "Recipes"
     url: /recipes-archive/
-  - title: "Tools"
-    url: /tools/
+  - title: "Plants"
+    url: /about/    
+  - title: "Media"
+    url: /about/ 
+
 
   # - title: "Sample Collections"
   #   url: /collection-archive/
