@@ -18,12 +18,6 @@ $masthead-link-color: $text-color !default;
 $masthead-link-color-hover: mix(#000, $text-color, 20%) !default;
 $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 
-
-.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn, .page__hero--overlay #goog-wm-sb {
-	color: #fff;
-	text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
-}
-
 /* neon syntax highlighting (base16) */
 $base00: #ffffff !default;
 $base01: #e0e0e0 !default;
@@ -60,4 +54,9 @@ $base0f: #cc6633 !default;
 
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
+}
+
+.page__hero--overlay .page__title, .page__hero--overlay .page__meta, .page__hero--overlay .comment__date, .page__hero--overlay .page__lead, .page__hero--overlay .btn, .page__hero--overlay #goog-wm-sb {
+	color: #fff;
+	text-shadow: 1px 1px 4px rgba(0,0,0,0.5);
 }
