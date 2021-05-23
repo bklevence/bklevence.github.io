@@ -1,5 +1,5 @@
 ---
-title: "bk"
+title: "bk (bee-key)"
 layout: splash
 permalink: /
 date: 2021-05-23T11:48:41-04:00
@@ -12,7 +12,5 @@ header:
 #  caption: "Photo credit: [****](https://unsplash.com)"
 
 
-excerpt: "bee-key
-
-[He](http://my.pronoun.is/he) is an experienced [shop educator](https://en.wikipedia.org/wiki/Technology_education) whose general work and many interests are loosely documented on this site."
+excerpt: "[He](http://my.pronoun.is/he) is an experienced [shop educator](https://en.wikipedia.org/wiki/Technology_education) whose general work and many interests are loosely documented on this site."
 ---
