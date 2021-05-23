@@ -3,7 +3,7 @@ layout: collection
 title: "Recipes"
 collection: recipes
 permalink: /recipes-archive/
-entries_layout: grid
+entries_layout: tags
 author_profile: false
 ---
 
