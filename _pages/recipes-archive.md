@@ -1,9 +1,8 @@
 ---
-layout: collection
+layout: tags
 title: "Recipes"
 collection: recipes
 permalink: /recipes-archive/
-entries_layout: tags
 author_profile: false
 ---
 
