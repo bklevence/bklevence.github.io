@@ -17,6 +17,8 @@ I am pretty sure the cafe ripped this from John Travolta.
 
 ### For filling
 
+Please note at the cafe we used some nice shredded canned crab meat instead of what's listed below. It allows for the quiche to not have any large "lumps" of meat. We'd then garnish the top of the quiche with some pieces of fresh meat. 
+
 * 1 (1-lb) king crab leg, thawed if frozen, or 1/2 lb lump crabmeat, picked over
 * 4 large eggs
 * 2 cups heavy cream
@@ -27,7 +29,7 @@ I am pretty sure the cafe ripped this from John Travolta.
 * 2 oz coarsely grated Monterey Jack cheese (1/2 cup)
 * 2 oz coarsely grated Swiss cheese (1/2 cup)
 
-Optional, I usually forgo or go even lighter than listed the herbs.
+Optional, I usually forgo or go even lighter than listed on the herbs, or use as a garnish.
 
 * 2 tablespoons finely chopped fresh chives
 * 2 tablespoons finely chopped fresh parsley
