@@ -13,11 +13,11 @@ main:
   - title: "Recipes"
     url: /recipes-archive/  
   - title: "Media"
-    url: /about/ 
+    url: /media/ 
   - title: "Pets"
-    url: /about/ 
+    url: /pets/ 
   - title: "Plants"
-    url: /about/  
+    url: /plants/  
 
 
   # - title: "Sample Collections"
