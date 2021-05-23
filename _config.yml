@@ -300,8 +300,6 @@ collections:
   plants:
     output: true
     permalink: /:collection/:path/
-    state: true    
-
 
 
 # Defaults

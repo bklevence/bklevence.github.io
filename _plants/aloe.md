@@ -1,7 +1,7 @@
 ---
 title: "Aloe Vera"
 header:
-teaser: /assets/images/plants/aloe.jpg
+teaser: assets/images/plants/aloe.jpg
 ---
 
 Testing  
