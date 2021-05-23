@@ -5,14 +5,14 @@ title: "Hutspot: Mashed Potato & Carrot"
 I wonder why Tootz made this very dutch recipe as a very East German woman. Affectionately spelled "Hudspud" in my fam. 
 
  
-##Tootz version
+## Tootz version
 
-###Ingredients:
+### Ingredients:
 * 5 potatoes 
 * 2 carrots
 * 1 onion
 
-###Instructions:
+### Instructions:
 1. Boil till tender 
 2. Mash
 3. Whip /Add butter milk salt pepper
@@ -20,14 +20,14 @@ I wonder why Tootz made this very dutch recipe as a very East German woman. Affe
 5. Top with 1/8 th inch slices of sharp white cheddar cheese 
 6. Melt in oven till bubbly golden brown
 
-##Lisa’s Version 
+## Lisa’s Version 
 
-###Ingredients 
+###  Ingredients 
 * 5 potatoes
 * 3 carrots
 * 1 onion
 
-###Instructions
+### Instructions
 1. Boil 3 carrots and 1 onion 
 2. About 1-1/2 hr(then cuisinart)
 3. Boil potatoes 1 hr (use ricer)
