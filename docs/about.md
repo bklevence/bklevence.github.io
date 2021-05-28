@@ -3,10 +3,20 @@ permalink: /about/
 title: "CV"
 excerpt: "About me, cv, etc."
 modified: 2016-04-18T16:39:37-04:00
-toc: true
-toc_sticky: true
+layout: default
 ---
+{: .no_toc }
 
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+---
 
 
 ## TL;DR
