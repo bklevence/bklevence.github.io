@@ -1,26 +1,9 @@
-# main links
 main:
-  - title: "Writing"
-    url: /year-archive/
-  - title: "Curriculum Vitae"
+  - title: "Posts"
+    url: /posts/
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "About"
     url: /about/
-  - title: "Work Samples"
-    url: /portfolio
-  - title: "Tools"
-    url: /tools/
-  - title: "Travel"
-    url: /places/
-  - title: "Recipes"
-    url: /recipes-archive/  
-  - title: "Media"
-    url: /media/ 
-  - title: "Pets"
-    url: /pets/ 
-  - title: "Plants"
-    url: /plants/  
-
-
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
