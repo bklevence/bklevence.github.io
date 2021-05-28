@@ -5,6 +5,7 @@
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+<<<<<<< HEAD
 @import "minimal-mistakes"; // main partials
 
 
@@ -43,3 +44,6 @@
 >>>>>>> parent of d0c569e6 (pppath)
   }
 }
+=======
+@import "minimal-mistakes"; // main partials
+>>>>>>> parent of 695672cd (testing css imports)
