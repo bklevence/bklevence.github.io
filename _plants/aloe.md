@@ -1,7 +1,7 @@
 ---
 title: "Aloe Vera"
 header:
-  # image:/assets/images/foo-bar-identity.jpg
+  #image:/assets/images/foo-bar-identity.jpg
   teaser: assets/images/plants/aloe.jpg
 ---
 
