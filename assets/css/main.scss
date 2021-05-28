@@ -10,12 +10,12 @@
 
 @media (prefers-color-scheme: light) {
   :root {
-    @import "assets\css\light.css"
+    @import "assets\css\light"
   }
 }
 
 @media (prefers-color-scheme: dark) {
   :root {
-    @import "assets\css\neondark.css"
+    @import "assets\css\neondark"
   }
 }
