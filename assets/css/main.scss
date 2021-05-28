@@ -5,45 +5,4 @@
 @charset "utf-8";
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-<<<<<<< HEAD
 @import "minimal-mistakes"; // main partials
-
-
-@media (prefers-color-scheme: light) {
-  :root {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    @import "assets\css\light.css"; 
-=======
-    @import "assets\css\light.css"
->>>>>>> parent of 1241f3cb (ok)
-=======
-    @import "assets\css\light.css"
->>>>>>> parent of 1241f3cb (ok)
-=======
-    @import "light.css"
->>>>>>> parent of d0c569e6 (pppath)
-  }
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-    @import "assets\css\neondark.css";
-=======
-    @import "assets\css\neondark.css"
->>>>>>> parent of 1241f3cb (ok)
-=======
-    @import "assets\css\neondark.css"
->>>>>>> parent of 1241f3cb (ok)
-=======
-    @import "neondark.css"
->>>>>>> parent of d0c569e6 (pppath)
-  }
-}
-=======
-@import "minimal-mistakes"; // main partials
->>>>>>> parent of 695672cd (testing css imports)
