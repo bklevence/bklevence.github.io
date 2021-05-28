@@ -6,3 +6,16 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    @import "light.css"
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    @import "neondark.css"
+  }
+}
