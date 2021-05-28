@@ -14,7 +14,7 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 minimal_mistakes_skin: "default"
-minimal_mistakes_skin2: "neon"
+
 
 # Site Settings
 locale                   : "en-US"
@@ -86,7 +86,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : 
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -369,5 +369,3 @@ defaults:
       layout: single
       author_profile: false
       share: false
-      
-      
