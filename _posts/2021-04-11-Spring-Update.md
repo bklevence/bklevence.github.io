@@ -1,10 +1,10 @@
 ---
-title: "Quick Update"
+title: "Spring Update"
 date: 2021-04-11 23:30
 author: bklevence
 ---
 
-***Quick Update***
+***Spring Update***
 
 I've been in a cleaning frenzy.
 
