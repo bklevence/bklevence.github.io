@@ -1,8 +1,8 @@
 ---
-title: "Raspberry Scones"
+title: "Roasted Stuffed Delacata"
 ---
 
-Served with creme fraiche and lemon curd at the cafe. 
+Originally done with pork, now impossible meat. 
 
 ## Ingredients
 
