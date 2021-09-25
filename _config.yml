@@ -14,6 +14,10 @@
 # remote_theme           : "mmistakes/minimal-mistakes"
 #minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 minimal_mistakes_skin: "default"
+minimal_mistakes_skin_dark: "dark"
+
+#logo: "/assets/brand/logo.svg"
+#logo_dark: "/assets/brand/logo_dark.svg"
 
 
 # Site Settings
