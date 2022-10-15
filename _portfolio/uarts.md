@@ -12,7 +12,7 @@ sidebar:
     image_alt: "logo"
     text: "Shop Manager"
   - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+    text: "You have to automate some things to free up your time to help folks."
 gallery:
   - url: /assets/images/laser-01.jpg
     image_path: assets/images/laser-01.jpg

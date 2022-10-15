@@ -13,15 +13,15 @@ toc_sticky: true
 
 - All about working with people in fabrication shop settings.
 - Human for a winking dog named Xena.
-- Gameboy Modder, Baker, Homebrewer, and former Web Store Operator.
-- Amateur Radio Handle: KD2RGZ
+- [Electronics hacker](https://github.com/bklevence), Baker, Homebrewer, Dungeon Master, and dislocated Philadelphian.
+- [KD2RGZ](https://www.qrz.com/db/KD2RGZ) on the [amateur bands](https://en.wikipedia.org/wiki/Amateur_radio).
 
 
 ## Work Experience
 
 ### Northern Valley Demarest
 
-Teacher of Technology and Engineering. Rewritten curriculum for Freshman Engineering Foundations, Engineering 1, and Senior STEM Capstone. Machine Shop Artificer and Table Top Gaming club Advisor. 2018-Present
+Teacher of Technology and Engineering. Rewritten curriculum for Freshman Technology & Engineering Foundations, Engineering 1, and Senior STEM Capstone courses. Machine Shop Artificer and Table Top Gaming club Advisor. 2018-Present
 
 ### The Workshop School
 
@@ -90,6 +90,8 @@ Training led by the Maker Education Initiative, Summer 2013.
 
 ### Speaking & Workshops
 
+- 2D Digital Fabrication 101, [NVCC PD offering](https://nvccleads.nvnet.org/) '22
+- Learn to Vinyl Cut, NVRHS Wellnessfest '21
 - ISTE Creativity Playground, ISTE ‘15
 - Noisebridge Panel and Workshop, ALA ‘15
 - oneKey Make & Take, DML‘15
