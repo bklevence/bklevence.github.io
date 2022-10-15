@@ -24,7 +24,13 @@ In order to form complex shapes, overhangs, and hinges/joints/free-moving object
 
 ## Dimension
 
-The Dimension SST 1200es I operated at UArts was a lemon. Material was the main culprit, but it was also an abused machine before I got to operate it.
+The Dimension SST 1200es I operated at UArts was a lemon. Material was the main culprit, but it was also an abused machine before I got to operate it. The 170 is okay, but when you print you're literally burning money.
+
+## Ultimaker
+
+**2+ Connect**
+
+Quite a good machine. From my own experience with various printers, this is the buy. I'd get one for myself if I needed one!
 
 ## Lulzbot
 
@@ -107,7 +113,7 @@ Really decent when they work. Can be very temper-mental. Does two materials well
 # SLA Printing
 
 ## Form 2?
-Super interesting printer, not student friendly. I spent 2 months servicing one that a student almost broke the year before I got to NVD. Definitely get a good UV box or clean sunny space.
+Super interesting printer, not student friendly. I spent 2 months servicing one that a student almost broke the year before I got to NVD. Definitely get a good UV box or clean sunny space. There is actually a horrible design flaw in the spring connectors between the printer and the resin basin...
 
 - [X] Inventory Material
 - [ ] Write up checklist for proper handling
