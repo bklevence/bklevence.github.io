@@ -21,11 +21,11 @@ toc_sticky: true
 
 ### Northern Valley Demarest
 
-Teacher of Technology and Engineering. Rewritten curriculum for Freshman Technology & Engineering Foundations, Engineering 1, and Senior STEM Capstone courses. Machine Shop Artificer and Table Top Gaming club Advisor. 2018-Present
+Tenured Teacher of Technology and Engineering with various courses such as Engineering Foundations, Engineering 1 CTE, and Senior Level CTE Capstone. Tasked with shop upkeep, curriculum and common assessment planning, training and mentorship for students and new faculty, digital fabrication workshops for our district, and I run a gardening and tabletop gaming club with the students.  2018-Present
 
 ### The Workshop School
 
-Manager of high school wood, metal, printing, and digital fabrication shops from 2016-2018. Advisor to Workshop Industries, an entrepreneurship club, netting $25k in craft item sales over 2 years. Technology and network administrator to chromebook fleet and faculty Apple laptops. My job description was long! 2016-2018
+Manager of highschool wood, metal, printing, and digital fabrication shops. Mentor of a student led afterschool design and fabrication business(made 20k profit at craft sales), FTC robotics club, as well as coding club and special elective. Acting I.T. network admin for a chromebook fleet, Windows and Apple labs, and loaner technology for a school of 300 students. Automated Google user management through GAM, streamlined deployment methods for students to take school benchmark, CTE assessments, and state mandated testing via chromebooks, as well as built simple webapps with students to manage technology hardware lending and use.   2016-2018
 
 ### University of the Arts
 **Pre-College Program**
@@ -34,7 +34,7 @@ Taught summer and fall semester classes on toy design, electronics, product desi
 
 **Industrial Design Shop**
 
-Assistant manager focused on maintaining digital fabrication resources and training. Facilitated classes ranging from graduate level prototyping classes, introductory workshop courses, and prospective student design workshops. Fullstack developer for many bespoke shop management systems.
+Night Manager focused on maintaining digital fabrication resources. Focused on training employees and students with wood, metal, and digital tools. Acted as an assistant and facilitator for various classes ranging from graduate level prototyping classes, introductory workshop courses, and prospective student design workshops. Designed, coded, and implemented digital file submission forms, digital file processing systems, and websites for the shop. 
 
 ### The Free Library of Philadelphia
 
