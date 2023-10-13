@@ -1,6 +1,6 @@
 ---
 title: "Fall '23 Update"
-date: 2023-10-23 10:15
+date: 2023-10-13 10:15
 author: bklevence
 ---
 
