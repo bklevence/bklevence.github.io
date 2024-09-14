@@ -9,7 +9,7 @@ sidebar:
   - title: "Responsibilities"
     text: "Curriculum Design, Instruction, Fabrication Training"
   - title: "Student Outcomes"
-    text: "Electronic Circuit Design & Fabrication, Radio Technology, Amateur Radio"
+    text: "Electronic Circuit Design & Fabrication, Radio Technology, Awareness of Amateur Radio "
   - title: "Materials"
     text: "Conductors, Components, 1-Side Copper PCBs, Tape Measures"
   - title: "Tools"
