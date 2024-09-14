@@ -12,6 +12,9 @@ sidebar:
     text: "3D Printing started in 1985 by hand."
 ---
 
+## Learning Resources
+Below is my basic info on FDM printing. A lot of my pedagogical practice is focused on 3D CAD modeling as evident on my Youtube. [link](https://www.youtube.com/@BrandonKlevence/videos)
+
 # FDM Printers
 
 ## How FDM 3D Printing Works.
@@ -30,7 +33,7 @@ The Dimension SST 1200es I operated at UArts was a lemon. Material was the main 
 
 **2+ Connect**
 
-Quite a good machine. From my own experience with various printers, this is the buy. I'd get one for myself if I needed one!
+Quite a good machine. From my own experience with various printers, this is the buy. I'd get one for myself if I needed one! The only issues I started running into were problems with the bowden tube after 100's of hours of prints. Updated clips and more tubing were needed. This machine was my "express lane" printer that students could utilize if iterating on a design. Which meant it was proven printable on a Lulzbot w/o issue it could also offer quality comperable to the Dimension. 
 
 ## Lulzbot
 
@@ -131,31 +134,31 @@ Done through shape-ways, link image from Ryans gift!
 
 Notes that need to get added into above or gcode...
 
-Working with Tolerance and Support Material.
+- [ ]Where is my intro to printing materials? 
 
-There are a few basic guidelines to follow when developing a model for printing. These won't help you edit a model; these are things to keep in mind when designing it.
+- [ ]Working with Tolerance and Support Material.
 
-Wall Thickness - The printer can print walls as thin as ~0.01", however these will not be structurally sound. Keep walls to a minimum of 0.04" for rigid structure.
+- [ ]There are a few basic guidelines to follow when developing a model for printing. These won't help you edit a model; these are things to keep in mind when designing it.
 
-Suspended Parts - It is possible to make joints by leaving some space between two interlocking parts; leave at least 0.02" or the printer may connect the two parts. If a part is threaded or must fit snugly, it is best to print it separately (when possible).
+- - [ ]Wall Thickness - The printer can print walls as thin as ~0.01", however these will not be structurally sound. Keep walls to a minimum of 0.04" for rigid structure.
 
-Model Interior settings:
+- - [ ]Suspended Parts - It is possible to make joints by leaving some space between two interlocking parts; leave at least 0.02" or the printer may connect the two parts. If a part is threaded or must fit snugly, it is best to print it separately (when possible).
 
-Solid: fills any interior space with 100% plastic. Strongest and most expensive option.
+- [ ]Model Interior settings:
 
-
-Sparse High Density: fills interior space with a grid pattern. Very strong and cheaper than Solid fill.
-
-
-Sparse Low Density: fills interior space with a grid pattern using less plastic than Sparse High Density. Uses the least plastic and is therefore the cheapest.
+- - [ ]Solid: fills any interior space with 100% plastic. Strongest and most expensive option.
 
 
-Support Fill settings:
-
-Minimal: uses the least amount of material and is therefore the cheapest option.
+- - [ ]Sparse High Density: fills interior space with a grid pattern. Very strong and cheaper than Solid fill.
 
 
-Sparse: uses more material than Minimal. Only necessary when printing complex overhangs or objects that require a high tolerance.
+- - [ ]Sparse Low Density: fills interior space with a grid pattern using less plastic than Sparse High Density. Uses the least plastic and is therefore the cheapest.
 
 
-Printer Capabilities:
+- [ ]Support Fill settings:
+
+- - [ ]Minimal: uses the least amount of material and is therefore the cheapest option.
+
+
+- - [ ]Sparse: uses more material than Minimal. Only necessary when printing complex overhangs or objects that require a high tolerance.
+
