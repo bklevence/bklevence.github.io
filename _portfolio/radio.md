@@ -16,23 +16,23 @@ sidebar:
   - title: "Tools"
     text: "All Shop Tooling, Electronics Kits, PCB Mill"
 gallery:
-  - url: /assets/images/radio/crystalradio1.jpg
-    image_path: /assets/images/radio/crystalradio1.jpg
+  - url: assets/images/radio/crystalradio1.jpg
+    image_path: assets/images/radio/crystalradio1.jpg
     alt: "placeholder image -2"
-  - url: /assets/images/radio/crystalradio2.jpg
-    image_path: /assets/images/radio/crystalradio2.jpg
+  - url: assets/images/radio/crystalradio2.jpg
+    image_path: assets/images/radio/crystalradio2.jpg
     alt: "placeholder image -1"
-  - url: /assets/images/radio/crystalradio3.jpg
-    image_path: /assets/images/radio/crystalradio3.jpg
+  - url: assets/images/radio/crystalradio3.jpg
+    image_path: assets/images/radio/crystalradio3.jpg
     alt: "placeholder image 0"
-  - url: /assets/images/radio/tapeyagi.jpg
-    image_path: /assets/images/radio/tapeyagi.jpg
+  - url: assets/images/radio/tapeyagi.jpg
+    image_path: assets/images/radio/tapeyagi.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/radio/solder1.jpg
-    image_path: /assets/images/radio/solder1.jpg
+  - url: assets/images/radio/solder1.jpg
+    image_path: assets/images/radio/solder1.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/radio/arduinoshield.jpg
-    image_path: /assets/images/radio/arduinoshield.jpg
+  - url: assets/images/radio/arduinoshield.jpg
+    image_path: assets/images/radio/arduinoshield.jpg
     alt: "placeholder image 4"
 ---
 
