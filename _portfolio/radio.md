@@ -6,7 +6,6 @@ header:
   teaser: /assets/images/radio/crystalradio1.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/radio/bantammill.png
     text: "Designer, Instructor, Fabricator"
   - title: "Responsibilities"
     text: "Curriculum Design, Instruction, Fabrication Training"
