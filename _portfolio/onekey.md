@@ -1,5 +1,6 @@
 ---
 title: "OneKey"
+last_modified_at: 2024-09-13T20:20:02-05:00
 excerpt: "Low cost digital hardware fabrication for makerspaces"
 toc: true
 header:
@@ -61,7 +62,9 @@ All vector files needed for vinylcutting reside in /Hardware.
 
 ![PCB2](https://i.imgur.com/VneJiBF.png)
 
-Looking to make a PCB kit, currently waiting for PCB to be milled. See the Eagle Schematics and Board files in /Hardware.
+Looking to make a PCB kit, currently waiting for PCB to be milled. See the Eagle Schematics and Board files in /Hardware on my github page.
+
+I have made a few iterations of this PCB, it's still in development and open sourced so you can try fabricating it yourself. I tried to update the design for one sided milling on a bantam mill I had access to. However I ran into many bugs mostly related to USB connections. As this project has been in development for 10 years an increased spend on a USB-C port is viable at this point as USB-A is being phased out in many places (although old library computers still have the old USB-A).
 
 **Quick-build(Still in Development)**  
 This build is solderless, can be built in less than an hour.
