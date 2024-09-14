@@ -10,6 +10,9 @@ sidebar:
     text: "Vinyl rolls or sheets"
 ---
 
+- [Youtube Tutorials I have made](https://www.youtube.com/watch?v=PJki4vz0VME&list=PLOp_3nQQSl_nJC55ekz_gUPkL9mpoWOQp&pp=gAQBiAQB)
+- 
+
 ## File Processing Checklist
 
 <input type="checkbox" name="0" value="0">Have Illustrator File<br>
@@ -43,11 +46,6 @@ sidebar:
 - If cutting through backing check pen force and force settings
 - I have extra blades from home as well as pen holder
 
-- [ ] Find Youtube Videos for machine setup/post
+- [X] Find Youtube Videos for machine setup/post
 - [X] Illustrator works with drivers on Cutter2 Laptop
-- [ ] Get links
 - [X] Take notes on procedure for machine checklist next time. Especially orientation.
-- [X] What blades? I have at home, in bucket kit now.
-- [ ] Stuff made get pix
-- [X] Use Illustrator files.
-- [ ] Just inventory everything.

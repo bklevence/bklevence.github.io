@@ -14,10 +14,10 @@ sidebar:
     text: "Wood, Metals, Plastics, PCBs"
 ---
 
-- [ ] Find Youtube Videos for machine setup/post
-- [ ] Find proper Eagle settings for sizing for soldering
-- [ ] How to clamps wood, metal?
-- [ ] Get links and docs from bantam site.
-- [ ] Whats the procedure for proper sizing to then export. any libraries?
+- Workshop Presentation has a basic overview of EasyEDA workflow [link](https://docs.google.com/presentation/d/1wFXR2XzHEUMcnEisuWfSKnHHPO786nNNVM1-aH49ChI/edit?usp=sharing)
 
-I have a hyperlinked doc on how to go from EasyEDA to the bantam that I need to upload. Eagle still works, but is harder to keep properly updated on student laptops. I also really need to get on with learning KiCAD.........
+- [The Crystal Radio PCB Design may be found here](https://oshwlab.com/brandonklevence/crystalradio)
+
+- [Bantam FAQ Workflow](https://support.bantamtools.com/hc/en-us/articles/360037787874-Light-Up-PCB-Badge)
+
+- [ ] Find or rebuild EasyEDA to Bantam hyperdoc. Probably lost in my old work email...
