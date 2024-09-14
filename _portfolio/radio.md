@@ -2,11 +2,11 @@
 title: "Radio Technology Unit"
 excerpt: "Electronics Design and Fabrication through the lense of radio technology."
 header:
-  image: /assets/images/badge-hero.jpg
-  teaser: /assets/images/badge-hero.jpg
+  image: /assets/images/radio/tapeyagigroup.jpg
+  teaser: /assets/images/radio/crystalradio1.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/badge-sidebar.png
+    image: /assets/images/bantammill.png
     image_alt: "Round table design workshop"
     text: "Designer, Instructor, Fabricator"
   - title: "Responsibilities"
@@ -18,32 +18,35 @@ sidebar:
   - title: "Tools"
     text: "All Shop Tooling, Electronics Kits, PCB Mill"
 gallery:
-  - url: /assets/images/badge-07.jpg
-    image_path: /assets/images/badge-07.jpg
+  - url: /assets/images/radio/crystalradio1.JPG
+    image_path: /assets/images/radio/crystalradio1.JPG
+    alt: "placeholder image -3"
+  - url: /assets/images/radio/crystalradio1.JPG
+    image_path: /assets/images/radio/crystalradio1.JPG
     alt: "placeholder image -2"
-  - url: /assets/images/badge-08.jpg
-    image_path: /assets/images/badge-08.jpg
+  - url: /assets/images/radio/crystalradio2.jpg
+    image_path: /assets/images/radio/crystalradio2.jpg
     alt: "placeholder image -1"
-  - url: /assets/images/badge-09.jpg
-    image_path: /assets/images/badge-09.jpg
+  - url: /assets/images/radio/crystalradio3.jpg
+    image_path: /assets/images/radio/crystalradio3.jpg
     alt: "placeholder image 0"
-  - url: /assets/images/badge-01.jpg
-    image_path: /assets/images/badge-01.jpg
+  - url: /assets/images/radio/tapeyagi.jpg
+    image_path: /assets/images/radio/tapeyagi.jpg
     alt: "placeholder image 1"
-  - url: /assets/images/badge-02.jpg
-    image_path: /assets/images/badge-02.jpg
+  - url: /assets/images/radio/solder1.jpg
+    image_path: /assets/images/radio/solder1.jpg
     alt: "placeholder image 2"
-  - url: /assets/images/badge-03.jpg
-    image_path: /assets/images/badge-03.jpg
+  - url: /assets/images/radio/solder2.jpg
+    image_path: /assets/images/radio/solder2.jpg
     alt: "placeholder image 3"
-  - url: /assets/images/badge-04.jpg
-    image_path: /assets/images/badge-04.jpg
+  - url: /assets/images/radio/arduinoshield.jpg
+    image_path: /assets/images/radio/arduinoshield.jpg
     alt: "placeholder image 4"
-  - url: /assets/images/badge-05.jpg
-    image_path: /assets/images/badge-05.jpg
+  - url: /assets/images/radio/tapeyagigroup.jpg
+    image_path: /assets/images/radio/tapeyagigroup.jpg
     alt: "placeholder image 5"
-  - url: /assets/images/badge-06.jpg
-    image_path: /assets/images/badge-06.jpg
+ - url: /assets/images/radio/amateurradio.jpg
+    image_path: /assets/images/radio/amateurradio.jpg
     alt: "placeholder image 6"
 ---
 
@@ -63,6 +66,6 @@ For the Antenna Design and Wayfinding portion of this unit students would learn 
 
 
 
-# {% include gallery caption="Various stages of the Radio Unit" %}
+ {% include gallery caption="Various stages of the Radio Unit" %}
 
 The greater part of the third project portion of this unit is thanks to support from ARRL and their Wireless Technology Education team. Not only have they helped with curriculum but also through grants for a classroom shack, gear for foxhunting, and materials of all kinds. This unit was the basis of my former Engineering 1 course and some of it's lesson plans are now in the ARRL Education Resources Archive. 
