@@ -2,7 +2,7 @@
 title: "Radio Technology Unit"
 excerpt: "Electronics Design and Fabrication through the lense of radio technology."
 header:
-  image: /assets/images/radio/ctapeyagigroup.jpg
+  image: /assets/images/radio/tapeyagigroup.jpg
   teaser: /assets/images/radio/crystalradio1.jpg
 sidebar:
   - title: "Role"
