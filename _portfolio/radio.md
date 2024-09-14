@@ -20,9 +20,6 @@ sidebar:
 gallery:
   - url: /assets/images/radio/crystalradio1.JPG
     image_path: /assets/images/radio/crystalradio1.JPG
-    alt: "placeholder image -3"
-  - url: /assets/images/radio/crystalradio1.JPG
-    image_path: /assets/images/radio/crystalradio1.JPG
     alt: "placeholder image -2"
   - url: /assets/images/radio/crystalradio2.jpg
     image_path: /assets/images/radio/crystalradio2.jpg
