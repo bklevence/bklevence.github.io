@@ -10,7 +10,7 @@ sidebar:
   - title: "UArts Capstone Project"
     image: assets/images/ok-sidebar.jpeg
     image_alt: "logo"
-    text: "2014"
+    text: "2014-Present"
   - title: "Materials"
     text: "3M Copper Tape, PCB Blanks, Hobbyist Electronics"
   - title: "Tools"
