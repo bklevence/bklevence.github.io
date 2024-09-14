@@ -50,6 +50,6 @@ A Crystal Radio reciever project allows for students to design, troubleshoot, an
 
 For the Antenna Design and Wayfinding portion of this unit students would learn about Amateur Radio, experience Wayfinding GPRS or Foxhunting, and understand various applications of radio tech. As this project ususally runs in the late spring students are tasked with creating a YAGI antenna using any means necessary in our shops. Most students opt to use the Tape Measure Yagi method, however others find whatever conductive materials make sense according to their choice of design. Adjacent to this students briefly revisit the Arduino Platform and learn how to create a transmitter circuit using their PCB design and fabrication skills. Finally the project culminates with students testing their anntenna and transmitters while hooked up to handheld radios(which you need a callsign to operate fully, re:Amateur Radio). 
 
-{% include gallery caption="Radio!" %}
+{% include gallery caption="This gallery gives you a some examples of the radio project." %}
 
 The greater part of the third project portion of this unit is thanks to support from ARRL and their Wireless Technology Education team. Not only have they helped with curriculum but also through grants for a classroom shack, gear for foxhunting, and materials of all kinds. This unit was the basis of my former Engineering 1 course and some of it's lesson plans are now in the ARRL Education Resources Archive. 
