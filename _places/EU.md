@@ -18,6 +18,14 @@ categories: [Europe]
 - [X] Normandy Beaches
 - [X] Paris Museum of Science
 - [X] Mont Saint-Michel
+- [X] Vachere
+- [X] le Tour
+- [X] Banon
+- [X] Nimes
+- [X] Creperie in Apt
+- [ ] Marseille
+- [ ] TGV from Paris
+- [ ] Observatory near Manosque
 
 ## Luxembourg
 - [X] National Museum of Military History (MNHM) Asbl

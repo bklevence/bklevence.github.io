@@ -18,7 +18,7 @@ What time of day?
 - [X] Red Bone's BBQ?
 - [ ] Spectacle Island
 - [X] Artisan's Asylum
-- [ ] Aquarium
+- [X] Aquarium
 - [ ] Giacomo's
 - [X] Trillium Brewing
 - [X] Yume Wo Katare
@@ -43,7 +43,7 @@ What time of day?
 
 ## NY
 
-- [ ] Big W's Roadside Bar B Que
+- [X] Big W's Roadside Bar B Que
 - [X] Nanuet Costco Gas
 - [X] Clyde, NY (Uncle Bob's house)
 - [X] Lisle Spring
