@@ -6,7 +6,7 @@ header:
   teaser: /assets/images/radio/crystalradio1.jpg
 sidebar:
   - title: "Role"
-    image: /assets/images/bantammill.png
+    image: /assets/images/radio/bantammill.png
     image_alt: "Round table design workshop"
     text: "Designer, Instructor, Fabricator"
   - title: "Responsibilities"
@@ -66,6 +66,6 @@ For the Antenna Design and Wayfinding portion of this unit students would learn 
 
 
 
- {% include gallery caption="Various stages of the Radio Unit" %}
+{% include gallery caption="Various stages of the Radio Unit" %}
 
 The greater part of the third project portion of this unit is thanks to support from ARRL and their Wireless Technology Education team. Not only have they helped with curriculum but also through grants for a classroom shack, gear for foxhunting, and materials of all kinds. This unit was the basis of my former Engineering 1 course and some of it's lesson plans are now in the ARRL Education Resources Archive. 
