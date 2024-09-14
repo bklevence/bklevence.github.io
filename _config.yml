@@ -116,7 +116,7 @@ author:
   name             : "Brandon Klevence"
   avatar           : "/assets/images/me.jpg"
   bio              : "I make stuff and like water."
-  location         : "NJ, USA"
+  location         : "MA, USA"
   email            :
   links:
     - label: "Email"
@@ -127,7 +127,7 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/kd2rgz"
+      # url: "https://twitter.com/kd2rgz"
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
