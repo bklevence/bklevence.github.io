@@ -15,34 +15,7 @@ sidebar:
     text: "Conductors, Components, 1-Side Copper PCBs, Tape Measures"
   - title: "Tools"
     text: "All Shop Tooling, Electronics Kits, PCB Mill"
-gallery:
-  - url: /assets/images/radio/crystalradio1.jpg
-    image_path: /assets/images/radio/crystalradio1.jpg
-    alt: "placeholder image -2"
-  - url: /assets/images/radio/crystalradio2.jpg
-    image_path: /assets/images/radio/crystalradio2.jpg
-    alt: "placeholder image -1"
-  - url: /assets/images/radio/crystalradio3.jpg
-    image_path: /assets/images/radio/crystalradio3.jpg
-    alt: "placeholder image 0"
-  - url: /assets/images/radio/tapeyagi.jpg
-    image_path: /assets/images/radio/tapeyagi.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/radio/solder1.jpg
-    image_path: /assets/images/radio/solder1.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/radio/solder2.jpg
-    image_path: /assets/images/radio/solder2.jpg
-    alt: "placeholder image 3"
-  - url: /assets/images/radio/arduinoshield.jpg
-    image_path: /assets/images/radio/arduinoshield.jpg
-    alt: "placeholder image 4"
-  - url: /assets/images/radio/tapeyagigroup.jpg
-    image_path: /assets/images/radio/tapeyagigroup.jpg
-    alt: "placeholder image 5"
- - url: /assets/images/radio/amateurradio.JPG
-    image_path: /assets/images/radio/amateurradio.JPG
-    alt: "placeholder image 6"
+
 ---
 
 In the Spring of 2018 I began work on a potential Amateur Radio project based curriculum aligned with an existing electronics design unit. I was focused on scaffolding student learning from basic electronics up to PCB design and fabrication. 
