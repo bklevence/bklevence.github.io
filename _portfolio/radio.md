@@ -34,9 +34,6 @@ gallery:
   - url: /assets/images/radio/arduinoshield.jpg
     image_path: /assets/images/radio/arduinoshield.jpg
     alt: "placeholder image 4"
-  - url: /assets/images/radio/tapeyagigroup.jpg
-    image_path: /assets/images/radio/tapeyagigroup.jpg
-    alt: "placeholder image 5"
 ---
 
 In the Spring of 2018 I began work on a potential Amateur Radio project based curriculum aligned with an existing electronics design unit. I was focused on scaffolding student learning from basic electronics up to PCB design and fabrication. 
