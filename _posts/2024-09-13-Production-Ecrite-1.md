@@ -6,6 +6,8 @@ author: bklevence
 
 ***Présentez-vous***
 
-J'mappelle Brandon
-J'ai trenet trois ans
+J'mappelle Brandon.
+
+J'ai trent-trois ans.
+
 Je viens des Etats Unis, je'suis Americain. 
