@@ -1,11 +1,10 @@
 ---
-title: "Production Ècrite"
-date: 2024-09-13 21:15
+title: "Production Ecrite 12: Quel repas de la journee preferez-vous et pourquoi?"
+date: 2024-11-1421:15
 author: bklevence
 ---
 
-***Présentez-vous***
+***Mon repas de la journee prefere***
 
-J'mappelle Brandon
-J'ai trenet trois ans
-Je viens des Etats Unis, j'suis americain. 
+J'aime le petit dejourne le weekend. J'adore manger un omellete avec du fromage et le pain grille ave de la sauce piquant. 
+Nouse allon a restaurant ou boulangerie chaque Samedi. Apres nous marchons nos quartier aven un cafe. Dans mon maison nouse mangeons le petit dejourne pour le dine chaque Jeudi!

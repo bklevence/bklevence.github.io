@@ -1,11 +1,10 @@
 ---
-title: "Production Ècrite"
-date: 2024-09-13 21:15
+title: "Production Ecrite 8: Chez Moi"
+date: 2024-10-30 21:15
 author: bklevence
 ---
 
-***Présentez-vous***
+***Chez Moi***
 
-J'mappelle Brandon
-J'ai trenet trois ans
-Je viens des Etats Unis, j'suis americain. 
+Chez moi, nouse somme trois, et un chien. 
+Mon marie s'appelle Helen, mon filks s'appelle Eugene, et mon chien s'apelle Xena. Je suis fils unique. Mon Helen sa deux frier, Max et Emmet. 

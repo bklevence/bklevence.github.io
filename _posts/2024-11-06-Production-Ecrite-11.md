@@ -1,11 +1,15 @@
 ---
-title: "Production Ècrite"
-date: 2024-09-13 21:15
+title: "Production Ecrite 11: Postcard"
+date: 2024-11-06 21:15
 author: bklevence
 ---
 
-***Présentez-vous***
+***Postcard***
 
-J'mappelle Brandon
-J'ai trenet trois ans
-Je viens des Etats Unis, j'suis americain. 
+Bonjour,
+
+Je suis a I'lle-du-Prince-Edouard au Canada. 
+C'est tres calme et froid. 
+Nous pêchons ici. 
+Je reviens dimanche!
+Bisous, a bientot!

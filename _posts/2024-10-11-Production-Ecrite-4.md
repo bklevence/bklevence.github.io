@@ -1,11 +1,11 @@
 ---
-title: "Production Ècrite"
-date: 2024-09-13 21:15
+title: "Production Ecrite 4: Vous êtes pour ou contre le covoiturage? "
+date: 2024-10-11 21:15
 author: bklevence
 ---
 
-***Présentez-vous***
+***Vous êtes pour ou contre le covoiturage? Porquoi?***
 
-J'mappelle Brandon
-J'ai trenet trois ans
-Je viens des Etats Unis, j'suis americain. 
+Je suis pour la covoiturage. 
+C'est bon pour la monde.
+J'ne pas boucoup coiture en la route. 

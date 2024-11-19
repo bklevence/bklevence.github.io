@@ -1,11 +1,13 @@
 ---
-title: "Production Ècrite"
-date: 2024-09-13 21:15
+title: "Production Ecrite 5: Questiions avec l'adjectif interrogatif QUEL"
+date: 2024-10-16 21:15
 author: bklevence
 ---
 
-***Présentez-vous***
+***Questiions avec l'adjectif interrogatif QUEL***
 
-J'mappelle Brandon
-J'ai trenet trois ans
-Je viens des Etats Unis, j'suis americain. 
+1. Quel est ton cinema préféré?
+2. QUelle glace aimes tu?
+3. Quelle heure est?
+4. QUel est ton passe-temp prefere?
+5. Tu préférés quelle couleur?

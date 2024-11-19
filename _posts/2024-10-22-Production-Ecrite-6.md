@@ -1,11 +1,13 @@
 ---
-title: "Production Ècrite"
-date: 2024-09-13 21:15
+title: "Production Ecrite 6: Mon quartier"
+date: 2024-10-22 21:15
 author: bklevence
 ---
 
-***Présentez-vous***
+***Mon Quartier***
 
-J'mappelle Brandon
-J'ai trenet trois ans
-Je viens des Etats Unis, j'suis americain. 
+J'habite a Somerville dans Massachusets sur une colline.
+Il y a beacucoup du jardins.
+Le supermarche est en bas de la coline.
+Il ya beacuoup de restaurants.
+Mon restaurant prefere est "the neighborhood' ou "le quartier". 
