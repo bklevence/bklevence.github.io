@@ -18,9 +18,9 @@ title: "Haluski: Cabbage & Noodles Casserole"
 
 1. Gather the ingredients.
 2. Cut the round onion slices in half and then in half again so each round yields 4 pieces.
-3. In a large skillet or Dutch oven, sauté the onion in 4 ounces of butter, stirring frequently over low heat, until very lightly caramelized. This could take 15 minutes or more.
+3. In a large skillet or Dutch oven, saute the onion in 4 ounces of butter, stirring frequently over low heat, until very lightly caramelized. This could take 15 minutes or more.
 4. Add the 1-inch cabbage pieces and remaining 4 ounces butter, salt, and pepper to taste, and 2 tablespoons of water, if necessary.
-5. Do not cover. Sauté slowly, stirring frequently over low heat, until the cabbage is tender but not brown (cook to al dente stage if baking in the oven). This could take 30 minutes or more.
+5. Do not cover. Saute slowly, stirring frequently over low heat, until the cabbage is tender but not brown (cook to al dente stage if baking in the oven). This could take 30 minutes or more.
 
  
 ## Stovetop Method

@@ -4,6 +4,6 @@ date: 2024-09-26 21:14
 author: bklevence
 ---
 
-***Présente une célébrité de ton choix***
+***Presente une celebrite de ton choix***
 
-Ma célébrité s'appelle Mr. Oizo. Il a cinquante ans. C'est un musicien français.
+Ma celebrite s'appelle Mr. Oizo. Il a cinquante ans. C'est un musicien français.

@@ -35,11 +35,11 @@ by Florence Coe, Chuck Coe, and Sharon Coe   		2/22/20
 
 ## Directions
 
-1. In the bottom of a large stock pot, place about 5/6 strips of bacon along with 4-6 cloves of garlic (diced small) and two links of Cajun Sausage (hot Italian sausage can be substituted).  Sauté together on high heat coating all with bacon drippings to prevent burning (start bacon first).
+1. In the bottom of a large stock pot, place about 5/6 strips of bacon along with 4-6 cloves of garlic (diced small) and two links of Cajun Sausage (hot Italian sausage can be substituted).  Saute together on high heat coating all with bacon drippings to prevent burning (start bacon first).
 
-2. Add celery, onions, peppers, (and mushrooms midway through this step if desired).  Sauté an additional 15 minutes after contents are heated.  Stir occasionally to prevent burning.
+2. Add celery, onions, peppers, (and mushrooms midway through this step if desired).  Saute an additional 15 minutes after contents are heated.  Stir occasionally to prevent burning.
 
-3. Add tomatoes, sugar (optional), and spices, bring to temperature, and sauté about 10 minutes more.
+3. Add tomatoes, sugar (optional), and spices, bring to temperature, and saute about 10 minutes more.
 
 You can pause here, and store overnight.  The flavors will mix well if this is done, but it is not necessary.
 
