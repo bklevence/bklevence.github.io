@@ -1,11 +1,9 @@
 ---
-title: "Production Ècrite"
-date: 2024-09-13 21:15
+title: "Production Ecrite 2: Presente une celebrite "
+date: 2024-09-26 21:14
 author: bklevence
 ---
 
-***Présentez-vous***
+***Présente une célébrité de ton choix***
 
-J'mappelle Brandon
-J'ai trenet trois ans
-Je viens des Etats Unis, j'suis americain. 
+Ma célébrité s'appelle Mr. Oizo. Il a cinquante ans. C'est un musicien français.

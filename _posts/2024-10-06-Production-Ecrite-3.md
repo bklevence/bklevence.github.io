@@ -1,11 +1,11 @@
 ---
-title: "Production Ècrite"
-date: 2024-09-13 21:15
+title: "Production Ecrite 3: Présente un auteur"
+date: 2024-10-6 21:15
 author: bklevence
 ---
 
-***Présentez-vous***
+***Présentez l'auteur de votre livre préféré***
 
-J'mappelle Brandon
-J'ai trenet trois ans
-Je viens des Etats Unis, j'suis americain. 
+Mon auteur est Cixin Liu. Ils est Chinois. Il a soixante ans. Il écrit de la science-fiction. 
+
+Mon livre préféré de mon auteur est "Three Body Problem ou "Les Problême des trois corps" en française. 
