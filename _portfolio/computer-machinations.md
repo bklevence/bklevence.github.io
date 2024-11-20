@@ -1,40 +1,30 @@
 ---
-title: "Shop Systems"
-excerpt: "Various digital tools I've made with students for the shop."
+title: "Computer Machinations"
+excerpt: "WIP narrative collection of strange hacks I've done"
 toc: true
 toc_sticky: true
 header:
-#  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/uarts-teaser.png
+#  image: 
+#  teaser: 
 sidebar:
   - title: "Role"
 #    image: http://placehold.it/350x250
     image_alt: "logo"
-    text: "Shop Manager"
-  - title: "Responsibilities"
-    text: "You have to automate some things to free up your time to help folks."
-gallery:
-  - url: /assets/images/laser-01.jpg
-    image_path: assets/images/laser-01.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/laser-02.jpg
-    image_path: assets/images/laser-02.jpg
-    alt: "placeholder image 2"
+    text: "Tinkerer"
+  - title: "Tools"
+    text: "Python, Processing, various design tools, and usually a thumbdrive."
+
 ---
-## Laser Queue
+## The Free-Net
 
-I spent a fair amount of free time making digital tools to replace paper systems for processing files at the University of the Arts Industrial Design Shop. I utilized Google Docs and Google Scripts to create a file submission form, technician back-end, and digital invoicing app all from the same shared Spreadsheet. No more paper looking around for papers after each cut and at the end of each semester!
+Back when I was just getting out of college as a poor art student I moved into my first apartment with a friend from High School. We each paid half of our monthly for a tiny two bedroom rowhome in South Philly. Money was tight! Anyways, in order to keep things cheap we decided to not get cable internet(maybe $35 a month, lol). At the time your local megacorp would have some rented Modem/Routers broadcast an additional SSID for their "public" wifi if you were a subscriber. Here is the kicker, they allowed free one hour sessions for anyone! If you looked past that each session was tied to your device MAC address, so if you changed it, you had as many free sessions as you liked. Unfortunately lost to time I created a Processing app that would run some simple python scripts to either randomize your MAC immediately, randomize it every hour, or set it back to it's original MAC address. The code is lost to time, but we had it on a thumbdrive for ourselves and any guests. Definietly a good story and we saved half a months rent($420) over our full lease!
 
-I've always wanted to come back to this and make it a stand-alone, google free, app. [For now the docs are on GitHub.](https://github.com/iduarts-shop/lasercut-job-request)
+ 
 
-{% include gallery id="gallery" layout="full" caption="A quick image of the rough technician interface and a sample invoice processed from a submission in the queue." %}
+## "Get off the internet BK"
 
-## ID UArts Shop Website
+In my 4th year at UArts I decided to try and disconnect myself from the internet as much as possible while researching my capstone. As a small "digital art" project as part of a creative coding class I rigged up a twitter bot to tweet a hashtag if a QR code was scanned. I placed posters around the Industrial Design department and the university campus. On my laptop a processing script was running in the background and would turn off my WiFi card for a number of minutes (upper limit 60) as deemed by whooever sent the tweet. It was a fun social experiment as I could see who had done the deed, and usually it would happen as I was actively researching or surfing the web in studio.
 
-[See Link](https://iduarts-shop.github.io/index.html)
+## Note:
 
-## Workshop School Schedule BK
-
-I needed a way to have advisors request my help during common advisory time in the morning. I created a web app using Google sheets for teachers to reserve myself, a shop space, or a tool during advisory time. I had it notify me when I was needed and kept the scheduler up on a digital display in the shop for all to see.
-
-![Shop Scheduler](/assets/images/scheduler-01.jpg)
+Some day I'll loop back with screenshots and maybe the code if I can find them buried in backups somewhere. I just really loved these projects/hacks and wanted to start to document them. 
