@@ -16,6 +16,22 @@ sidebar:
   - title: "Duration"
     text: "12 Weeks including introduction to Onshape and applicable mini-projects."
 ---
+
+>Some day I'll loop back with more samples of documentation and student products. I've been doing this project in some capacity since 2012 even with the advent of USB type C!
+
+## Project Summary
+
+Placeholder :)
+
+## Project Related Content Links (no urls yet)
+- ![USB Enclosure Design Methods Hyper Doc](about:blank)
+- ![Youtube Tutorials](about:blank)
+- ![Onshape Example Workspace](about:blank)
+
+## Student Product Gallery
+
+Placeholder :)
+
 ## Unit Objectives
 Students Will Know...
 - The definition of Computer Aided Design - CAD
@@ -72,4 +88,3 @@ Students Will Be Able To...
 
 
 
-Some day I'll loop back with more samples of documentation and student products. I've been doing this project in some capacity since 2012 even with the advent of USB type C!
