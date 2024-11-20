@@ -8,4 +8,4 @@ author: bklevence
 
 For some reason minimal mistakes, jekyll, and github pages are having a VERY rough time adding my written work from french class over the last 9 weeks.
 
-Hoping to get to the bottom of that soon, for now it seems like accents in filename and post titles is to blame? 
+Hoping to get to the bottom of that soon, for now it seems like accents in filename and post titles is to blame? Maybe just having 13 files with similar names? Who knows, lol.
