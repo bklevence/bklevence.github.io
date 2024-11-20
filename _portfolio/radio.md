@@ -52,4 +52,6 @@ For the Antenna Design and Wayfinding portion of this unit students would learn 
 
 {% include gallery caption="This gallery gives you a some examples of the radio project." %}
 
-A greater part of the third portion of this unit is thanks to support from ARRL and their Wireless Technology Education team. Not only have they helped with curriculum but also through grants for a classroom shack, gear for foxhunting, and materials of all kinds. This unit was the basis of my former Engineering 1 course and some of it's lesson plans are now in the ARRL Education Resources Archive. 
+A greater part of the third portion of this unit is thanks to support from ARRL and their Wireless Technology Education team. Not only have they helped with curriculum but also through grants for a classroom shack, gear for foxhunting, and materials of all kinds. This unit was the basis of my former Engineering 1 course and some of it's lesson plans are now in the ARRL Education Resources Archive. [Here is my copy!](https://docs.google.com/document/d/1tdSj6hotGqG20uwRSg-S59B6-8QFyRjK2d06mraNyxk/edit?usp=sharing)
+
+Additionally if you're interested in the PCB design, [see here](https://oshwlab.com/klevenceb/crystal-radio).
