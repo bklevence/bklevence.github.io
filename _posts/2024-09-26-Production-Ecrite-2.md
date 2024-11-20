@@ -1,5 +1,5 @@
 ---
-title: "Production Ecrite 2: Presente une celebrite "
+title: "Production Ecrite 2: Presente une celebrite"
 date: 2024-09-26 21:14
 author: bklevence
 ---

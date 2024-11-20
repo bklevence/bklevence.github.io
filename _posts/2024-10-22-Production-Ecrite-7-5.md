@@ -1,6 +1,6 @@
 ---
-title: "Production Ecrite 8: Quel est votre film prefere?"
-date: 2024-11-01 21:15
+title: "Production Ecrite 7.5: Quel est votre film prefere?"
+date: 2024-10-22 21:20
 author: bklevence
 ---
 
