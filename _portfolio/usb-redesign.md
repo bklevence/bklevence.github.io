@@ -24,13 +24,15 @@ sidebar:
 Placeholder :)
 
 ## Project Related Content Links (no urls yet)
-- ![USB Enclosure Design Methods Hyper Doc](about:blank)
-- ![Youtube Tutorials](about:blank)
-- ![Onshape Example Workspace](about:blank)
+- ![USB Enclosure Design Methods Hyper Doc](https://docs.google.com/document/d/1Zaaun0D5D60nypdz5G5pEum397fL1MHfgiMaF1aXZZE/edit?usp=sharing)
+- ![Youtube Tutorials](https://youtube.com/playlist?list=PLOp_3nQQSl_nUPKX_OayTT-FefRMg0S4y&si=Y0oL99liCbGQ0ueo)
+- ![Onshape Example Workspace](https://cad.onshape.com/documents/46f1a9a4abfa5cb8aaab8f1c/w/3147c24ee69a017dcedbd44f/e/98cc5f95e52824cb6c2a9d1e?renderMode=0&uiState=673e1b434e909518bdde5810)
 
 ## Student Product Gallery
 
 Placeholder :)
+
+Note to add various levels including the injection moulded hot glue version. 
 
 ## Unit Objectives
 Students Will Know...
