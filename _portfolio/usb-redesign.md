@@ -32,7 +32,7 @@ Placeholder :)
 
 Placeholder :)
 
-Note to add various levels including the injection moulded hot glue version. 
+Note: to add various levels including the injection moulded hot glue version. ALso, grab images from Onshape as web based programs are fleeting.
 
 ## Unit Objectives
 Students Will Know...
