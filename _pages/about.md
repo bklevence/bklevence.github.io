@@ -19,9 +19,15 @@ toc_sticky: true
 
 ## Work Experience
 
+### Library Maker Space Aide
+
+Maintain digital fabrication and multimedia production tools in the Somerville, MA High School Library Makerspace. Providing on-demand instruction to drop-in students throughout the day.
+Support Teachers in use of maker space and library resources.  2025-Present
+
+
 ### Consultant
 
-I've been doing a little design work and consulting as I've been a stay at home dad since late Fall 2023. Not flying under any flag in particular, just finding small managable projects as I can. 2023-Present
+I've been doing a little design work and consulting as I've been a stay at home dad since late Fall 2023. Not flying under any flag in particular, just finding small managable projects as I can while taking French lessons as time permits. 2023-Present
 
 ### Northern Valley Demarest
 
